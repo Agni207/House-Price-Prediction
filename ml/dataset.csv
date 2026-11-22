@@ -1,0 +1,1922 @@
+city,location,property_type,area,bedrooms,bathrooms,floors,property_age,parking,furnishing,condition,price
+Mumbai,Bandra,Apartment,1831,4,4,2,2,3,Unfurnished,Poor,63798000
+Mumbai,Bandra,Apartment,512,1,1,1,20,1,Furnished,Excellent,22870000
+Mumbai,Bandra,Apartment,1459,3,3,4,7,1,Unfurnished,Average,55598000
+Mumbai,Bandra,Apartment,998,2,2,3,7,2,Semi-Furnished,Poor,36156000
+Mumbai,Bandra,Villa,3692,6,6,1,20,1,Furnished,Good,199248000
+Mumbai,Bandra,Villa,1870,3,3,2,1,1,Unfurnished,Excellent,114720000
+Mumbai,Bandra,Villa,2641,4,4,1,5,3,Furnished,Poor,144407000
+Mumbai,Bandra,Villa,3179,4,4,1,15,2,Semi-Furnished,Average,155972000
+Mumbai,Bandra,Independent House,1990,3,3,2,10,1,Unfurnished,Average,83340000
+Mumbai,Bandra,Independent House,5464,6,6,1,15,2,Furnished,Excellent,310664000
+Mumbai,Bandra,Independent House,2881,4,4,3,5,3,Furnished,Excellent,205428000
+Mumbai,Bandra,Commercial,1200,1,2,2,20,2,Unfurnished,Poor,43354000
+Mumbai,Bandra,Commercial,4000,0,2,4,25,0,Semi-Furnished,Excellent,199914000
+Mumbai,Bandra,Commercial,2500,1,3,5,0,3,Furnished,Poor,143962000
+Mumbai,Bandra,Studio,624,1,1,1,5,3,Semi-Furnished,Poor,19801000
+Mumbai,Bandra,Studio,430,1,1,1,15,0,Furnished,Good,16341000
+Mumbai,Bandra,Studio,441,1,1,1,20,0,Furnished,Good,15728000
+Mumbai,Juhu,Apartment,1745,3,2,2,20,2,Unfurnished,Good,68257000
+Mumbai,Juhu,Apartment,760,1,1,1,3,2,Unfurnished,Poor,28911000
+Mumbai,Juhu,Apartment,830,1,1,2,15,2,Unfurnished,Good,34355000
+Mumbai,Juhu,Apartment,1621,3,3,3,10,3,Furnished,Good,89451000
+Mumbai,Juhu,Villa,4409,6,6,1,1,1,Unfurnished,Average,251280000
+Mumbai,Juhu,Villa,2108,3,3,1,3,0,Unfurnished,Good,118079000
+Mumbai,Juhu,Villa,2893,4,4,1,20,1,Furnished,Excellent,199741000
+Mumbai,Juhu,Villa,4411,5,5,1,1,3,Semi-Furnished,Good,306866000
+Mumbai,Juhu,Independent House,4454,5,5,3,1,0,Semi-Furnished,Good,266257000
+Mumbai,Juhu,Independent House,2095,3,3,3,15,1,Semi-Furnished,Average,100442000
+Mumbai,Juhu,Independent House,3637,4,4,2,20,0,Unfurnished,Poor,134859000
+Mumbai,Juhu,Commercial,850,0,4,4,15,1,Semi-Furnished,Poor,38435000
+Mumbai,Juhu,Commercial,1800,0,3,4,5,2,Furnished,Excellent,145142000
+Mumbai,Juhu,Commercial,850,1,1,5,20,0,Furnished,Good,48793000
+Mumbai,Juhu,Studio,649,1,1,1,15,2,Furnished,Average,25827000
+Mumbai,Juhu,Studio,610,1,1,1,1,1,Unfurnished,Poor,20576000
+Mumbai,Juhu,Studio,470,1,1,1,10,0,Furnished,Average,19367000
+Mumbai,Worli,Apartment,711,1,1,3,3,3,Furnished,Good,38699000
+Mumbai,Worli,Apartment,1424,3,2,3,1,0,Semi-Furnished,Poor,52307000
+Mumbai,Worli,Apartment,1135,2,1,1,3,1,Semi-Furnished,Average,47368000
+Mumbai,Worli,Apartment,1912,3,3,3,1,1,Semi-Furnished,Poor,77231000
+Mumbai,Worli,Villa,3717,6,6,3,3,3,Semi-Furnished,Average,235104000
+Mumbai,Worli,Villa,3136,4,4,1,1,3,Semi-Furnished,Good,198283000
+Mumbai,Worli,Villa,3759,4,4,2,2,3,Semi-Furnished,Excellent,288115000
+Mumbai,Worli,Villa,2143,3,3,1,20,0,Semi-Furnished,Average,98723000
+Mumbai,Worli,Independent House,2089,3,3,2,3,3,Unfurnished,Poor,89466000
+Mumbai,Worli,Independent House,5529,6,6,3,2,1,Unfurnished,Average,272300000
+Mumbai,Worli,Independent House,2085,3,3,2,3,1,Unfurnished,Poor,84577000
+Mumbai,Worli,Commercial,7000,0,4,2,3,2,Semi-Furnished,Good,424850000
+Mumbai,Worli,Commercial,850,0,1,2,10,1,Semi-Furnished,Poor,38883000
+Mumbai,Worli,Commercial,1200,1,4,5,7,0,Unfurnished,Good,61227000
+Mumbai,Worli,Studio,485,1,1,1,0,0,Furnished,Excellent,24987000
+Mumbai,Worli,Studio,510,1,1,1,10,2,Furnished,Poor,18130000
+Mumbai,Worli,Studio,645,1,1,1,3,1,Unfurnished,Excellent,26594000
+Mumbai,Lower Parel,Apartment,1815,3,2,4,1,3,Semi-Furnished,Good,80003000
+Mumbai,Lower Parel,Apartment,705,1,1,4,7,2,Furnished,Good,31727000
+Mumbai,Lower Parel,Apartment,1157,2,2,3,10,2,Unfurnished,Good,39886000
+Mumbai,Lower Parel,Apartment,1921,3,2,4,15,3,Unfurnished,Excellent,79001000
+Mumbai,Lower Parel,Villa,3399,4,4,3,25,1,Unfurnished,Average,125567000
+Mumbai,Lower Parel,Villa,3565,4,4,1,0,1,Semi-Furnished,Poor,153913000
+Mumbai,Lower Parel,Villa,4022,6,6,2,15,2,Unfurnished,Average,167163000
+Mumbai,Lower Parel,Villa,3165,3,3,1,10,1,Unfurnished,Excellent,155217000
+Mumbai,Lower Parel,Independent House,3729,4,4,2,2,2,Furnished,Good,205994000
+Mumbai,Lower Parel,Independent House,4293,5,5,3,10,2,Semi-Furnished,Average,183094000
+Mumbai,Lower Parel,Independent House,3984,5,5,1,5,2,Semi-Furnished,Average,165148000
+Mumbai,Lower Parel,Commercial,4000,0,3,2,5,1,Semi-Furnished,Poor,151795000
+Mumbai,Lower Parel,Commercial,1800,0,2,2,1,2,Semi-Furnished,Good,91923000
+Mumbai,Lower Parel,Commercial,500,1,2,4,10,2,Furnished,Poor,22939000
+Mumbai,Lower Parel,Studio,644,1,1,1,10,2,Unfurnished,Good,19231000
+Mumbai,Lower Parel,Studio,549,1,1,1,10,2,Furnished,Average,18847000
+Mumbai,Lower Parel,Studio,489,1,1,1,10,2,Unfurnished,Excellent,16844000
+Mumbai,Dadar,Apartment,2490,4,3,2,25,2,Unfurnished,Excellent,62263000
+Mumbai,Dadar,Apartment,1786,4,4,4,2,0,Semi-Furnished,Excellent,59036000
+Mumbai,Dadar,Apartment,1592,3,2,4,5,0,Semi-Furnished,Poor,37739000
+Mumbai,Dadar,Apartment,788,1,1,1,0,0,Unfurnished,Average,19390000
+Mumbai,Dadar,Villa,3629,6,6,2,1,2,Unfurnished,Excellent,157986000
+Mumbai,Dadar,Villa,2778,4,4,3,1,1,Semi-Furnished,Poor,91983000
+Mumbai,Dadar,Villa,3313,4,4,2,3,0,Furnished,Average,125335000
+Mumbai,Dadar,Villa,3867,4,4,1,25,0,Semi-Furnished,Excellent,131960000
+Mumbai,Dadar,Independent House,2481,3,3,1,10,2,Unfurnished,Excellent,86740000
+Mumbai,Dadar,Independent House,4336,5,5,1,20,3,Semi-Furnished,Excellent,146840000
+Mumbai,Dadar,Independent House,3969,6,6,1,5,2,Unfurnished,Excellent,141233000
+Mumbai,Dadar,Commercial,1800,2,3,1,15,1,Unfurnished,Excellent,58018000
+Mumbai,Dadar,Commercial,1200,1,3,5,5,2,Unfurnished,Average,37985000
+Mumbai,Dadar,Commercial,1800,2,4,5,3,3,Semi-Furnished,Excellent,82641000
+Mumbai,Dadar,Studio,358,1,1,1,1,1,Unfurnished,Excellent,9892000
+Mumbai,Dadar,Studio,506,1,1,1,25,1,Semi-Furnished,Good,10118000
+Mumbai,Dadar,Studio,631,1,1,1,7,1,Furnished,Excellent,19404000
+Mumbai,Andheri,Apartment,1014,2,1,1,20,3,Unfurnished,Average,18188000
+Mumbai,Andheri,Apartment,1607,3,2,1,3,1,Unfurnished,Good,34648000
+Mumbai,Andheri,Apartment,659,1,1,1,0,2,Semi-Furnished,Average,15763000
+Mumbai,Andheri,Apartment,1329,3,2,4,15,2,Semi-Furnished,Average,29904000
+Mumbai,Andheri,Villa,3949,4,4,1,1,2,Semi-Furnished,Poor,110890000
+Mumbai,Andheri,Villa,2170,3,3,2,1,1,Unfurnished,Excellent,78105000
+Mumbai,Andheri,Villa,4008,6,6,2,15,2,Semi-Furnished,Excellent,137492000
+Mumbai,Andheri,Villa,3722,6,6,1,3,3,Unfurnished,Good,119175000
+Mumbai,Andheri,Independent House,2865,4,4,1,2,0,Semi-Furnished,Excellent,93016000
+Mumbai,Andheri,Independent House,3400,5,5,2,5,3,Semi-Furnished,Poor,85090000
+Mumbai,Andheri,Independent House,3780,4,4,3,3,2,Unfurnished,Average,99405000
+Mumbai,Andheri,Commercial,7000,1,2,1,0,1,Semi-Furnished,Good,215247000
+Mumbai,Andheri,Commercial,4000,1,3,4,5,2,Furnished,Excellent,165023000
+Mumbai,Andheri,Commercial,500,2,4,3,25,1,Unfurnished,Poor,9191000
+Mumbai,Andheri,Studio,695,1,1,1,25,2,Unfurnished,Good,11415000
+Mumbai,Andheri,Studio,439,1,1,1,15,2,Furnished,Excellent,11571000
+Mumbai,Andheri,Studio,442,1,1,1,25,2,Furnished,Excellent,10481000
+Mumbai,Powai,Apartment,1595,3,2,1,2,1,Semi-Furnished,Excellent,40124000
+Mumbai,Powai,Apartment,2000,3,3,4,1,1,Semi-Furnished,Good,46144000
+Mumbai,Powai,Apartment,1898,3,2,4,0,1,Furnished,Good,51561000
+Mumbai,Powai,Apartment,1732,3,3,3,20,1,Semi-Furnished,Excellent,39663000
+Mumbai,Powai,Villa,3264,5,5,3,3,3,Unfurnished,Good,98771000
+Mumbai,Powai,Villa,4294,6,6,1,15,0,Furnished,Average,114889000
+Mumbai,Powai,Villa,3153,4,4,2,15,2,Unfurnished,Excellent,93039000
+Mumbai,Powai,Villa,3387,5,5,3,2,0,Semi-Furnished,Excellent,116631000
+Mumbai,Powai,Independent House,3842,6,6,2,5,2,Furnished,Excellent,136520000
+Mumbai,Powai,Independent House,3953,5,5,2,20,2,Semi-Furnished,Excellent,108251000
+Mumbai,Powai,Independent House,3891,4,4,3,10,1,Semi-Furnished,Poor,79566000
+Mumbai,Powai,Commercial,4000,1,4,4,2,2,Unfurnished,Average,103864000
+Mumbai,Powai,Commercial,1200,2,1,4,1,2,Semi-Furnished,Poor,30667000
+Mumbai,Powai,Commercial,7000,1,2,1,15,1,Semi-Furnished,Excellent,199598000
+Mumbai,Powai,Studio,518,1,1,1,20,2,Semi-Furnished,Excellent,10558000
+Mumbai,Powai,Studio,368,1,1,1,25,0,Unfurnished,Good,5402000
+Mumbai,Powai,Studio,396,1,1,1,10,0,Furnished,Poor,6523000
+Mumbai,Borivali,Apartment,1956,4,4,3,0,1,Semi-Furnished,Good,33338000
+Mumbai,Borivali,Apartment,1259,2,2,2,2,0,Furnished,Excellent,26237000
+Mumbai,Borivali,Apartment,1247,2,2,2,15,3,Semi-Furnished,Excellent,21634000
+Mumbai,Borivali,Apartment,793,1,1,2,1,2,Semi-Furnished,Good,13746000
+Mumbai,Borivali,Villa,4313,5,5,2,3,2,Semi-Furnished,Poor,78675000
+Mumbai,Borivali,Villa,4212,6,6,3,5,0,Furnished,Excellent,114285000
+Mumbai,Borivali,Villa,5674,6,6,3,0,2,Furnished,Excellent,178653000
+Mumbai,Borivali,Villa,3558,4,4,3,7,1,Furnished,Average,81124000
+Mumbai,Borivali,Independent House,3526,4,4,3,0,1,Semi-Furnished,Poor,58847000
+Mumbai,Borivali,Independent House,2495,4,4,2,10,1,Unfurnished,Average,39415000
+Mumbai,Borivali,Independent House,3188,4,4,1,5,2,Semi-Furnished,Good,62413000
+Mumbai,Borivali,Commercial,500,1,2,2,10,2,Semi-Furnished,Poor,8256000
+Mumbai,Borivali,Commercial,1200,0,1,4,7,3,Furnished,Good,29297000
+Mumbai,Borivali,Commercial,1200,2,1,2,15,0,Furnished,Good,24504000
+Mumbai,Borivali,Studio,463,1,1,1,1,3,Semi-Furnished,Good,7288000
+Mumbai,Borivali,Studio,409,1,1,1,2,0,Unfurnished,Good,5532000
+Mumbai,Borivali,Studio,409,1,1,1,1,1,Furnished,Average,6206000
+Mumbai,Malad,Apartment,1323,2,1,2,10,3,Unfurnished,Excellent,21439000
+Mumbai,Malad,Apartment,960,2,2,4,15,1,Semi-Furnished,Poor,11581000
+Mumbai,Malad,Apartment,1213,2,2,4,5,1,Unfurnished,Excellent,19416000
+Mumbai,Malad,Apartment,1175,2,2,3,3,1,Furnished,Average,18474000
+Mumbai,Malad,Villa,3807,6,6,1,7,1,Furnished,Poor,67113000
+Mumbai,Malad,Villa,4056,4,4,2,2,0,Furnished,Poor,73330000
+Mumbai,Malad,Villa,3584,4,4,3,7,0,Unfurnished,Good,62736000
+Mumbai,Malad,Villa,4133,5,5,1,15,2,Semi-Furnished,Poor,62684000
+Mumbai,Malad,Independent House,3734,4,4,3,20,1,Semi-Furnished,Poor,45932000
+Mumbai,Malad,Independent House,4612,5,5,3,1,2,Furnished,Excellent,110947000
+Mumbai,Malad,Independent House,2161,3,3,1,2,1,Furnished,Good,42918000
+Mumbai,Malad,Commercial,2500,2,3,4,20,2,Semi-Furnished,Poor,36245000
+Mumbai,Malad,Commercial,7000,0,2,4,15,1,Semi-Furnished,Good,127200000
+Mumbai,Malad,Commercial,1800,1,1,3,10,1,Furnished,Good,36477000
+Mumbai,Malad,Studio,428,1,1,1,15,0,Unfurnished,Poor,3648000
+Mumbai,Malad,Studio,399,1,1,1,7,1,Furnished,Poor,4807000
+Mumbai,Malad,Studio,637,1,1,1,20,1,Furnished,Poor,6623000
+Mumbai,Thane,Apartment,2699,4,4,3,25,1,Semi-Furnished,Poor,22185000
+Mumbai,Thane,Apartment,1050,2,2,1,7,2,Semi-Furnished,Poor,10478000
+Mumbai,Thane,Apartment,1528,3,3,3,0,1,Semi-Furnished,Good,20304000
+Mumbai,Thane,Apartment,889,2,1,1,2,3,Furnished,Poor,10145000
+Mumbai,Thane,Villa,3930,6,6,2,7,1,Semi-Furnished,Good,63785000
+Mumbai,Thane,Villa,4656,6,6,1,2,2,Unfurnished,Poor,58151000
+Mumbai,Thane,Villa,3897,5,5,2,5,1,Furnished,Poor,57452000
+Mumbai,Thane,Villa,2386,3,3,3,15,2,Furnished,Good,39781000
+Mumbai,Thane,Independent House,4696,5,5,1,3,1,Unfurnished,Average,58223000
+Mumbai,Thane,Independent House,2727,4,4,2,10,1,Unfurnished,Excellent,39160000
+Mumbai,Thane,Independent House,3342,4,4,2,1,2,Furnished,Poor,46330000
+Mumbai,Thane,Commercial,500,1,3,5,10,2,Semi-Furnished,Excellent,8834000
+Mumbai,Thane,Commercial,500,1,3,2,25,2,Furnished,Good,6807000
+Mumbai,Thane,Commercial,850,0,4,5,10,2,Unfurnished,Excellent,14469000
+Mumbai,Thane,Studio,523,1,1,1,3,1,Unfurnished,Poor,4274000
+Mumbai,Thane,Studio,408,1,1,1,20,2,Unfurnished,Good,3482000
+Mumbai,Thane,Studio,680,1,1,1,2,1,Unfurnished,Average,6231000
+Delhi,Defence Colony,Apartment,1170,2,2,4,15,2,Furnished,Excellent,56463000
+Delhi,Defence Colony,Apartment,1814,3,2,2,15,0,Semi-Furnished,Excellent,70677000
+Delhi,Defence Colony,Apartment,1235,2,2,3,15,2,Unfurnished,Poor,33406000
+Delhi,Defence Colony,Apartment,911,2,1,4,25,2,Furnished,Poor,27574000
+Delhi,Defence Colony,Villa,4928,6,6,3,15,2,Unfurnished,Poor,181143000
+Delhi,Defence Colony,Villa,3814,4,4,3,2,0,Unfurnished,Excellent,219715000
+Delhi,Defence Colony,Villa,4535,6,6,2,7,1,Semi-Furnished,Excellent,269155000
+Delhi,Defence Colony,Villa,3648,6,6,3,7,0,Semi-Furnished,Poor,150234000
+Delhi,Defence Colony,Independent House,3638,5,5,3,25,1,Semi-Furnished,Poor,111784000
+Delhi,Defence Colony,Independent House,3824,4,4,3,10,1,Furnished,Poor,151168000
+Delhi,Defence Colony,Independent House,4154,5,5,1,20,0,Furnished,Excellent,196860000
+Delhi,Defence Colony,Commercial,1200,0,3,2,3,1,Semi-Furnished,Average,53003000
+Delhi,Defence Colony,Commercial,850,0,1,3,1,2,Furnished,Poor,41034000
+Delhi,Defence Colony,Commercial,850,2,4,2,2,1,Furnished,Average,44155000
+Delhi,Defence Colony,Studio,372,1,1,1,10,1,Furnished,Average,12887000
+Delhi,Defence Colony,Studio,662,1,1,1,5,3,Semi-Furnished,Average,21977000
+Delhi,Defence Colony,Studio,508,1,1,1,15,1,Semi-Furnished,Excellent,17746000
+Delhi,Greater Kailash,Apartment,1367,2,1,2,3,2,Unfurnished,Good,40821000
+Delhi,Greater Kailash,Apartment,2046,3,3,1,5,0,Unfurnished,Good,57290000
+Delhi,Greater Kailash,Apartment,1471,3,3,2,15,1,Unfurnished,Excellent,43641000
+Delhi,Greater Kailash,Apartment,1628,3,3,3,3,0,Semi-Furnished,Poor,44401000
+Delhi,Greater Kailash,Villa,3536,4,4,1,5,2,Furnished,Average,164402000
+Delhi,Greater Kailash,Villa,3599,5,5,1,0,1,Unfurnished,Average,137552000
+Delhi,Greater Kailash,Villa,4522,6,6,2,3,1,Unfurnished,Poor,147497000
+Delhi,Greater Kailash,Villa,4353,6,6,2,25,2,Unfurnished,Average,137176000
+Delhi,Greater Kailash,Independent House,3200,4,4,2,3,2,Semi-Furnished,Average,119773000
+Delhi,Greater Kailash,Independent House,2512,3,3,1,20,2,Furnished,Poor,75055000
+Delhi,Greater Kailash,Independent House,2985,5,5,2,5,3,Unfurnished,Good,112643000
+Delhi,Greater Kailash,Commercial,850,1,1,5,7,1,Unfurnished,Good,32724000
+Delhi,Greater Kailash,Commercial,850,2,4,4,2,1,Unfurnished,Excellent,37139000
+Delhi,Greater Kailash,Commercial,500,0,2,1,7,1,Furnished,Excellent,25834000
+Delhi,Greater Kailash,Studio,628,1,1,1,15,1,Unfurnished,Average,13551000
+Delhi,Greater Kailash,Studio,374,1,1,1,7,1,Unfurnished,Good,9516000
+Delhi,Greater Kailash,Studio,554,1,1,1,15,2,Semi-Furnished,Average,13601000
+Delhi,Vasant Kunj,Apartment,1657,3,2,1,10,0,Semi-Furnished,Average,36593000
+Delhi,Vasant Kunj,Apartment,984,2,1,3,15,2,Furnished,Excellent,30584000
+Delhi,Vasant Kunj,Apartment,1523,3,2,4,5,3,Unfurnished,Poor,33413000
+Delhi,Vasant Kunj,Apartment,1562,3,3,2,25,3,Semi-Furnished,Poor,27836000
+Delhi,Vasant Kunj,Villa,3632,4,4,2,10,2,Unfurnished,Average,108855000
+Delhi,Vasant Kunj,Villa,3185,4,4,1,25,1,Furnished,Good,99133000
+Delhi,Vasant Kunj,Villa,2657,4,4,1,2,2,Furnished,Excellent,129172000
+Delhi,Vasant Kunj,Villa,2147,3,3,3,15,1,Furnished,Good,79420000
+Delhi,Vasant Kunj,Independent House,3169,5,5,1,15,1,Furnished,Excellent,116008000
+Delhi,Vasant Kunj,Independent House,3631,4,4,1,20,2,Semi-Furnished,Good,99550000
+Delhi,Vasant Kunj,Independent House,3729,4,4,1,1,1,Unfurnished,Average,102236000
+Delhi,Vasant Kunj,Commercial,1200,0,3,4,20,1,Furnished,Poor,30953000
+Delhi,Vasant Kunj,Commercial,4000,1,4,5,10,2,Furnished,Poor,120651000
+Delhi,Vasant Kunj,Commercial,4000,1,1,4,15,3,Furnished,Good,141189000
+Delhi,Vasant Kunj,Studio,632,1,1,1,25,1,Unfurnished,Excellent,12493000
+Delhi,Vasant Kunj,Studio,378,1,1,1,1,2,Unfurnished,Good,8319000
+Delhi,Vasant Kunj,Studio,515,1,1,1,3,1,Furnished,Good,13901000
+Delhi,Saket,Apartment,1089,2,1,2,5,2,Furnished,Poor,22724000
+Delhi,Saket,Apartment,1293,2,2,2,25,3,Furnished,Good,28204000
+Delhi,Saket,Apartment,1287,3,3,1,25,1,Furnished,Average,24045000
+Delhi,Saket,Apartment,1720,3,2,3,5,2,Unfurnished,Excellent,41465000
+Delhi,Saket,Villa,2606,3,3,2,10,2,Semi-Furnished,Average,69915000
+Delhi,Saket,Villa,3067,4,4,2,7,2,Unfurnished,Good,85001000
+Delhi,Saket,Villa,2320,3,3,1,5,2,Unfurnished,Average,57754000
+Delhi,Saket,Villa,4027,4,4,2,3,1,Semi-Furnished,Good,119227000
+Delhi,Saket,Independent House,3260,4,4,2,15,1,Semi-Furnished,Poor,60997000
+Delhi,Saket,Independent House,3833,5,5,1,25,1,Unfurnished,Poor,58874000
+Delhi,Saket,Independent House,5651,6,6,3,15,1,Furnished,Poor,128306000
+Delhi,Saket,Commercial,850,1,3,3,10,1,Unfurnished,Excellent,23242000
+Delhi,Saket,Commercial,850,2,3,5,5,0,Semi-Furnished,Excellent,28312000
+Delhi,Saket,Commercial,7000,1,1,2,1,2,Semi-Furnished,Good,207212000
+Delhi,Saket,Studio,537,1,1,1,2,1,Furnished,Excellent,13852000
+Delhi,Saket,Studio,373,1,1,1,0,1,Furnished,Good,8727000
+Delhi,Saket,Studio,615,1,1,1,15,1,Furnished,Average,11145000
+Delhi,Lajpat Nagar,Apartment,1588,3,2,3,20,2,Furnished,Excellent,33836000
+Delhi,Lajpat Nagar,Apartment,1091,2,1,3,1,2,Furnished,Good,24599000
+Delhi,Lajpat Nagar,Apartment,2528,4,3,3,25,2,Unfurnished,Poor,29525000
+Delhi,Lajpat Nagar,Apartment,1209,2,2,2,0,2,Furnished,Poor,21075000
+Delhi,Lajpat Nagar,Villa,3404,5,5,2,3,2,Furnished,Excellent,115423000
+Delhi,Lajpat Nagar,Villa,2811,3,3,1,20,1,Furnished,Excellent,74459000
+Delhi,Lajpat Nagar,Villa,3965,4,4,3,7,2,Semi-Furnished,Good,100401000
+Delhi,Lajpat Nagar,Villa,3873,4,4,3,5,1,Semi-Furnished,Good,97856000
+Delhi,Lajpat Nagar,Independent House,3512,5,5,3,5,1,Unfurnished,Excellent,83292000
+Delhi,Lajpat Nagar,Independent House,4731,5,5,1,5,0,Semi-Furnished,Poor,77724000
+Delhi,Lajpat Nagar,Independent House,4393,5,5,2,3,1,Furnished,Good,110528000
+Delhi,Lajpat Nagar,Commercial,1200,2,2,1,25,3,Furnished,Average,23268000
+Delhi,Lajpat Nagar,Commercial,2500,2,2,2,0,0,Semi-Furnished,Good,58373000
+Delhi,Lajpat Nagar,Commercial,4000,0,2,1,20,1,Semi-Furnished,Excellent,87258000
+Delhi,Lajpat Nagar,Studio,452,1,1,1,5,1,Semi-Furnished,Poor,6099000
+Delhi,Lajpat Nagar,Studio,395,1,1,1,25,1,Furnished,Poor,4846000
+Delhi,Lajpat Nagar,Studio,439,1,1,1,10,1,Unfurnished,Excellent,7215000
+Delhi,Karol Bagh,Apartment,1392,2,2,1,5,2,Furnished,Poor,21416000
+Delhi,Karol Bagh,Apartment,1131,2,1,2,20,2,Semi-Furnished,Average,15289000
+Delhi,Karol Bagh,Apartment,1048,2,1,2,0,3,Semi-Furnished,Good,18744000
+Delhi,Karol Bagh,Apartment,1040,2,1,3,1,2,Furnished,Poor,16274000
+Delhi,Karol Bagh,Villa,3090,4,4,1,5,2,Unfurnished,Excellent,72935000
+Delhi,Karol Bagh,Villa,3053,4,4,3,0,1,Furnished,Good,80337000
+Delhi,Karol Bagh,Villa,2739,3,3,2,2,2,Furnished,Good,71424000
+Delhi,Karol Bagh,Villa,2901,4,4,1,2,2,Unfurnished,Excellent,70376000
+Delhi,Karol Bagh,Independent House,4455,6,6,3,15,2,Furnished,Average,85292000
+Delhi,Karol Bagh,Independent House,5336,6,6,3,15,2,Furnished,Good,103963000
+Delhi,Karol Bagh,Independent House,3749,6,6,3,3,2,Furnished,Average,76958000
+Delhi,Karol Bagh,Commercial,1800,2,1,2,25,2,Unfurnished,Excellent,32703000
+Delhi,Karol Bagh,Commercial,850,1,4,4,25,0,Furnished,Excellent,18236000
+Delhi,Karol Bagh,Commercial,4000,1,1,4,5,0,Furnished,Average,84881000
+Delhi,Karol Bagh,Studio,373,1,1,1,10,1,Furnished,Poor,4639000
+Delhi,Karol Bagh,Studio,380,1,1,1,1,2,Unfurnished,Good,5250000
+Delhi,Karol Bagh,Studio,419,1,1,1,10,1,Semi-Furnished,Excellent,6696000
+Delhi,Dwarka,Apartment,1669,3,3,3,1,1,Furnished,Excellent,29735000
+Delhi,Dwarka,Apartment,2628,4,4,3,15,3,Furnished,Excellent,43258000
+Delhi,Dwarka,Apartment,1061,2,2,3,3,3,Unfurnished,Poor,11761000
+Delhi,Dwarka,Apartment,1715,3,3,2,1,0,Furnished,Poor,20609000
+Delhi,Dwarka,Villa,2015,3,3,2,15,1,Furnished,Average,34155000
+Delhi,Dwarka,Villa,2016,3,3,1,25,1,Furnished,Good,30966000
+Delhi,Dwarka,Villa,4043,4,4,1,10,1,Semi-Furnished,Poor,54782000
+Delhi,Dwarka,Villa,5400,6,6,3,10,2,Semi-Furnished,Poor,80904000
+Delhi,Dwarka,Independent House,4434,5,5,3,10,2,Unfurnished,Good,62155000
+Delhi,Dwarka,Independent House,4451,6,6,2,2,2,Unfurnished,Excellent,79569000
+Delhi,Dwarka,Independent House,4669,6,6,1,5,1,Semi-Furnished,Poor,59722000
+Delhi,Dwarka,Commercial,500,1,2,1,5,2,Furnished,Poor,7780000
+Delhi,Dwarka,Commercial,7000,0,2,4,3,1,Semi-Furnished,Poor,96804000
+Delhi,Dwarka,Commercial,4000,0,1,4,3,3,Furnished,Average,75484000
+Delhi,Dwarka,Studio,472,1,1,1,20,1,Semi-Furnished,Excellent,5349000
+Delhi,Dwarka,Studio,682,1,1,1,7,1,Semi-Furnished,Good,7709000
+Delhi,Dwarka,Studio,604,1,1,1,15,0,Furnished,Excellent,8038000
+Delhi,Pitampura,Apartment,1401,2,1,4,0,2,Unfurnished,Average,18126000
+Delhi,Pitampura,Apartment,2099,3,2,3,2,1,Semi-Furnished,Average,28472000
+Delhi,Pitampura,Apartment,1185,2,1,4,15,2,Unfurnished,Good,14442000
+Delhi,Pitampura,Apartment,2243,4,4,1,1,3,Unfurnished,Poor,25410000
+Delhi,Pitampura,Villa,2385,4,4,1,3,2,Semi-Furnished,Good,44856000
+Delhi,Pitampura,Villa,5727,6,6,2,0,0,Furnished,Excellent,136649000
+Delhi,Pitampura,Villa,5207,6,6,2,0,2,Furnished,Excellent,140404000
+Delhi,Pitampura,Villa,2420,4,4,3,2,1,Unfurnished,Good,45380000
+Delhi,Pitampura,Independent House,3511,4,4,2,10,2,Furnished,Average,61773000
+Delhi,Pitampura,Independent House,2720,4,4,3,0,0,Semi-Furnished,Excellent,53213000
+Delhi,Pitampura,Independent House,2816,5,5,3,2,0,Semi-Furnished,Excellent,55270000
+Delhi,Pitampura,Commercial,2500,1,1,5,0,1,Unfurnished,Excellent,50547000
+Delhi,Pitampura,Commercial,4000,0,3,5,25,3,Unfurnished,Average,56516000
+Delhi,Pitampura,Commercial,500,1,2,5,2,3,Semi-Furnished,Poor,8161000
+Delhi,Pitampura,Studio,638,1,1,1,3,2,Semi-Furnished,Good,8214000
+Delhi,Pitampura,Studio,421,1,1,1,1,2,Furnished,Good,6018000
+Delhi,Pitampura,Studio,573,1,1,1,3,0,Semi-Furnished,Excellent,8382000
+Delhi,Janakpuri,Apartment,933,2,1,4,3,1,Furnished,Excellent,15236000
+Delhi,Janakpuri,Apartment,2332,4,4,3,3,3,Unfurnished,Poor,22853000
+Delhi,Janakpuri,Apartment,1822,3,2,3,7,0,Unfurnished,Poor,16643000
+Delhi,Janakpuri,Apartment,1588,3,3,2,1,1,Semi-Furnished,Excellent,22920000
+Delhi,Janakpuri,Villa,4192,6,6,1,7,2,Unfurnished,Good,63860000
+Delhi,Janakpuri,Villa,2248,3,3,1,20,1,Furnished,Average,32513000
+Delhi,Janakpuri,Villa,2576,4,4,2,15,1,Unfurnished,Average,32278000
+Delhi,Janakpuri,Villa,3699,5,5,1,7,1,Unfurnished,Excellent,61647000
+Delhi,Janakpuri,Independent House,3001,4,4,2,0,2,Semi-Furnished,Excellent,54122000
+Delhi,Janakpuri,Independent House,3124,4,4,3,25,1,Semi-Furnished,Good,37027000
+Delhi,Janakpuri,Independent House,3056,4,4,2,7,1,Furnished,Excellent,56920000
+Delhi,Janakpuri,Commercial,1200,0,4,3,10,1,Unfurnished,Average,15123000
+Delhi,Janakpuri,Commercial,850,2,1,4,3,2,Semi-Furnished,Poor,11722000
+Delhi,Janakpuri,Commercial,4000,1,4,2,5,1,Semi-Furnished,Average,56949000
+Delhi,Janakpuri,Studio,543,1,1,1,1,2,Furnished,Excellent,7987000
+Delhi,Janakpuri,Studio,623,1,1,1,20,3,Semi-Furnished,Poor,5046000
+Delhi,Janakpuri,Studio,534,1,1,1,20,2,Furnished,Poor,4460000
+Delhi,Rohini,Apartment,1268,2,2,1,25,3,Furnished,Excellent,14312000
+Delhi,Rohini,Apartment,1442,2,2,1,1,1,Unfurnished,Average,12539000
+Delhi,Rohini,Apartment,1747,3,3,3,0,2,Unfurnished,Good,17599000
+Delhi,Rohini,Apartment,515,1,1,3,7,2,Unfurnished,Excellent,5560000
+Delhi,Rohini,Villa,2581,3,3,2,7,0,Semi-Furnished,Poor,27985000
+Delhi,Rohini,Villa,1902,3,3,3,1,3,Unfurnished,Average,24712000
+Delhi,Rohini,Villa,3870,6,6,2,15,1,Semi-Furnished,Average,43047000
+Delhi,Rohini,Villa,3868,5,5,3,3,2,Furnished,Excellent,71500000
+Delhi,Rohini,Independent House,2914,4,4,3,1,2,Unfurnished,Average,31796000
+Delhi,Rohini,Independent House,3066,4,4,3,15,2,Furnished,Good,38939000
+Delhi,Rohini,Independent House,4200,6,6,2,7,2,Furnished,Average,53610000
+Delhi,Rohini,Commercial,7000,2,3,5,25,0,Furnished,Average,75144000
+Delhi,Rohini,Commercial,1200,0,1,2,7,3,Unfurnished,Excellent,16425000
+Delhi,Rohini,Commercial,2500,0,4,4,2,2,Furnished,Average,36073000
+Delhi,Rohini,Studio,600,1,1,1,5,1,Unfurnished,Good,5020000
+Delhi,Rohini,Studio,667,1,1,1,0,1,Unfurnished,Excellent,6351000
+Delhi,Rohini,Studio,546,1,1,1,20,2,Furnished,Excellent,5461000
+Bangalore,Indiranagar,Apartment,1674,3,2,2,1,2,Unfurnished,Average,33200000
+Bangalore,Indiranagar,Apartment,1035,2,2,4,25,3,Semi-Furnished,Poor,16816000
+Bangalore,Indiranagar,Apartment,1330,2,2,4,20,1,Semi-Furnished,Poor,21886000
+Bangalore,Indiranagar,Apartment,2477,4,4,4,5,1,Unfurnished,Excellent,61871000
+Bangalore,Indiranagar,Villa,2751,3,3,1,25,3,Semi-Furnished,Excellent,77252000
+Bangalore,Indiranagar,Villa,3560,4,4,1,25,1,Furnished,Good,95261000
+Bangalore,Indiranagar,Villa,3077,4,4,2,5,2,Semi-Furnished,Poor,75120000
+Bangalore,Indiranagar,Villa,4678,5,5,3,2,3,Unfurnished,Average,128585000
+Bangalore,Indiranagar,Independent House,3914,4,4,3,10,2,Unfurnished,Good,94735000
+Bangalore,Indiranagar,Independent House,3927,5,5,1,10,2,Furnished,Good,111852000
+Bangalore,Indiranagar,Independent House,3176,4,4,2,25,0,Furnished,Poor,60963000
+Bangalore,Indiranagar,Commercial,4000,1,3,1,20,2,Unfurnished,Excellent,103786000
+Bangalore,Indiranagar,Commercial,1200,1,3,3,7,2,Furnished,Average,35693000
+Bangalore,Indiranagar,Commercial,7000,1,3,1,0,0,Furnished,Excellent,238345000
+Bangalore,Indiranagar,Studio,430,1,1,1,15,2,Unfurnished,Excellent,8063000
+Bangalore,Indiranagar,Studio,417,1,1,1,5,1,Semi-Furnished,Poor,6742000
+Bangalore,Indiranagar,Studio,478,1,1,1,1,1,Furnished,Average,9702000
+Bangalore,Koramangala,Apartment,2014,4,3,1,1,0,Unfurnished,Excellent,40807000
+Bangalore,Koramangala,Apartment,1532,3,3,1,7,0,Semi-Furnished,Average,26652000
+Bangalore,Koramangala,Apartment,1067,2,2,3,7,1,Unfurnished,Excellent,23157000
+Bangalore,Koramangala,Apartment,1206,2,2,1,25,3,Unfurnished,Excellent,21301000
+Bangalore,Koramangala,Villa,3281,4,4,2,25,3,Semi-Furnished,Average,68640000
+Bangalore,Koramangala,Villa,1931,3,3,3,10,1,Semi-Furnished,Good,52006000
+Bangalore,Koramangala,Villa,2686,4,4,1,20,2,Furnished,Good,72176000
+Bangalore,Koramangala,Villa,3054,3,3,2,3,2,Furnished,Average,92147000
+Bangalore,Koramangala,Independent House,3355,4,4,2,10,0,Unfurnished,Excellent,78615000
+Bangalore,Koramangala,Independent House,2339,3,3,2,7,1,Semi-Furnished,Excellent,61818000
+Bangalore,Koramangala,Independent House,3814,4,4,1,0,2,Unfurnished,Poor,70609000
+Bangalore,Koramangala,Commercial,500,0,4,5,5,3,Furnished,Excellent,17989000
+Bangalore,Koramangala,Commercial,500,1,2,3,1,1,Unfurnished,Average,11784000
+Bangalore,Koramangala,Commercial,2500,0,3,4,25,3,Furnished,Poor,50617000
+Bangalore,Koramangala,Studio,573,1,1,1,3,0,Unfurnished,Poor,7828000
+Bangalore,Koramangala,Studio,409,1,1,1,15,2,Furnished,Poor,6105000
+Bangalore,Koramangala,Studio,686,1,1,1,2,0,Unfurnished,Average,10542000
+Bangalore,HSR Layout,Apartment,1186,2,1,2,7,1,Furnished,Good,19980000
+Bangalore,HSR Layout,Apartment,649,1,1,4,5,2,Unfurnished,Good,9774000
+Bangalore,HSR Layout,Apartment,1847,3,2,3,0,2,Furnished,Average,31476000
+Bangalore,HSR Layout,Apartment,1382,2,2,2,20,0,Unfurnished,Poor,12813000
+Bangalore,HSR Layout,Villa,3503,5,5,1,0,2,Furnished,Excellent,94713000
+Bangalore,HSR Layout,Villa,3234,4,4,2,5,0,Furnished,Good,69272000
+Bangalore,HSR Layout,Villa,2179,3,3,1,10,0,Semi-Furnished,Good,41032000
+Bangalore,HSR Layout,Villa,3006,4,4,2,0,1,Unfurnished,Good,59136000
+Bangalore,HSR Layout,Independent House,3507,4,4,2,7,2,Semi-Furnished,Average,59572000
+Bangalore,HSR Layout,Independent House,5150,6,6,1,0,2,Unfurnished,Average,82947000
+Bangalore,HSR Layout,Independent House,2841,3,3,3,10,3,Furnished,Good,56258000
+Bangalore,HSR Layout,Commercial,850,2,4,4,0,1,Furnished,Good,18854000
+Bangalore,HSR Layout,Commercial,7000,0,4,3,15,3,Unfurnished,Poor,97133000
+Bangalore,HSR Layout,Commercial,7000,2,4,1,25,2,Unfurnished,Excellent,115558000
+Bangalore,HSR Layout,Studio,416,1,1,1,3,1,Semi-Furnished,Good,5820000
+Bangalore,HSR Layout,Studio,551,1,1,1,7,1,Semi-Furnished,Good,7026000
+Bangalore,HSR Layout,Studio,453,1,1,1,2,2,Unfurnished,Average,5275000
+Bangalore,Hebbal,Apartment,1703,3,3,3,3,2,Semi-Furnished,Excellent,28857000
+Bangalore,Hebbal,Apartment,549,1,1,2,7,1,Unfurnished,Average,6716000
+Bangalore,Hebbal,Apartment,1711,3,2,2,0,2,Semi-Furnished,Average,23305000
+Bangalore,Hebbal,Apartment,685,1,1,1,0,1,Unfurnished,Average,8670000
+Bangalore,Hebbal,Villa,3628,4,4,1,25,2,Semi-Furnished,Poor,44423000
+Bangalore,Hebbal,Villa,2267,3,3,2,2,0,Semi-Furnished,Poor,33904000
+Bangalore,Hebbal,Villa,3094,5,5,2,10,2,Unfurnished,Excellent,61764000
+Bangalore,Hebbal,Villa,2861,4,4,2,5,2,Unfurnished,Poor,42505000
+Bangalore,Hebbal,Independent House,3940,6,6,2,10,2,Semi-Furnished,Poor,50781000
+Bangalore,Hebbal,Independent House,3076,5,5,3,20,1,Furnished,Poor,42598000
+Bangalore,Hebbal,Independent House,3367,4,4,2,7,2,Furnished,Good,62549000
+Bangalore,Hebbal,Commercial,500,0,3,5,3,0,Semi-Furnished,Poor,7726000
+Bangalore,Hebbal,Commercial,2500,1,3,5,3,1,Unfurnished,Average,41024000
+Bangalore,Hebbal,Commercial,2500,1,1,2,25,2,Semi-Furnished,Average,33210000
+Bangalore,Hebbal,Studio,653,1,1,1,7,3,Furnished,Good,9723000
+Bangalore,Hebbal,Studio,364,1,1,1,7,2,Furnished,Average,4769000
+Bangalore,Hebbal,Studio,446,1,1,1,15,2,Semi-Furnished,Average,4788000
+Bangalore,Whitefield,Apartment,520,1,1,4,0,1,Furnished,Average,6664000
+Bangalore,Whitefield,Apartment,1290,2,2,1,2,2,Furnished,Average,15723000
+Bangalore,Whitefield,Apartment,1913,3,2,4,25,0,Semi-Furnished,Good,17041000
+Bangalore,Whitefield,Apartment,1327,2,1,3,2,3,Furnished,Good,17796000
+Bangalore,Whitefield,Villa,5347,6,6,2,5,1,Unfurnished,Poor,62258000
+Bangalore,Whitefield,Villa,4533,6,6,3,0,1,Furnished,Good,83481000
+Bangalore,Whitefield,Villa,4019,6,6,1,15,1,Semi-Furnished,Poor,42689000
+Bangalore,Whitefield,Villa,2513,4,4,3,7,2,Unfurnished,Good,34640000
+Bangalore,Whitefield,Independent House,2175,3,3,3,0,0,Semi-Furnished,Excellent,34393000
+Bangalore,Whitefield,Independent House,3867,4,4,2,7,2,Semi-Furnished,Poor,42794000
+Bangalore,Whitefield,Independent House,5113,6,6,1,2,2,Unfurnished,Poor,51261000
+Bangalore,Whitefield,Commercial,1200,1,1,1,7,1,Semi-Furnished,Average,15084000
+Bangalore,Whitefield,Commercial,500,2,3,5,25,2,Furnished,Poor,5571000
+Bangalore,Whitefield,Commercial,850,2,4,2,0,0,Semi-Furnished,Average,11508000
+Bangalore,Whitefield,Studio,559,1,1,1,20,3,Furnished,Good,5611000
+Bangalore,Whitefield,Studio,502,1,1,1,3,0,Unfurnished,Excellent,5145000
+Bangalore,Whitefield,Studio,601,1,1,1,2,0,Semi-Furnished,Poor,4763000
+Bangalore,JP Nagar,Apartment,1383,2,2,1,0,1,Unfurnished,Good,15646000
+Bangalore,JP Nagar,Apartment,1960,3,2,4,15,3,Semi-Furnished,Poor,18682000
+Bangalore,JP Nagar,Apartment,1485,3,2,2,15,0,Semi-Furnished,Excellent,17279000
+Bangalore,JP Nagar,Apartment,1412,2,2,2,1,0,Furnished,Good,18837000
+Bangalore,JP Nagar,Villa,4942,5,5,1,20,0,Semi-Furnished,Excellent,75046000
+Bangalore,JP Nagar,Villa,3965,5,5,2,5,0,Semi-Furnished,Poor,49177000
+Bangalore,JP Nagar,Villa,5467,6,6,3,2,0,Semi-Furnished,Average,83510000
+Bangalore,JP Nagar,Villa,3853,4,4,1,0,2,Unfurnished,Excellent,65485000
+Bangalore,JP Nagar,Independent House,3666,4,4,2,1,0,Semi-Furnished,Excellent,58070000
+Bangalore,JP Nagar,Independent House,3037,4,4,3,25,2,Furnished,Excellent,43945000
+Bangalore,JP Nagar,Independent House,2738,4,4,3,1,0,Furnished,Poor,35972000
+Bangalore,JP Nagar,Commercial,1200,2,4,3,10,3,Semi-Furnished,Excellent,19707000
+Bangalore,JP Nagar,Commercial,1800,1,2,5,25,3,Furnished,Excellent,29283000
+Bangalore,JP Nagar,Commercial,4000,1,2,1,15,1,Semi-Furnished,Poor,41463000
+Bangalore,JP Nagar,Studio,505,1,1,1,5,1,Semi-Furnished,Poor,4375000
+Bangalore,JP Nagar,Studio,466,1,1,1,2,1,Furnished,Excellent,6421000
+Bangalore,JP Nagar,Studio,514,1,1,1,5,3,Semi-Furnished,Poor,4428000
+Bangalore,Marathahalli,Apartment,1410,2,1,3,0,2,Unfurnished,Poor,10972000
+Bangalore,Marathahalli,Apartment,1686,3,3,2,3,1,Unfurnished,Average,13486000
+Bangalore,Marathahalli,Apartment,729,1,1,3,15,2,Semi-Furnished,Poor,5494000
+Bangalore,Marathahalli,Apartment,1150,2,2,4,25,2,Semi-Furnished,Good,9257000
+Bangalore,Marathahalli,Villa,3750,4,4,1,5,0,Semi-Furnished,Poor,36647000
+Bangalore,Marathahalli,Villa,5180,6,6,1,3,3,Unfurnished,Good,65607000
+Bangalore,Marathahalli,Villa,3647,6,6,3,0,2,Unfurnished,Average,44474000
+Bangalore,Marathahalli,Villa,2279,3,3,2,5,2,Semi-Furnished,Good,30080000
+Bangalore,Marathahalli,Independent House,3292,4,4,3,25,2,Furnished,Poor,27815000
+Bangalore,Marathahalli,Independent House,3402,4,4,3,5,1,Furnished,Poor,35778000
+Bangalore,Marathahalli,Independent House,4108,4,4,2,5,1,Furnished,Good,50458000
+Bangalore,Marathahalli,Commercial,7000,2,2,1,25,2,Furnished,Good,77588000
+Bangalore,Marathahalli,Commercial,500,2,4,3,5,2,Semi-Furnished,Excellent,7325000
+Bangalore,Marathahalli,Commercial,4000,2,2,3,3,3,Furnished,Excellent,69676000
+Bangalore,Marathahalli,Studio,693,1,1,1,7,2,Semi-Furnished,Average,5622000
+Bangalore,Marathahalli,Studio,635,1,1,1,2,1,Unfurnished,Excellent,5637000
+Bangalore,Marathahalli,Studio,482,1,1,1,20,1,Furnished,Good,3947000
+Bangalore,Sarjapur,Apartment,1105,2,1,3,7,1,Furnished,Good,11147000
+Bangalore,Sarjapur,Apartment,716,1,1,4,3,2,Unfurnished,Excellent,7471000
+Bangalore,Sarjapur,Apartment,1328,3,3,2,7,2,Furnished,Excellent,15150000
+Bangalore,Sarjapur,Apartment,1850,4,3,3,2,1,Furnished,Poor,15448000
+Bangalore,Sarjapur,Villa,2931,4,4,1,25,1,Semi-Furnished,Poor,22619000
+Bangalore,Sarjapur,Villa,4172,5,5,2,15,2,Unfurnished,Poor,35861000
+Bangalore,Sarjapur,Villa,3884,4,4,3,3,0,Furnished,Poor,44301000
+Bangalore,Sarjapur,Villa,2738,4,4,2,2,0,Semi-Furnished,Good,32434000
+Bangalore,Sarjapur,Independent House,2205,3,3,2,20,2,Furnished,Good,23129000
+Bangalore,Sarjapur,Independent House,2998,4,4,2,3,1,Semi-Furnished,Poor,26108000
+Bangalore,Sarjapur,Independent House,2548,4,4,3,20,1,Unfurnished,Good,22237000
+Bangalore,Sarjapur,Commercial,1800,0,3,5,25,0,Furnished,Poor,15768000
+Bangalore,Sarjapur,Commercial,7000,2,1,1,1,2,Semi-Furnished,Excellent,92268000
+Bangalore,Sarjapur,Commercial,1800,1,2,2,0,1,Semi-Furnished,Poor,17672000
+Bangalore,Sarjapur,Studio,488,1,1,1,25,2,Furnished,Average,3360000
+Bangalore,Sarjapur,Studio,403,1,1,1,20,3,Furnished,Poor,2633000
+Bangalore,Sarjapur,Studio,404,1,1,1,15,1,Furnished,Average,3104000
+Bangalore,Electronic City,Apartment,2070,3,2,3,2,0,Furnished,Excellent,21092000
+Bangalore,Electronic City,Apartment,2667,4,4,1,0,3,Unfurnished,Poor,16889000
+Bangalore,Electronic City,Apartment,2167,4,4,1,5,3,Unfurnished,Excellent,18599000
+Bangalore,Electronic City,Apartment,994,2,2,2,0,1,Semi-Furnished,Good,7786000
+Bangalore,Electronic City,Villa,2201,3,3,1,0,1,Furnished,Average,23581000
+Bangalore,Electronic City,Villa,4747,5,5,3,1,1,Semi-Furnished,Average,45985000
+Bangalore,Electronic City,Villa,4763,5,5,2,15,2,Furnished,Average,45524000
+Bangalore,Electronic City,Villa,2958,3,3,1,10,2,Semi-Furnished,Excellent,32376000
+Bangalore,Electronic City,Independent House,4571,5,5,1,2,2,Semi-Furnished,Poor,35600000
+Bangalore,Electronic City,Independent House,2924,5,5,3,7,0,Furnished,Average,27270000
+Bangalore,Electronic City,Independent House,3382,4,4,3,25,0,Semi-Furnished,Average,22403000
+Bangalore,Electronic City,Commercial,4000,2,4,2,20,2,Unfurnished,Poor,25369000
+Bangalore,Electronic City,Commercial,2500,0,4,4,2,0,Semi-Furnished,Good,23891000
+Bangalore,Electronic City,Commercial,500,1,2,5,10,2,Unfurnished,Poor,3672000
+Bangalore,Electronic City,Studio,643,1,1,1,15,0,Semi-Furnished,Excellent,4254000
+Bangalore,Electronic City,Studio,604,1,1,1,0,0,Semi-Furnished,Excellent,4514000
+Bangalore,Electronic City,Studio,631,1,1,1,0,0,Furnished,Good,4919000
+Bangalore,Yeshwanthpur,Apartment,1521,3,2,3,0,1,Semi-Furnished,Good,14734000
+Bangalore,Yeshwanthpur,Apartment,1792,3,2,1,1,3,Unfurnished,Poor,12976000
+Bangalore,Yeshwanthpur,Apartment,2688,4,3,1,0,1,Semi-Furnished,Average,23770000
+Bangalore,Yeshwanthpur,Apartment,2398,4,3,2,3,0,Semi-Furnished,Average,19851000
+Bangalore,Yeshwanthpur,Villa,3401,4,4,2,0,3,Furnished,Poor,43112000
+Bangalore,Yeshwanthpur,Villa,3915,5,5,3,2,2,Unfurnished,Poor,39013000
+Bangalore,Yeshwanthpur,Villa,4624,5,5,3,2,3,Furnished,Average,66344000
+Bangalore,Yeshwanthpur,Villa,2701,4,4,3,25,1,Furnished,Excellent,34862000
+Bangalore,Yeshwanthpur,Independent House,5788,6,6,1,5,2,Semi-Furnished,Good,61990000
+Bangalore,Yeshwanthpur,Independent House,2729,4,4,3,20,1,Furnished,Good,28995000
+Bangalore,Yeshwanthpur,Independent House,4820,6,6,1,25,3,Semi-Furnished,Good,44698000
+Bangalore,Yeshwanthpur,Commercial,4000,0,2,5,20,3,Furnished,Good,49470000
+Bangalore,Yeshwanthpur,Commercial,2500,1,4,5,25,3,Furnished,Excellent,33510000
+Bangalore,Yeshwanthpur,Commercial,1200,2,4,1,20,0,Unfurnished,Excellent,11380000
+Bangalore,Yeshwanthpur,Studio,693,1,1,1,0,1,Semi-Furnished,Average,5585000
+Bangalore,Yeshwanthpur,Studio,699,1,1,1,5,1,Unfurnished,Good,5002000
+Bangalore,Yeshwanthpur,Studio,627,1,1,1,0,1,Semi-Furnished,Poor,4329000
+Hyderabad,Banjara Hills,Apartment,2446,4,3,2,20,3,Semi-Furnished,Poor,45383000
+Hyderabad,Banjara Hills,Apartment,1642,3,3,1,5,1,Furnished,Excellent,51246000
+Hyderabad,Banjara Hills,Apartment,2448,4,4,2,5,2,Unfurnished,Poor,44619000
+Hyderabad,Banjara Hills,Apartment,1247,2,1,1,10,1,Furnished,Good,30488000
+Hyderabad,Banjara Hills,Villa,5232,6,6,2,15,3,Unfurnished,Poor,119579000
+Hyderabad,Banjara Hills,Villa,3551,4,4,3,25,3,Semi-Furnished,Excellent,118936000
+Hyderabad,Banjara Hills,Villa,4421,6,6,2,20,1,Unfurnished,Poor,95225000
+Hyderabad,Banjara Hills,Villa,3139,4,4,2,1,1,Unfurnished,Average,91782000
+Hyderabad,Banjara Hills,Independent House,2888,4,4,3,20,2,Furnished,Poor,65808000
+Hyderabad,Banjara Hills,Independent House,3241,4,4,3,25,1,Unfurnished,Good,69437000
+Hyderabad,Banjara Hills,Independent House,2439,3,3,3,5,0,Furnished,Good,76923000
+Hyderabad,Banjara Hills,Commercial,1800,2,4,1,5,3,Unfurnished,Good,51772000
+Hyderabad,Banjara Hills,Commercial,850,0,1,1,3,3,Furnished,Average,28992000
+Hyderabad,Banjara Hills,Commercial,7000,1,1,2,20,3,Furnished,Excellent,249481000
+Hyderabad,Banjara Hills,Studio,386,1,1,1,2,0,Semi-Furnished,Good,7885000
+Hyderabad,Banjara Hills,Studio,387,1,1,1,0,1,Semi-Furnished,Poor,7103000
+Hyderabad,Banjara Hills,Studio,466,1,1,1,5,2,Semi-Furnished,Excellent,11840000
+Hyderabad,Jubilee Hills,Apartment,1586,3,3,1,25,0,Furnished,Poor,29822000
+Hyderabad,Jubilee Hills,Apartment,667,1,1,3,5,2,Unfurnished,Good,17153000
+Hyderabad,Jubilee Hills,Apartment,1543,3,2,2,20,1,Unfurnished,Excellent,37434000
+Hyderabad,Jubilee Hills,Apartment,1507,3,2,3,0,2,Furnished,Average,43635000
+Hyderabad,Jubilee Hills,Villa,2588,3,3,3,20,0,Semi-Furnished,Average,73476000
+Hyderabad,Jubilee Hills,Villa,2868,4,4,3,2,1,Unfurnished,Average,91449000
+Hyderabad,Jubilee Hills,Villa,2602,4,4,3,25,0,Furnished,Excellent,95910000
+Hyderabad,Jubilee Hills,Villa,2082,3,3,2,1,1,Furnished,Excellent,101537000
+Hyderabad,Jubilee Hills,Independent House,2740,4,4,1,1,1,Furnished,Poor,81327000
+Hyderabad,Jubilee Hills,Independent House,3145,4,4,3,5,3,Furnished,Average,109373000
+Hyderabad,Jubilee Hills,Independent House,3711,4,4,1,0,1,Unfurnished,Average,102039000
+Hyderabad,Jubilee Hills,Commercial,1800,2,3,3,2,3,Furnished,Good,75141000
+Hyderabad,Jubilee Hills,Commercial,1800,1,3,3,15,2,Unfurnished,Average,48285000
+Hyderabad,Jubilee Hills,Commercial,7000,0,3,2,20,1,Semi-Furnished,Poor,163635000
+Hyderabad,Jubilee Hills,Studio,359,1,1,1,20,3,Unfurnished,Excellent,8115000
+Hyderabad,Jubilee Hills,Studio,458,1,1,1,0,2,Semi-Furnished,Excellent,13225000
+Hyderabad,Jubilee Hills,Studio,426,1,1,1,7,2,Unfurnished,Good,8842000
+Hyderabad,Hitec City,Apartment,1733,3,2,1,3,2,Furnished,Average,26601000
+Hyderabad,Hitec City,Apartment,1118,2,2,4,7,0,Unfurnished,Excellent,16095000
+Hyderabad,Hitec City,Apartment,1044,2,2,3,10,2,Semi-Furnished,Poor,11581000
+Hyderabad,Hitec City,Apartment,2107,4,3,3,25,2,Furnished,Average,25991000
+Hyderabad,Hitec City,Villa,3764,5,5,1,20,1,Semi-Furnished,Average,55952000
+Hyderabad,Hitec City,Villa,3683,4,4,2,15,2,Unfurnished,Average,55432000
+Hyderabad,Hitec City,Villa,2652,4,4,2,3,1,Unfurnished,Average,43355000
+Hyderabad,Hitec City,Villa,2705,3,3,2,1,2,Furnished,Excellent,70436000
+Hyderabad,Hitec City,Independent House,3796,6,6,1,3,0,Unfurnished,Average,50680000
+Hyderabad,Hitec City,Independent House,3587,6,6,1,0,1,Semi-Furnished,Average,56838000
+Hyderabad,Hitec City,Independent House,4186,5,5,3,0,3,Furnished,Good,90940000
+Hyderabad,Hitec City,Commercial,1800,0,4,4,2,1,Semi-Furnished,Average,32149000
+Hyderabad,Hitec City,Commercial,2500,0,3,2,7,2,Furnished,Poor,39826000
+Hyderabad,Hitec City,Commercial,850,1,1,1,3,2,Furnished,Excellent,20276000
+Hyderabad,Hitec City,Studio,660,1,1,1,1,1,Semi-Furnished,Poor,7171000
+Hyderabad,Hitec City,Studio,622,1,1,1,20,0,Unfurnished,Excellent,6886000
+Hyderabad,Hitec City,Studio,658,1,1,1,20,0,Furnished,Excellent,8772000
+Hyderabad,Gachibowli,Apartment,1422,2,1,2,15,2,Semi-Furnished,Poor,14092000
+Hyderabad,Gachibowli,Apartment,1147,2,2,3,25,2,Semi-Furnished,Good,12422000
+Hyderabad,Gachibowli,Apartment,2394,4,4,1,10,3,Unfurnished,Good,28193000
+Hyderabad,Gachibowli,Apartment,637,1,1,3,20,2,Furnished,Good,8459000
+Hyderabad,Gachibowli,Villa,4420,5,5,3,20,2,Unfurnished,Good,64817000
+Hyderabad,Gachibowli,Villa,3364,5,5,3,7,3,Semi-Furnished,Average,59976000
+Hyderabad,Gachibowli,Villa,2825,3,3,3,2,0,Unfurnished,Excellent,54797000
+Hyderabad,Gachibowli,Villa,5023,6,6,3,0,1,Semi-Furnished,Poor,79318000
+Hyderabad,Gachibowli,Independent House,3261,4,4,2,1,0,Semi-Furnished,Average,46540000
+Hyderabad,Gachibowli,Independent House,3486,6,6,2,25,3,Furnished,Good,52479000
+Hyderabad,Gachibowli,Independent House,3733,6,6,1,15,2,Unfurnished,Average,46184000
+Hyderabad,Gachibowli,Commercial,1200,2,2,1,25,2,Furnished,Average,16839000
+Hyderabad,Gachibowli,Commercial,500,2,3,2,0,1,Unfurnished,Good,8029000
+Hyderabad,Gachibowli,Commercial,4000,1,4,4,25,1,Furnished,Poor,51469000
+Hyderabad,Gachibowli,Studio,385,1,1,1,1,2,Semi-Furnished,Good,4674000
+Hyderabad,Gachibowli,Studio,491,1,1,1,3,2,Unfurnished,Excellent,6484000
+Hyderabad,Gachibowli,Studio,644,1,1,1,0,1,Unfurnished,Excellent,8215000
+Hyderabad,Madhapur,Apartment,1379,3,2,1,20,1,Furnished,Good,17884000
+Hyderabad,Madhapur,Apartment,1734,3,2,4,15,2,Unfurnished,Excellent,23332000
+Hyderabad,Madhapur,Apartment,601,1,1,3,10,1,Furnished,Poor,7380000
+Hyderabad,Madhapur,Apartment,997,2,1,3,1,2,Unfurnished,Excellent,15325000
+Hyderabad,Madhapur,Villa,3767,4,4,1,3,2,Furnished,Average,72189000
+Hyderabad,Madhapur,Villa,3701,4,4,1,3,1,Furnished,Good,73627000
+Hyderabad,Madhapur,Villa,1883,3,3,3,15,2,Unfurnished,Poor,25375000
+Hyderabad,Madhapur,Villa,3445,4,4,3,5,2,Unfurnished,Good,60315000
+Hyderabad,Madhapur,Independent House,3776,6,6,2,15,2,Unfurnished,Good,51316000
+Hyderabad,Madhapur,Independent House,2992,4,4,3,20,2,Semi-Furnished,Poor,33950000
+Hyderabad,Madhapur,Independent House,2858,4,4,2,7,2,Semi-Furnished,Average,43062000
+Hyderabad,Madhapur,Commercial,1200,0,4,5,7,1,Unfurnished,Excellent,22195000
+Hyderabad,Madhapur,Commercial,4000,1,3,3,10,1,Semi-Furnished,Average,61542000
+Hyderabad,Madhapur,Commercial,4000,2,2,1,5,1,Furnished,Excellent,87956000
+Hyderabad,Madhapur,Studio,450,1,1,1,2,3,Unfurnished,Excellent,6343000
+Hyderabad,Madhapur,Studio,440,1,1,1,10,2,Unfurnished,Good,4853000
+Hyderabad,Madhapur,Studio,503,1,1,1,5,2,Furnished,Poor,5636000
+Hyderabad,Kondapur,Apartment,1868,4,3,4,1,2,Furnished,Good,25133000
+Hyderabad,Kondapur,Apartment,1195,2,1,1,10,0,Semi-Furnished,Average,11193000
+Hyderabad,Kondapur,Apartment,2343,4,3,3,7,3,Furnished,Excellent,36035000
+Hyderabad,Kondapur,Apartment,2014,3,2,4,2,1,Furnished,Good,26436000
+Hyderabad,Kondapur,Villa,4607,6,6,1,2,1,Unfurnished,Good,62730000
+Hyderabad,Kondapur,Villa,3645,4,4,3,10,1,Semi-Furnished,Good,53810000
+Hyderabad,Kondapur,Villa,5728,6,6,1,2,0,Unfurnished,Average,72394000
+Hyderabad,Kondapur,Villa,2155,3,3,1,1,0,Semi-Furnished,Poor,25020000
+Hyderabad,Kondapur,Independent House,3789,5,5,1,5,2,Unfurnished,Poor,38024000
+Hyderabad,Kondapur,Independent House,3444,5,5,3,5,2,Furnished,Average,47575000
+Hyderabad,Kondapur,Independent House,2584,4,4,2,7,2,Semi-Furnished,Good,34111000
+Hyderabad,Kondapur,Commercial,4000,0,2,5,25,2,Furnished,Excellent,62969000
+Hyderabad,Kondapur,Commercial,2500,2,3,3,15,2,Unfurnished,Poor,24614000
+Hyderabad,Kondapur,Commercial,1800,1,3,2,5,0,Unfurnished,Average,20370000
+Hyderabad,Kondapur,Studio,590,1,1,1,20,0,Furnished,Excellent,6390000
+Hyderabad,Kondapur,Studio,594,1,1,1,5,0,Semi-Furnished,Good,5660000
+Hyderabad,Kondapur,Studio,353,1,1,1,20,1,Unfurnished,Excellent,3218000
+Hyderabad,Kukatpally,Apartment,1587,3,2,4,3,1,Unfurnished,Excellent,15313000
+Hyderabad,Kukatpally,Apartment,1892,3,2,3,10,1,Unfurnished,Average,13023000
+Hyderabad,Kukatpally,Apartment,724,1,1,4,3,1,Unfurnished,Average,5392000
+Hyderabad,Kukatpally,Apartment,1292,3,2,3,2,3,Semi-Furnished,Poor,9810000
+Hyderabad,Kukatpally,Villa,2334,4,4,2,10,1,Semi-Furnished,Good,25531000
+Hyderabad,Kukatpally,Villa,2480,3,3,1,0,1,Semi-Furnished,Poor,24119000
+Hyderabad,Kukatpally,Villa,2635,4,4,2,0,0,Furnished,Average,31828000
+Hyderabad,Kukatpally,Villa,3211,5,5,1,15,3,Unfurnished,Average,29659000
+Hyderabad,Kukatpally,Independent House,3778,4,4,3,0,3,Furnished,Poor,38672000
+Hyderabad,Kukatpally,Independent House,2543,4,4,3,3,0,Unfurnished,Excellent,26924000
+Hyderabad,Kukatpally,Independent House,3770,4,4,1,10,1,Unfurnished,Poor,26911000
+Hyderabad,Kukatpally,Commercial,1800,2,2,3,1,1,Unfurnished,Excellent,20778000
+Hyderabad,Kukatpally,Commercial,1200,2,1,1,7,3,Unfurnished,Poor,9530000
+Hyderabad,Kukatpally,Commercial,1200,0,3,4,3,0,Furnished,Excellent,16745000
+Hyderabad,Kukatpally,Studio,418,1,1,1,5,0,Semi-Furnished,Excellent,3528000
+Hyderabad,Kukatpally,Studio,627,1,1,1,15,1,Furnished,Average,4467000
+Hyderabad,Kukatpally,Studio,515,1,1,1,15,1,Furnished,Average,3530000
+Hyderabad,Ameerpet,Apartment,1141,2,1,4,0,3,Furnished,Excellent,13838000
+Hyderabad,Ameerpet,Apartment,697,1,1,3,1,3,Furnished,Excellent,7868000
+Hyderabad,Ameerpet,Apartment,2288,4,4,3,7,2,Furnished,Good,20516000
+Hyderabad,Ameerpet,Apartment,1755,3,3,2,0,1,Unfurnished,Excellent,15221000
+Hyderabad,Ameerpet,Villa,2583,3,3,3,15,2,Furnished,Good,28719000
+Hyderabad,Ameerpet,Villa,3205,4,4,1,3,3,Semi-Furnished,Poor,30026000
+Hyderabad,Ameerpet,Villa,2513,3,3,2,7,3,Unfurnished,Good,26072000
+Hyderabad,Ameerpet,Villa,2740,3,3,1,20,0,Unfurnished,Average,20814000
+Hyderabad,Ameerpet,Independent House,2844,4,4,1,25,3,Unfurnished,Excellent,24467000
+Hyderabad,Ameerpet,Independent House,4293,6,6,3,10,0,Unfurnished,Average,32947000
+Hyderabad,Ameerpet,Independent House,4090,6,6,3,25,2,Semi-Furnished,Good,33119000
+Hyderabad,Ameerpet,Commercial,7000,1,3,4,10,3,Semi-Furnished,Average,68793000
+Hyderabad,Ameerpet,Commercial,1800,0,3,3,15,2,Semi-Furnished,Poor,14330000
+Hyderabad,Ameerpet,Commercial,2500,1,1,5,2,1,Unfurnished,Good,26098000
+Hyderabad,Ameerpet,Studio,459,1,1,1,7,0,Furnished,Good,3584000
+Hyderabad,Ameerpet,Studio,611,1,1,1,20,2,Furnished,Average,3854000
+Hyderabad,Ameerpet,Studio,585,1,1,1,7,1,Unfurnished,Good,3700000
+Hyderabad,Secunderabad,Apartment,1502,3,2,1,25,2,Furnished,Average,9820000
+Hyderabad,Secunderabad,Apartment,2097,4,4,4,25,0,Furnished,Good,13935000
+Hyderabad,Secunderabad,Apartment,1550,3,2,3,10,2,Unfurnished,Average,10176000
+Hyderabad,Secunderabad,Apartment,2043,3,3,3,20,0,Semi-Furnished,Average,11984000
+Hyderabad,Secunderabad,Villa,2789,4,4,3,10,2,Furnished,Poor,25438000
+Hyderabad,Secunderabad,Villa,3533,4,4,1,7,0,Semi-Furnished,Poor,27591000
+Hyderabad,Secunderabad,Villa,2592,4,4,2,2,1,Semi-Furnished,Average,25156000
+Hyderabad,Secunderabad,Villa,3985,6,6,3,20,1,Unfurnished,Poor,26237000
+Hyderabad,Secunderabad,Independent House,3640,5,5,1,1,3,Semi-Furnished,Excellent,39586000
+Hyderabad,Secunderabad,Independent House,3017,4,4,3,0,1,Unfurnished,Good,26558000
+Hyderabad,Secunderabad,Independent House,4171,5,5,1,3,1,Furnished,Good,40293000
+Hyderabad,Secunderabad,Commercial,7000,2,1,1,0,1,Furnished,Average,72483000
+Hyderabad,Secunderabad,Commercial,500,1,3,1,5,2,Semi-Furnished,Poor,3839000
+Hyderabad,Secunderabad,Commercial,2500,2,2,2,20,2,Semi-Furnished,Excellent,24131000
+Hyderabad,Secunderabad,Studio,422,1,1,1,0,2,Furnished,Poor,2719000
+Hyderabad,Secunderabad,Studio,380,1,1,1,5,1,Furnished,Good,2725000
+Hyderabad,Secunderabad,Studio,685,1,1,1,0,0,Semi-Furnished,Good,4684000
+Hyderabad,LB Nagar,Apartment,2037,4,4,3,10,1,Semi-Furnished,Poor,10925000
+Hyderabad,LB Nagar,Apartment,2036,3,3,2,3,2,Semi-Furnished,Poor,10996000
+Hyderabad,LB Nagar,Apartment,1603,3,2,2,0,1,Furnished,Good,12118000
+Hyderabad,LB Nagar,Apartment,1096,2,1,1,5,2,Unfurnished,Good,6489000
+Hyderabad,LB Nagar,Villa,3971,4,4,1,1,3,Semi-Furnished,Average,34774000
+Hyderabad,LB Nagar,Villa,3725,6,6,3,7,2,Furnished,Average,34343000
+Hyderabad,LB Nagar,Villa,3479,4,4,1,2,1,Furnished,Average,31983000
+Hyderabad,LB Nagar,Villa,3538,4,4,1,7,0,Furnished,Poor,26041000
+Hyderabad,LB Nagar,Independent House,3754,4,4,2,10,2,Semi-Furnished,Excellent,33219000
+Hyderabad,LB Nagar,Independent House,2539,4,4,1,2,1,Unfurnished,Good,18275000
+Hyderabad,LB Nagar,Independent House,3872,6,6,1,0,1,Unfurnished,Excellent,31416000
+Hyderabad,LB Nagar,Commercial,1800,2,3,2,10,2,Semi-Furnished,Average,13022000
+Hyderabad,LB Nagar,Commercial,500,0,4,1,5,2,Unfurnished,Average,3591000
+Hyderabad,LB Nagar,Commercial,850,0,4,5,15,3,Semi-Furnished,Excellent,8338000
+Hyderabad,LB Nagar,Studio,568,1,1,1,10,0,Furnished,Excellent,3963000
+Hyderabad,LB Nagar,Studio,551,1,1,1,25,3,Furnished,Poor,2505000
+Hyderabad,LB Nagar,Studio,581,1,1,1,15,0,Unfurnished,Excellent,3231000
+Chennai,Mylapore,Apartment,721,1,1,2,5,2,Semi-Furnished,Good,12172000
+Chennai,Mylapore,Apartment,1188,2,1,1,20,1,Semi-Furnished,Excellent,17857000
+Chennai,Mylapore,Apartment,1483,3,3,4,10,1,Semi-Furnished,Poor,18835000
+Chennai,Mylapore,Apartment,1973,3,2,1,5,1,Furnished,Average,32909000
+Chennai,Mylapore,Villa,2170,3,3,2,7,0,Furnished,Excellent,58746000
+Chennai,Mylapore,Villa,4749,6,6,2,20,2,Unfurnished,Average,80378000
+Chennai,Mylapore,Villa,5367,6,6,1,2,1,Furnished,Poor,106995000
+Chennai,Mylapore,Villa,3596,4,4,2,2,0,Unfurnished,Average,63923000
+Chennai,Mylapore,Independent House,2473,4,4,2,20,0,Furnished,Excellent,49244000
+Chennai,Mylapore,Independent House,5014,6,6,2,15,0,Furnished,Poor,75140000
+Chennai,Mylapore,Independent House,4188,6,6,3,3,0,Unfurnished,Average,66021000
+Chennai,Mylapore,Commercial,500,1,2,1,25,2,Semi-Furnished,Good,8491000
+Chennai,Mylapore,Commercial,500,0,4,2,2,3,Semi-Furnished,Average,10532000
+Chennai,Mylapore,Commercial,2500,2,3,1,1,1,Semi-Furnished,Good,52660000
+Chennai,Mylapore,Studio,384,1,1,1,10,2,Unfurnished,Good,4896000
+Chennai,Mylapore,Studio,412,1,1,1,5,1,Furnished,Excellent,7531000
+Chennai,Mylapore,Studio,457,1,1,1,25,0,Unfurnished,Poor,3843000
+Chennai,Adyar,Apartment,2327,4,3,3,5,2,Furnished,Good,48239000
+Chennai,Adyar,Apartment,1804,3,2,4,2,2,Unfurnished,Good,32325000
+Chennai,Adyar,Apartment,598,1,1,2,25,2,Semi-Furnished,Poor,6892000
+Chennai,Adyar,Apartment,1908,3,3,2,5,1,Unfurnished,Good,29462000
+Chennai,Adyar,Villa,3980,6,6,1,7,1,Semi-Furnished,Poor,74207000
+Chennai,Adyar,Villa,2901,4,4,3,15,2,Unfurnished,Average,54239000
+Chennai,Adyar,Villa,4758,5,5,2,15,2,Furnished,Poor,96305000
+Chennai,Adyar,Villa,3450,4,4,2,20,2,Unfurnished,Average,60433000
+Chennai,Adyar,Independent House,3660,4,4,1,2,1,Unfurnished,Good,70963000
+Chennai,Adyar,Independent House,5513,6,6,3,10,1,Furnished,Poor,101894000
+Chennai,Adyar,Independent House,3489,4,4,3,0,1,Semi-Furnished,Poor,61463000
+Chennai,Adyar,Commercial,1200,0,4,3,3,2,Semi-Furnished,Average,24648000
+Chennai,Adyar,Commercial,7000,0,2,1,15,2,Unfurnished,Excellent,148974000
+Chennai,Adyar,Commercial,850,0,3,4,20,1,Semi-Furnished,Average,15363000
+Chennai,Adyar,Studio,400,1,1,1,20,3,Unfurnished,Average,4764000
+Chennai,Adyar,Studio,585,1,1,1,10,3,Furnished,Poor,7830000
+Chennai,Adyar,Studio,372,1,1,1,25,0,Semi-Furnished,Excellent,5231000
+Chennai,T Nagar,Apartment,659,1,1,3,3,1,Unfurnished,Average,8665000
+Chennai,T Nagar,Apartment,1601,3,3,3,2,1,Semi-Furnished,Poor,19911000
+Chennai,T Nagar,Apartment,1695,3,3,3,20,1,Semi-Furnished,Average,21506000
+Chennai,T Nagar,Apartment,1180,2,2,3,25,1,Furnished,Excellent,18246000
+Chennai,T Nagar,Villa,2609,3,3,1,1,2,Unfurnished,Poor,41622000
+Chennai,T Nagar,Villa,3630,4,4,3,15,2,Semi-Furnished,Good,69155000
+Chennai,T Nagar,Villa,3683,4,4,3,1,2,Furnished,Average,82103000
+Chennai,T Nagar,Villa,3052,5,5,3,15,2,Unfurnished,Average,48987000
+Chennai,T Nagar,Independent House,4005,6,6,2,2,3,Furnished,Good,88685000
+Chennai,T Nagar,Independent House,2940,4,4,1,15,0,Semi-Furnished,Excellent,51604000
+Chennai,T Nagar,Independent House,2829,4,4,3,25,1,Furnished,Poor,37890000
+Chennai,T Nagar,Commercial,7000,2,1,3,20,3,Unfurnished,Good,112537000
+Chennai,T Nagar,Commercial,2500,1,4,2,25,1,Furnished,Average,41261000
+Chennai,T Nagar,Commercial,500,1,3,2,25,2,Semi-Furnished,Good,7884000
+Chennai,T Nagar,Studio,470,1,1,1,2,3,Furnished,Poor,6357000
+Chennai,T Nagar,Studio,643,1,1,1,15,0,Furnished,Excellent,9536000
+Chennai,T Nagar,Studio,399,1,1,1,15,1,Semi-Furnished,Excellent,5329000
+Chennai,Anna Nagar,Apartment,718,1,1,4,0,0,Unfurnished,Average,9399000
+Chennai,Anna Nagar,Apartment,2496,4,4,4,20,1,Semi-Furnished,Excellent,35101000
+Chennai,Anna Nagar,Apartment,2603,4,3,4,7,0,Furnished,Poor,33538000
+Chennai,Anna Nagar,Apartment,1585,3,2,1,7,2,Unfurnished,Poor,16897000
+Chennai,Anna Nagar,Villa,2519,4,4,1,3,2,Furnished,Excellent,63878000
+Chennai,Anna Nagar,Villa,3734,5,5,3,3,3,Unfurnished,Excellent,79978000
+Chennai,Anna Nagar,Villa,4307,6,6,2,2,1,Furnished,Average,84916000
+Chennai,Anna Nagar,Villa,2551,3,3,3,15,3,Semi-Furnished,Average,42507000
+Chennai,Anna Nagar,Independent House,4776,5,5,3,10,2,Unfurnished,Excellent,83805000
+Chennai,Anna Nagar,Independent House,5364,6,6,2,3,1,Semi-Furnished,Poor,74742000
+Chennai,Anna Nagar,Independent House,3476,4,4,2,20,2,Semi-Furnished,Poor,43344000
+Chennai,Anna Nagar,Commercial,1800,2,3,1,25,2,Furnished,Poor,23085000
+Chennai,Anna Nagar,Commercial,2500,2,3,4,20,0,Furnished,Poor,34213000
+Chennai,Anna Nagar,Commercial,4000,2,1,5,25,1,Furnished,Poor,57213000
+Chennai,Anna Nagar,Studio,623,1,1,1,0,2,Semi-Furnished,Excellent,9626000
+Chennai,Anna Nagar,Studio,519,1,1,1,10,1,Semi-Furnished,Good,5966000
+Chennai,Anna Nagar,Studio,655,1,1,1,5,3,Furnished,Good,9284000
+Chennai,Nungambakkam,Apartment,1829,3,3,3,25,0,Semi-Furnished,Excellent,27038000
+Chennai,Nungambakkam,Apartment,1378,3,2,2,25,1,Semi-Furnished,Good,17793000
+Chennai,Nungambakkam,Apartment,638,1,1,3,2,1,Furnished,Average,11520000
+Chennai,Nungambakkam,Apartment,1983,3,3,2,25,1,Semi-Furnished,Excellent,31299000
+Chennai,Nungambakkam,Villa,3628,4,4,3,2,1,Furnished,Good,91816000
+Chennai,Nungambakkam,Villa,3467,4,4,1,2,2,Semi-Furnished,Excellent,90977000
+Chennai,Nungambakkam,Villa,4109,6,6,3,10,2,Semi-Furnished,Average,85600000
+Chennai,Nungambakkam,Villa,2952,5,5,2,7,2,Furnished,Poor,59210000
+Chennai,Nungambakkam,Independent House,4950,6,6,3,5,1,Semi-Furnished,Good,100977000
+Chennai,Nungambakkam,Independent House,3446,4,4,2,3,3,Furnished,Average,75721000
+Chennai,Nungambakkam,Independent House,2706,4,4,3,0,0,Unfurnished,Excellent,56106000
+Chennai,Nungambakkam,Commercial,4000,0,4,3,3,3,Semi-Furnished,Good,88763000
+Chennai,Nungambakkam,Commercial,2500,0,1,1,25,3,Unfurnished,Poor,33407000
+Chennai,Nungambakkam,Commercial,500,0,2,4,25,1,Unfurnished,Average,7319000
+Chennai,Nungambakkam,Studio,589,1,1,1,1,3,Semi-Furnished,Good,9652000
+Chennai,Nungambakkam,Studio,691,1,1,1,7,1,Unfurnished,Poor,7338000
+Chennai,Nungambakkam,Studio,381,1,1,1,10,2,Semi-Furnished,Poor,4389000
+Chennai,OMR,Apartment,955,2,1,2,25,2,Unfurnished,Excellent,7381000
+Chennai,OMR,Apartment,1881,3,3,4,5,0,Unfurnished,Poor,12484000
+Chennai,OMR,Apartment,2014,4,4,4,2,3,Furnished,Poor,19542000
+Chennai,OMR,Apartment,2078,4,3,4,25,0,Furnished,Excellent,19754000
+Chennai,OMR,Villa,4787,5,5,1,20,1,Unfurnished,Excellent,53861000
+Chennai,OMR,Villa,3216,5,5,2,7,3,Semi-Furnished,Excellent,45146000
+Chennai,OMR,Villa,2312,3,3,1,15,1,Furnished,Average,25394000
+Chennai,OMR,Villa,3199,3,3,1,5,3,Semi-Furnished,Poor,33523000
+Chennai,OMR,Independent House,3301,4,4,2,3,1,Unfurnished,Average,29497000
+Chennai,OMR,Independent House,3971,6,6,1,20,3,Semi-Furnished,Excellent,43465000
+Chennai,OMR,Independent House,4641,5,5,1,7,0,Semi-Furnished,Poor,37583000
+Chennai,OMR,Commercial,7000,0,4,5,2,3,Furnished,Average,98045000
+Chennai,OMR,Commercial,4000,0,2,4,0,2,Furnished,Poor,45480000
+Chennai,OMR,Commercial,850,2,1,2,0,1,Unfurnished,Excellent,10724000
+Chennai,OMR,Studio,652,1,1,1,1,0,Unfurnished,Excellent,5579000
+Chennai,OMR,Studio,665,1,1,1,3,0,Unfurnished,Excellent,5473000
+Chennai,OMR,Studio,697,1,1,1,10,1,Unfurnished,Average,4463000
+Chennai,Velachery,Apartment,1276,2,1,1,1,1,Unfurnished,Excellent,11402000
+Chennai,Velachery,Apartment,1238,2,2,1,2,0,Furnished,Excellent,13605000
+Chennai,Velachery,Apartment,689,1,1,1,2,0,Furnished,Good,6398000
+Chennai,Velachery,Apartment,1821,3,3,3,20,2,Semi-Furnished,Average,13469000
+Chennai,Velachery,Villa,5165,6,6,1,15,2,Unfurnished,Good,49387000
+Chennai,Velachery,Villa,2467,3,3,1,20,0,Furnished,Good,26753000
+Chennai,Velachery,Villa,4655,6,6,3,3,1,Unfurnished,Average,46159000
+Chennai,Velachery,Villa,3538,4,4,2,2,1,Furnished,Poor,37095000
+Chennai,Velachery,Independent House,2878,4,4,2,7,2,Semi-Furnished,Poor,23221000
+Chennai,Velachery,Independent House,2899,3,3,1,0,2,Furnished,Poor,27335000
+Chennai,Velachery,Independent House,3657,4,4,3,7,2,Unfurnished,Good,34104000
+Chennai,Velachery,Commercial,1200,0,2,1,3,3,Semi-Furnished,Average,12450000
+Chennai,Velachery,Commercial,500,0,4,5,15,0,Semi-Furnished,Average,4511000
+Chennai,Velachery,Commercial,1800,2,2,4,7,1,Semi-Furnished,Average,18388000
+Chennai,Velachery,Studio,488,1,1,1,3,1,Unfurnished,Poor,2866000
+Chennai,Velachery,Studio,380,1,1,1,5,1,Unfurnished,Excellent,3015000
+Chennai,Velachery,Studio,437,1,1,1,7,1,Semi-Furnished,Average,3070000
+Chennai,Sholinganallur,Apartment,2645,4,4,1,10,2,Semi-Furnished,Average,19121000
+Chennai,Sholinganallur,Apartment,1568,3,3,2,7,2,Furnished,Average,13652000
+Chennai,Sholinganallur,Apartment,2105,3,3,4,0,0,Semi-Furnished,Poor,14550000
+Chennai,Sholinganallur,Apartment,1634,3,2,4,3,0,Furnished,Poor,12573000
+Chennai,Sholinganallur,Villa,4666,5,5,2,5,1,Furnished,Poor,44636000
+Chennai,Sholinganallur,Villa,2693,4,4,3,25,0,Semi-Furnished,Excellent,27545000
+Chennai,Sholinganallur,Villa,3258,5,5,3,15,3,Furnished,Poor,32601000
+Chennai,Sholinganallur,Villa,2514,3,3,2,20,0,Semi-Furnished,Excellent,26644000
+Chennai,Sholinganallur,Independent House,4607,6,6,3,1,2,Semi-Furnished,Poor,39006000
+Chennai,Sholinganallur,Independent House,3676,4,4,2,7,2,Furnished,Poor,31940000
+Chennai,Sholinganallur,Independent House,3597,4,4,1,20,3,Unfurnished,Average,26967000
+Chennai,Sholinganallur,Commercial,2500,0,1,4,25,3,Unfurnished,Average,18878000
+Chennai,Sholinganallur,Commercial,2500,1,4,3,0,0,Semi-Furnished,Good,25901000
+Chennai,Sholinganallur,Commercial,2500,2,1,4,20,3,Furnished,Good,26426000
+Chennai,Sholinganallur,Studio,538,1,1,1,1,1,Semi-Furnished,Poor,3133000
+Chennai,Sholinganallur,Studio,441,1,1,1,5,0,Unfurnished,Average,2548000
+Chennai,Sholinganallur,Studio,425,1,1,1,15,1,Unfurnished,Poor,2023000
+Chennai,Porur,Apartment,2224,4,3,3,10,2,Furnished,Poor,14104000
+Chennai,Porur,Apartment,514,1,1,4,25,1,Furnished,Good,3406000
+Chennai,Porur,Apartment,2486,4,3,4,5,2,Unfurnished,Good,16728000
+Chennai,Porur,Apartment,1058,2,1,1,2,1,Semi-Furnished,Excellent,8929000
+Chennai,Porur,Villa,5781,6,6,3,5,1,Unfurnished,Average,46521000
+Chennai,Porur,Villa,1911,3,3,3,2,2,Semi-Furnished,Good,19056000
+Chennai,Porur,Villa,5237,6,6,2,7,1,Semi-Furnished,Excellent,56205000
+Chennai,Porur,Villa,3115,4,4,1,10,2,Unfurnished,Excellent,31070000
+Chennai,Porur,Independent House,2584,4,4,3,20,1,Furnished,Good,20954000
+Chennai,Porur,Independent House,4137,4,4,3,2,2,Furnished,Excellent,47032000
+Chennai,Porur,Independent House,2597,3,3,1,20,0,Semi-Furnished,Poor,14310000
+Chennai,Porur,Commercial,1800,0,3,1,7,0,Furnished,Average,15474000
+Chennai,Porur,Commercial,7000,0,3,2,0,0,Furnished,Excellent,81608000
+Chennai,Porur,Commercial,2500,0,4,2,15,1,Furnished,Poor,18854000
+Chennai,Porur,Studio,534,1,1,1,10,1,Furnished,Excellent,4019000
+Chennai,Porur,Studio,540,1,1,1,0,1,Semi-Furnished,Good,3450000
+Chennai,Porur,Studio,578,1,1,1,20,0,Unfurnished,Excellent,3220000
+Chennai,Ambattur,Apartment,1925,3,3,4,10,1,Furnished,Poor,9385000
+Chennai,Ambattur,Apartment,1221,2,1,1,25,2,Unfurnished,Poor,4132000
+Chennai,Ambattur,Apartment,1199,2,1,2,3,1,Semi-Furnished,Good,6770000
+Chennai,Ambattur,Apartment,732,1,1,4,20,3,Semi-Furnished,Average,3413000
+Chennai,Ambattur,Villa,2037,3,3,3,15,0,Furnished,Good,15138000
+Chennai,Ambattur,Villa,4843,5,5,1,0,0,Semi-Furnished,Excellent,42989000
+Chennai,Ambattur,Villa,2603,3,3,3,15,2,Semi-Furnished,Good,18619000
+Chennai,Ambattur,Villa,4709,5,5,2,20,3,Furnished,Poor,30084000
+Chennai,Ambattur,Independent House,3204,4,4,2,15,3,Unfurnished,Good,17902000
+Chennai,Ambattur,Independent House,3102,4,4,2,0,1,Semi-Furnished,Poor,17363000
+Chennai,Ambattur,Independent House,3729,4,4,1,20,1,Semi-Furnished,Good,20067000
+Chennai,Ambattur,Commercial,4000,2,3,1,20,2,Semi-Furnished,Average,21364000
+Chennai,Ambattur,Commercial,1200,2,3,4,10,1,Unfurnished,Poor,6044000
+Chennai,Ambattur,Commercial,850,2,2,5,25,3,Furnished,Poor,4864000
+Chennai,Ambattur,Studio,389,1,1,1,1,1,Unfurnished,Excellent,2054000
+Chennai,Ambattur,Studio,535,1,1,1,2,2,Furnished,Good,3006000
+Chennai,Ambattur,Studio,505,1,1,1,0,3,Unfurnished,Average,2262000
+Chennai,Perambur,Apartment,1850,4,3,2,3,1,Unfurnished,Excellent,11782000
+Chennai,Perambur,Apartment,592,1,1,1,3,0,Unfurnished,Poor,2514000
+Chennai,Perambur,Apartment,948,2,2,1,1,2,Unfurnished,Average,4817000
+Chennai,Perambur,Apartment,901,2,1,3,7,1,Furnished,Average,5466000
+Chennai,Perambur,Villa,2114,3,3,1,20,1,Furnished,Average,15103000
+Chennai,Perambur,Villa,3917,4,4,1,1,1,Furnished,Excellent,39891000
+Chennai,Perambur,Villa,3988,6,6,1,2,1,Semi-Furnished,Excellent,35491000
+Chennai,Perambur,Villa,3241,4,4,2,1,2,Unfurnished,Average,23257000
+Chennai,Perambur,Independent House,3612,4,4,3,0,0,Semi-Furnished,Excellent,28657000
+Chennai,Perambur,Independent House,3307,4,4,2,15,1,Furnished,Excellent,26048000
+Chennai,Perambur,Independent House,3112,5,5,2,7,1,Unfurnished,Excellent,22488000
+Chennai,Perambur,Commercial,1800,1,1,1,2,2,Semi-Furnished,Poor,11354000
+Chennai,Perambur,Commercial,500,0,3,2,7,1,Furnished,Excellent,4458000
+Chennai,Perambur,Commercial,4000,1,4,3,25,2,Semi-Furnished,Excellent,28165000
+Chennai,Perambur,Studio,691,1,1,1,25,2,Semi-Furnished,Good,2880000
+Chennai,Perambur,Studio,582,1,1,1,1,0,Semi-Furnished,Excellent,3462000
+Chennai,Perambur,Studio,671,1,1,1,2,0,Unfurnished,Poor,2663000
+Pune,Koregaon Park,Apartment,1803,3,2,3,2,1,Furnished,Poor,30228000
+Pune,Koregaon Park,Apartment,2527,4,3,2,5,3,Semi-Furnished,Excellent,52475000
+Pune,Koregaon Park,Apartment,1645,3,3,1,10,0,Semi-Furnished,Excellent,28831000
+Pune,Koregaon Park,Apartment,1590,3,3,2,20,3,Semi-Furnished,Average,22902000
+Pune,Koregaon Park,Villa,2898,4,4,2,1,2,Furnished,Excellent,92961000
+Pune,Koregaon Park,Villa,4816,6,6,3,2,2,Unfurnished,Excellent,124196000
+Pune,Koregaon Park,Villa,5845,6,6,3,7,1,Semi-Furnished,Poor,106238000
+Pune,Koregaon Park,Villa,2040,3,3,2,25,0,Furnished,Good,41055000
+Pune,Koregaon Park,Independent House,3572,5,5,2,7,0,Furnished,Average,69892000
+Pune,Koregaon Park,Independent House,3500,4,4,1,5,0,Semi-Furnished,Average,59961000
+Pune,Koregaon Park,Independent House,2595,4,4,2,25,2,Semi-Furnished,Good,41945000
+Pune,Koregaon Park,Commercial,2500,1,1,3,10,2,Semi-Furnished,Good,53603000
+Pune,Koregaon Park,Commercial,500,1,2,3,15,2,Furnished,Good,11045000
+Pune,Koregaon Park,Commercial,1200,1,4,2,15,3,Unfurnished,Average,20625000
+Pune,Koregaon Park,Studio,374,1,1,1,5,2,Semi-Furnished,Average,5441000
+Pune,Koregaon Park,Studio,397,1,1,1,25,0,Furnished,Good,5177000
+Pune,Koregaon Park,Studio,640,1,1,1,20,2,Semi-Furnished,Average,7819000
+Pune,Viman Nagar,Apartment,689,1,1,4,20,1,Unfurnished,Excellent,8742000
+Pune,Viman Nagar,Apartment,1776,3,3,1,20,1,Furnished,Excellent,25483000
+Pune,Viman Nagar,Apartment,2656,4,3,1,20,1,Semi-Furnished,Excellent,33845000
+Pune,Viman Nagar,Apartment,1299,2,1,4,7,0,Furnished,Average,18644000
+Pune,Viman Nagar,Villa,3847,4,4,1,5,3,Furnished,Average,75446000
+Pune,Viman Nagar,Villa,1893,3,3,1,5,2,Semi-Furnished,Excellent,39912000
+Pune,Viman Nagar,Villa,2081,3,3,1,0,1,Semi-Furnished,Average,36749000
+Pune,Viman Nagar,Villa,3104,3,3,1,0,0,Semi-Furnished,Good,58232000
+Pune,Viman Nagar,Independent House,4836,5,5,3,1,2,Furnished,Average,85812000
+Pune,Viman Nagar,Independent House,5023,6,6,3,25,2,Semi-Furnished,Excellent,81036000
+Pune,Viman Nagar,Independent House,3554,4,4,2,7,2,Furnished,Excellent,75682000
+Pune,Viman Nagar,Commercial,850,2,4,2,2,0,Unfurnished,Average,12755000
+Pune,Viman Nagar,Commercial,1800,1,3,5,0,2,Furnished,Good,39568000
+Pune,Viman Nagar,Commercial,1200,0,4,4,3,1,Unfurnished,Good,19752000
+Pune,Viman Nagar,Studio,538,1,1,1,5,0,Furnished,Poor,5890000
+Pune,Viman Nagar,Studio,689,1,1,1,0,3,Furnished,Average,9317000
+Pune,Viman Nagar,Studio,546,1,1,1,5,3,Furnished,Good,7984000
+Pune,Aundh,Apartment,1832,4,3,4,0,2,Semi-Furnished,Good,25882000
+Pune,Aundh,Apartment,1039,2,1,3,10,0,Semi-Furnished,Poor,10753000
+Pune,Aundh,Apartment,1708,3,2,4,1,1,Furnished,Good,26921000
+Pune,Aundh,Apartment,1200,2,1,4,0,0,Furnished,Average,17403000
+Pune,Aundh,Villa,2306,4,4,3,5,1,Furnished,Poor,36839000
+Pune,Aundh,Villa,3419,4,4,3,2,2,Furnished,Excellent,85624000
+Pune,Aundh,Villa,3298,4,4,1,5,1,Furnished,Good,65294000
+Pune,Aundh,Villa,2523,4,4,1,10,2,Furnished,Average,42782000
+Pune,Aundh,Independent House,3138,3,3,3,3,0,Semi-Furnished,Average,44438000
+Pune,Aundh,Independent House,2595,4,4,2,25,1,Unfurnished,Poor,25347000
+Pune,Aundh,Independent House,3775,4,4,1,20,2,Semi-Furnished,Excellent,56118000
+Pune,Aundh,Commercial,850,2,2,3,5,3,Semi-Furnished,Excellent,16687000
+Pune,Aundh,Commercial,2500,0,2,3,3,2,Unfurnished,Excellent,47182000
+Pune,Aundh,Commercial,1200,0,3,2,25,2,Unfurnished,Good,15132000
+Pune,Aundh,Studio,681,1,1,1,15,0,Unfurnished,Excellent,7078000
+Pune,Aundh,Studio,515,1,1,1,10,3,Unfurnished,Excellent,6429000
+Pune,Aundh,Studio,655,1,1,1,5,0,Unfurnished,Poor,5323000
+Pune,Kothrud,Apartment,1175,2,2,1,5,2,Furnished,Excellent,18848000
+Pune,Kothrud,Apartment,1786,3,3,2,5,1,Furnished,Excellent,29843000
+Pune,Kothrud,Apartment,1429,3,2,2,5,0,Semi-Furnished,Poor,14814000
+Pune,Kothrud,Apartment,1974,3,2,4,5,1,Furnished,Good,28854000
+Pune,Kothrud,Villa,4646,5,5,3,15,1,Furnished,Excellent,90223000
+Pune,Kothrud,Villa,2380,4,4,1,15,1,Unfurnished,Excellent,37666000
+Pune,Kothrud,Villa,2963,5,5,3,20,2,Semi-Furnished,Excellent,50367000
+Pune,Kothrud,Villa,2444,4,4,1,5,1,Unfurnished,Good,37512000
+Pune,Kothrud,Independent House,3711,6,6,3,25,1,Semi-Furnished,Poor,36506000
+Pune,Kothrud,Independent House,4221,5,5,1,5,3,Furnished,Poor,59017000
+Pune,Kothrud,Independent House,5483,6,6,2,2,0,Unfurnished,Excellent,87973000
+Pune,Kothrud,Commercial,1800,2,4,3,25,3,Unfurnished,Good,23587000
+Pune,Kothrud,Commercial,2500,2,4,3,25,1,Unfurnished,Poor,25055000
+Pune,Kothrud,Commercial,1200,1,1,1,20,2,Semi-Furnished,Poor,13256000
+Pune,Kothrud,Studio,441,1,1,1,3,2,Unfurnished,Poor,3969000
+Pune,Kothrud,Studio,433,1,1,1,10,2,Semi-Furnished,Average,4237000
+Pune,Kothrud,Studio,601,1,1,1,10,3,Semi-Furnished,Average,6167000
+Pune,Baner,Apartment,789,1,1,4,15,2,Semi-Furnished,Good,8478000
+Pune,Baner,Apartment,1425,3,2,2,10,3,Semi-Furnished,Poor,12526000
+Pune,Baner,Apartment,1393,2,2,4,20,3,Furnished,Poor,13110000
+Pune,Baner,Apartment,1431,3,2,2,2,3,Semi-Furnished,Average,16012000
+Pune,Baner,Villa,3391,4,4,1,0,2,Unfurnished,Excellent,56081000
+Pune,Baner,Villa,4312,5,5,2,7,1,Furnished,Poor,59136000
+Pune,Baner,Villa,2174,3,3,2,2,1,Semi-Furnished,Poor,26401000
+Pune,Baner,Villa,3072,4,4,2,15,2,Semi-Furnished,Good,44258000
+Pune,Baner,Independent House,2577,4,4,3,25,1,Furnished,Poor,25368000
+Pune,Baner,Independent House,1766,3,3,1,2,3,Semi-Furnished,Excellent,28649000
+Pune,Baner,Independent House,5097,6,6,3,25,1,Furnished,Excellent,72466000
+Pune,Baner,Commercial,850,0,2,1,3,0,Unfurnished,Average,10009000
+Pune,Baner,Commercial,1800,0,2,2,10,3,Furnished,Average,25219000
+Pune,Baner,Commercial,850,1,4,4,0,0,Unfurnished,Average,10802000
+Pune,Baner,Studio,577,1,1,1,15,2,Unfurnished,Excellent,5579000
+Pune,Baner,Studio,453,1,1,1,5,2,Semi-Furnished,Poor,3673000
+Pune,Baner,Studio,402,1,1,1,10,2,Semi-Furnished,Good,3697000
+Pune,Magarpatta,Apartment,1738,3,3,1,20,0,Semi-Furnished,Good,15028000
+Pune,Magarpatta,Apartment,1402,2,1,1,15,2,Furnished,Good,15055000
+Pune,Magarpatta,Apartment,1338,3,3,4,7,2,Unfurnished,Average,12744000
+Pune,Magarpatta,Apartment,2108,4,4,3,10,2,Furnished,Good,25458000
+Pune,Magarpatta,Villa,3338,4,4,3,1,3,Semi-Furnished,Average,48142000
+Pune,Magarpatta,Villa,3220,4,4,2,15,1,Unfurnished,Average,35651000
+Pune,Magarpatta,Villa,2263,3,3,2,2,1,Furnished,Poor,31140000
+Pune,Magarpatta,Villa,3204,4,4,1,1,2,Unfurnished,Excellent,49498000
+Pune,Magarpatta,Independent House,3848,4,4,1,20,1,Unfurnished,Poor,30880000
+Pune,Magarpatta,Independent House,4683,5,5,1,1,2,Furnished,Poor,57426000
+Pune,Magarpatta,Independent House,2393,3,3,3,1,1,Semi-Furnished,Average,29806000
+Pune,Magarpatta,Commercial,1800,2,4,1,2,3,Semi-Furnished,Good,25933000
+Pune,Magarpatta,Commercial,7000,0,2,4,10,0,Unfurnished,Excellent,92572000
+Pune,Magarpatta,Commercial,850,2,1,3,7,3,Semi-Furnished,Good,11973000
+Pune,Magarpatta,Studio,475,1,1,1,2,2,Semi-Furnished,Average,4220000
+Pune,Magarpatta,Studio,569,1,1,1,10,2,Semi-Furnished,Good,5371000
+Pune,Magarpatta,Studio,576,1,1,1,2,0,Furnished,Poor,4746000
+Pune,Wakad,Apartment,1092,2,1,1,10,0,Furnished,Average,9615000
+Pune,Wakad,Apartment,827,1,1,4,10,3,Furnished,Good,8920000
+Pune,Wakad,Apartment,1306,2,1,2,10,2,Furnished,Average,12419000
+Pune,Wakad,Apartment,1954,3,2,4,3,1,Unfurnished,Poor,14136000
+Pune,Wakad,Villa,4528,5,5,1,20,2,Semi-Furnished,Average,43023000
+Pune,Wakad,Villa,4123,6,6,3,2,0,Unfurnished,Good,46094000
+Pune,Wakad,Villa,3620,4,4,1,0,1,Semi-Furnished,Good,43939000
+Pune,Wakad,Villa,2531,3,3,3,0,2,Semi-Furnished,Average,32298000
+Pune,Wakad,Independent House,4878,6,6,3,20,2,Unfurnished,Good,42391000
+Pune,Wakad,Independent House,5178,6,6,2,20,3,Unfurnished,Poor,37300000
+Pune,Wakad,Independent House,4060,6,6,2,15,0,Unfurnished,Excellent,41306000
+Pune,Wakad,Commercial,500,0,1,4,2,2,Unfurnished,Excellent,6345000
+Pune,Wakad,Commercial,2500,2,4,5,20,2,Semi-Furnished,Good,26580000
+Pune,Wakad,Commercial,1800,2,4,4,10,1,Unfurnished,Average,17193000
+Pune,Wakad,Studio,584,1,1,1,2,3,Furnished,Poor,4723000
+Pune,Wakad,Studio,583,1,1,1,15,0,Furnished,Average,4406000
+Pune,Wakad,Studio,539,1,1,1,1,2,Semi-Furnished,Poor,3647000
+Pune,Hinjewadi,Apartment,1600,3,3,1,7,1,Semi-Furnished,Good,12909000
+Pune,Hinjewadi,Apartment,683,1,1,1,5,1,Unfurnished,Average,5011000
+Pune,Hinjewadi,Apartment,1391,3,2,1,0,2,Semi-Furnished,Good,12599000
+Pune,Hinjewadi,Apartment,1361,2,2,2,20,3,Semi-Furnished,Excellent,12291000
+Pune,Hinjewadi,Villa,3752,4,4,1,25,3,Furnished,Excellent,46422000
+Pune,Hinjewadi,Villa,3400,5,5,3,15,3,Semi-Furnished,Poor,32289000
+Pune,Hinjewadi,Villa,2781,3,3,3,5,2,Furnished,Poor,31210000
+Pune,Hinjewadi,Villa,2246,3,3,3,25,0,Furnished,Average,22071000
+Pune,Hinjewadi,Independent House,5413,6,6,3,20,1,Unfurnished,Good,44881000
+Pune,Hinjewadi,Independent House,3823,4,4,2,1,2,Furnished,Good,45654000
+Pune,Hinjewadi,Independent House,2300,3,3,2,10,1,Semi-Furnished,Poor,18605000
+Pune,Hinjewadi,Commercial,1800,1,3,1,1,0,Furnished,Average,19402000
+Pune,Hinjewadi,Commercial,1200,0,1,2,5,2,Furnished,Average,13229000
+Pune,Hinjewadi,Commercial,850,1,1,1,5,2,Unfurnished,Good,8170000
+Pune,Hinjewadi,Studio,515,1,1,1,5,2,Unfurnished,Poor,2937000
+Pune,Hinjewadi,Studio,655,1,1,1,25,1,Semi-Furnished,Excellent,4765000
+Pune,Hinjewadi,Studio,487,1,1,1,0,1,Semi-Furnished,Excellent,4260000
+Pune,Hadapsar,Apartment,610,1,1,3,20,2,Furnished,Poor,3969000
+Pune,Hadapsar,Apartment,1770,3,2,4,15,0,Furnished,Average,13829000
+Pune,Hadapsar,Apartment,1079,2,2,4,20,2,Unfurnished,Poor,6150000
+Pune,Hadapsar,Apartment,1508,3,3,1,15,1,Furnished,Good,12365000
+Pune,Hadapsar,Villa,5021,5,5,1,25,2,Semi-Furnished,Poor,35539000
+Pune,Hadapsar,Villa,4704,6,6,1,10,3,Unfurnished,Average,43891000
+Pune,Hadapsar,Villa,3712,4,4,3,20,1,Furnished,Good,39866000
+Pune,Hadapsar,Villa,3585,5,5,2,7,1,Semi-Furnished,Good,36638000
+Pune,Hadapsar,Independent House,3235,4,4,3,15,0,Unfurnished,Average,23342000
+Pune,Hadapsar,Independent House,4499,5,5,1,1,2,Unfurnished,Excellent,47852000
+Pune,Hadapsar,Independent House,3947,4,4,3,7,2,Unfurnished,Poor,28163000
+Pune,Hadapsar,Commercial,850,1,4,1,3,3,Unfurnished,Good,8413000
+Pune,Hadapsar,Commercial,1200,2,2,1,25,3,Semi-Furnished,Average,9227000
+Pune,Hadapsar,Commercial,1200,1,1,3,15,3,Furnished,Average,11773000
+Pune,Hadapsar,Studio,676,1,1,1,10,0,Semi-Furnished,Excellent,4959000
+Pune,Hadapsar,Studio,449,1,1,1,25,3,Furnished,Average,2746000
+Pune,Hadapsar,Studio,415,1,1,1,1,1,Semi-Furnished,Average,2923000
+Pune,Kondhwa,Apartment,2481,4,4,3,20,2,Unfurnished,Excellent,16317000
+Pune,Kondhwa,Apartment,1783,4,3,4,5,0,Furnished,Excellent,15803000
+Pune,Kondhwa,Apartment,1876,3,3,3,10,2,Semi-Furnished,Good,12291000
+Pune,Kondhwa,Apartment,1163,2,2,2,10,0,Unfurnished,Average,6112000
+Pune,Kondhwa,Villa,2620,4,4,1,0,2,Semi-Furnished,Poor,21060000
+Pune,Kondhwa,Villa,3670,4,4,1,15,1,Semi-Furnished,Poor,25247000
+Pune,Kondhwa,Villa,5142,6,6,3,25,2,Unfurnished,Excellent,42937000
+Pune,Kondhwa,Villa,2886,3,3,2,7,3,Unfurnished,Average,22787000
+Pune,Kondhwa,Independent House,3121,5,5,3,10,0,Unfurnished,Poor,17964000
+Pune,Kondhwa,Independent House,3764,4,4,1,25,2,Unfurnished,Poor,18648000
+Pune,Kondhwa,Independent House,4607,5,5,3,1,1,Furnished,Poor,35908000
+Pune,Kondhwa,Commercial,2500,1,2,1,1,0,Furnished,Poor,19484000
+Pune,Kondhwa,Commercial,2500,0,2,5,5,1,Semi-Furnished,Excellent,26427000
+Pune,Kondhwa,Commercial,850,1,2,2,0,0,Unfurnished,Good,6826000
+Pune,Kondhwa,Studio,612,1,1,1,7,1,Furnished,Average,3659000
+Pune,Kondhwa,Studio,508,1,1,1,25,1,Semi-Furnished,Good,2575000
+Pune,Kondhwa,Studio,615,1,1,1,25,3,Furnished,Average,3194000
+Pune,Katraj,Apartment,2007,3,3,4,7,1,Unfurnished,Average,11140000
+Pune,Katraj,Apartment,1065,2,1,3,25,2,Semi-Furnished,Good,5605000
+Pune,Katraj,Apartment,912,2,1,2,0,3,Unfurnished,Average,5364000
+Pune,Katraj,Apartment,1053,2,1,2,10,1,Unfurnished,Good,5517000
+Pune,Katraj,Villa,2306,4,4,1,5,2,Unfurnished,Good,17320000
+Pune,Katraj,Villa,2083,3,3,1,3,1,Furnished,Average,17967000
+Pune,Katraj,Villa,3890,6,6,1,2,1,Unfurnished,Poor,25503000
+Pune,Katraj,Villa,2862,4,4,2,3,1,Semi-Furnished,Average,22536000
+Pune,Katraj,Independent House,3526,4,4,3,10,3,Unfurnished,Poor,19504000
+Pune,Katraj,Independent House,3569,4,4,3,10,3,Semi-Furnished,Good,27150000
+Pune,Katraj,Independent House,4063,4,4,3,25,1,Furnished,Good,28279000
+Pune,Katraj,Commercial,850,1,1,3,2,2,Furnished,Excellent,8972000
+Pune,Katraj,Commercial,7000,0,4,5,1,1,Furnished,Excellent,78577000
+Pune,Katraj,Commercial,7000,2,3,4,20,2,Unfurnished,Good,46766000
+Pune,Katraj,Studio,619,1,1,1,15,3,Semi-Furnished,Excellent,3676000
+Pune,Katraj,Studio,555,1,1,1,25,3,Unfurnished,Average,2188000
+Pune,Katraj,Studio,453,1,1,1,15,1,Semi-Furnished,Average,2062000
+Kolkata,Park Street,Apartment,1773,3,2,1,2,0,Semi-Furnished,Excellent,32084000
+Kolkata,Park Street,Apartment,1260,2,1,4,15,2,Semi-Furnished,Excellent,22294000
+Kolkata,Park Street,Apartment,1584,3,3,2,15,1,Semi-Furnished,Poor,18673000
+Kolkata,Park Street,Apartment,651,1,1,3,3,0,Unfurnished,Poor,7863000
+Kolkata,Park Street,Villa,3780,6,6,3,7,1,Semi-Furnished,Good,79923000
+Kolkata,Park Street,Villa,5980,6,6,3,20,1,Unfurnished,Good,102561000
+Kolkata,Park Street,Villa,3659,4,4,2,25,3,Unfurnished,Excellent,72938000
+Kolkata,Park Street,Villa,3700,4,4,1,3,2,Unfurnished,Excellent,88761000
+Kolkata,Park Street,Independent House,3424,5,5,2,3,2,Furnished,Excellent,85558000
+Kolkata,Park Street,Independent House,4420,5,5,2,2,2,Unfurnished,Good,84405000
+Kolkata,Park Street,Independent House,2636,3,3,2,7,1,Semi-Furnished,Excellent,57178000
+Kolkata,Park Street,Commercial,7000,1,3,3,25,0,Furnished,Poor,107132000
+Kolkata,Park Street,Commercial,1200,0,4,4,3,2,Unfurnished,Excellent,27068000
+Kolkata,Park Street,Commercial,1200,0,4,3,1,1,Unfurnished,Average,20982000
+Kolkata,Park Street,Studio,658,1,1,1,15,0,Unfurnished,Average,6771000
+Kolkata,Park Street,Studio,547,1,1,1,5,1,Unfurnished,Good,7219000
+Kolkata,Park Street,Studio,385,1,1,1,15,0,Semi-Furnished,Poor,3829000
+Kolkata,Ballygunge,Apartment,1571,3,3,4,15,3,Unfurnished,Excellent,25825000
+Kolkata,Ballygunge,Apartment,966,2,1,4,15,1,Furnished,Good,15434000
+Kolkata,Ballygunge,Apartment,1904,3,2,2,0,1,Semi-Furnished,Poor,25243000
+Kolkata,Ballygunge,Apartment,1989,3,2,4,15,2,Furnished,Poor,27136000
+Kolkata,Ballygunge,Villa,3467,4,4,2,5,2,Furnished,Average,74994000
+Kolkata,Ballygunge,Villa,4014,4,4,2,15,2,Furnished,Average,80439000
+Kolkata,Ballygunge,Villa,2194,3,3,1,2,1,Furnished,Good,51001000
+Kolkata,Ballygunge,Villa,2906,3,3,1,15,2,Furnished,Poor,51517000
+Kolkata,Ballygunge,Independent House,2864,3,3,2,10,2,Unfurnished,Good,44812000
+Kolkata,Ballygunge,Independent House,2291,3,3,3,15,2,Semi-Furnished,Excellent,45734000
+Kolkata,Ballygunge,Independent House,2903,5,5,1,2,1,Furnished,Excellent,66858000
+Kolkata,Ballygunge,Commercial,500,0,2,4,2,2,Semi-Furnished,Average,9367000
+Kolkata,Ballygunge,Commercial,2500,0,1,2,5,0,Furnished,Excellent,57251000
+Kolkata,Ballygunge,Commercial,7000,2,1,3,2,2,Semi-Furnished,Average,129144000
+Kolkata,Ballygunge,Studio,367,1,1,1,20,1,Semi-Furnished,Poor,3524000
+Kolkata,Ballygunge,Studio,617,1,1,1,1,2,Furnished,Good,9756000
+Kolkata,Ballygunge,Studio,656,1,1,1,0,0,Semi-Furnished,Average,8519000
+Kolkata,Alipore,Apartment,1355,2,2,1,10,0,Unfurnished,Good,20943000
+Kolkata,Alipore,Apartment,2374,4,4,2,2,0,Semi-Furnished,Poor,35984000
+Kolkata,Alipore,Apartment,1179,2,2,4,10,0,Unfurnished,Average,16963000
+Kolkata,Alipore,Apartment,1038,2,1,1,10,1,Semi-Furnished,Average,15721000
+Kolkata,Alipore,Villa,3427,4,4,1,1,1,Semi-Furnished,Good,86822000
+Kolkata,Alipore,Villa,4718,5,5,3,20,2,Unfurnished,Good,98848000
+Kolkata,Alipore,Villa,4301,6,6,3,10,3,Furnished,Average,110791000
+Kolkata,Alipore,Villa,4105,4,4,2,1,1,Unfurnished,Excellent,108845000
+Kolkata,Alipore,Independent House,3365,4,4,1,3,0,Furnished,Poor,62891000
+Kolkata,Alipore,Independent House,4531,5,5,1,0,1,Semi-Furnished,Excellent,112140000
+Kolkata,Alipore,Independent House,3129,4,4,1,3,3,Furnished,Excellent,92523000
+Kolkata,Alipore,Commercial,850,1,3,3,0,2,Semi-Furnished,Good,21506000
+Kolkata,Alipore,Commercial,7000,0,3,3,3,1,Furnished,Poor,155668000
+Kolkata,Alipore,Commercial,850,2,2,5,10,2,Semi-Furnished,Average,18444000
+Kolkata,Alipore,Studio,353,1,1,1,1,2,Unfurnished,Average,4956000
+Kolkata,Alipore,Studio,422,1,1,1,3,1,Unfurnished,Average,5905000
+Kolkata,Alipore,Studio,454,1,1,1,3,2,Unfurnished,Excellent,8170000
+Kolkata,Salt Lake,Apartment,982,2,2,4,2,2,Unfurnished,Good,9797000
+Kolkata,Salt Lake,Apartment,2026,3,2,4,1,1,Semi-Furnished,Excellent,24539000
+Kolkata,Salt Lake,Apartment,1677,3,3,4,0,2,Semi-Furnished,Poor,15771000
+Kolkata,Salt Lake,Apartment,1186,2,2,3,10,2,Semi-Furnished,Excellent,13445000
+Kolkata,Salt Lake,Villa,4690,6,6,2,2,3,Semi-Furnished,Average,62512000
+Kolkata,Salt Lake,Villa,2462,4,4,3,7,2,Semi-Furnished,Excellent,40873000
+Kolkata,Salt Lake,Villa,2971,4,4,3,25,0,Semi-Furnished,Poor,27553000
+Kolkata,Salt Lake,Villa,2450,3,3,1,3,2,Semi-Furnished,Good,34139000
+Kolkata,Salt Lake,Independent House,4157,5,5,3,0,3,Semi-Furnished,Excellent,65153000
+Kolkata,Salt Lake,Independent House,3149,4,4,3,0,3,Furnished,Average,43037000
+Kolkata,Salt Lake,Independent House,4663,5,5,2,3,2,Furnished,Average,57941000
+Kolkata,Salt Lake,Commercial,4000,0,4,4,25,0,Furnished,Average,44071000
+Kolkata,Salt Lake,Commercial,7000,0,4,3,5,2,Furnished,Excellent,119467000
+Kolkata,Salt Lake,Commercial,1800,2,1,1,25,1,Unfurnished,Good,16853000
+Kolkata,Salt Lake,Studio,553,1,1,1,5,0,Unfurnished,Excellent,4828000
+Kolkata,Salt Lake,Studio,385,1,1,1,10,2,Semi-Furnished,Good,3405000
+Kolkata,Salt Lake,Studio,437,1,1,1,2,1,Unfurnished,Average,3321000
+Kolkata,New Town,Apartment,1129,2,1,2,2,1,Unfurnished,Average,8680000
+Kolkata,New Town,Apartment,1083,2,1,1,2,0,Semi-Furnished,Poor,7340000
+Kolkata,New Town,Apartment,889,2,2,4,15,3,Unfurnished,Poor,5497000
+Kolkata,New Town,Apartment,626,1,1,2,20,0,Semi-Furnished,Good,4604000
+Kolkata,New Town,Villa,4522,5,5,2,7,1,Furnished,Good,59497000
+Kolkata,New Town,Villa,4045,4,4,2,10,2,Unfurnished,Good,43269000
+Kolkata,New Town,Villa,2060,3,3,2,2,0,Furnished,Poor,22387000
+Kolkata,New Town,Villa,4105,4,4,1,7,2,Furnished,Excellent,60332000
+Kolkata,New Town,Independent House,2531,4,4,2,0,3,Semi-Furnished,Poor,24013000
+Kolkata,New Town,Independent House,3403,4,4,3,15,2,Furnished,Poor,29529000
+Kolkata,New Town,Independent House,5031,5,5,1,10,1,Furnished,Average,50100000
+Kolkata,New Town,Commercial,2500,2,1,2,15,0,Semi-Furnished,Excellent,26236000
+Kolkata,New Town,Commercial,500,1,4,5,3,1,Unfurnished,Average,5019000
+Kolkata,New Town,Commercial,4000,2,1,1,10,3,Unfurnished,Average,37306000
+Kolkata,New Town,Studio,517,1,1,1,10,1,Unfurnished,Good,3456000
+Kolkata,New Town,Studio,693,1,1,1,1,3,Unfurnished,Excellent,5860000
+Kolkata,New Town,Studio,520,1,1,1,3,2,Furnished,Poor,3811000
+Kolkata,Rajarhat,Apartment,2029,3,2,2,3,1,Unfurnished,Good,12917000
+Kolkata,Rajarhat,Apartment,583,1,1,3,2,1,Semi-Furnished,Poor,3467000
+Kolkata,Rajarhat,Apartment,1750,3,2,3,7,3,Unfurnished,Average,10782000
+Kolkata,Rajarhat,Apartment,701,1,1,2,5,1,Semi-Furnished,Excellent,5502000
+Kolkata,Rajarhat,Villa,2773,4,4,3,0,2,Semi-Furnished,Good,28894000
+Kolkata,Rajarhat,Villa,2389,3,3,3,15,3,Unfurnished,Excellent,23031000
+Kolkata,Rajarhat,Villa,2987,5,5,1,3,3,Unfurnished,Poor,23349000
+Kolkata,Rajarhat,Villa,3942,4,4,2,5,3,Unfurnished,Poor,29953000
+Kolkata,Rajarhat,Independent House,3117,4,4,2,10,2,Unfurnished,Good,22899000
+Kolkata,Rajarhat,Independent House,3601,4,4,2,1,1,Semi-Furnished,Poor,26104000
+Kolkata,Rajarhat,Independent House,3015,4,4,3,2,2,Furnished,Excellent,34144000
+Kolkata,Rajarhat,Commercial,850,0,2,2,0,1,Furnished,Poor,7279000
+Kolkata,Rajarhat,Commercial,1800,0,4,2,0,0,Semi-Furnished,Excellent,18001000
+Kolkata,Rajarhat,Commercial,500,0,3,5,10,1,Furnished,Excellent,5588000
+Kolkata,Rajarhat,Studio,410,1,1,1,3,2,Semi-Furnished,Good,2704000
+Kolkata,Rajarhat,Studio,438,1,1,1,10,3,Furnished,Poor,2570000
+Kolkata,Rajarhat,Studio,682,1,1,1,10,1,Furnished,Excellent,5132000
+Kolkata,Jadavpur,Apartment,510,1,1,2,0,2,Furnished,Excellent,4533000
+Kolkata,Jadavpur,Apartment,1790,4,3,4,10,1,Furnished,Average,11655000
+Kolkata,Jadavpur,Apartment,765,1,1,4,0,2,Furnished,Excellent,6945000
+Kolkata,Jadavpur,Apartment,1685,3,3,1,2,2,Furnished,Average,11405000
+Kolkata,Jadavpur,Villa,4363,5,5,1,2,2,Unfurnished,Average,32973000
+Kolkata,Jadavpur,Villa,3579,4,4,1,1,2,Semi-Furnished,Good,34221000
+Kolkata,Jadavpur,Villa,3212,4,4,1,3,1,Unfurnished,Good,26318000
+Kolkata,Jadavpur,Villa,3230,5,5,3,7,2,Semi-Furnished,Average,27637000
+Kolkata,Jadavpur,Independent House,2080,3,3,1,5,1,Unfurnished,Average,13525000
+Kolkata,Jadavpur,Independent House,2723,4,4,2,1,2,Semi-Furnished,Good,22166000
+Kolkata,Jadavpur,Independent House,2882,4,4,2,10,3,Unfurnished,Average,18478000
+Kolkata,Jadavpur,Commercial,1200,2,2,3,25,3,Furnished,Average,8865000
+Kolkata,Jadavpur,Commercial,1200,0,4,4,0,2,Unfurnished,Poor,8113000
+Kolkata,Jadavpur,Commercial,500,2,4,1,7,3,Unfurnished,Good,3942000
+Kolkata,Jadavpur,Studio,489,1,1,1,2,1,Semi-Furnished,Poor,2296000
+Kolkata,Jadavpur,Studio,463,1,1,1,10,0,Unfurnished,Average,2113000
+Kolkata,Jadavpur,Studio,506,1,1,1,25,2,Unfurnished,Good,2273000
+Kolkata,Tollygunge,Apartment,1150,2,2,2,7,2,Unfurnished,Good,7467000
+Kolkata,Tollygunge,Apartment,2754,4,3,4,25,1,Semi-Furnished,Poor,13188000
+Kolkata,Tollygunge,Apartment,1837,4,4,4,25,3,Semi-Furnished,Poor,9479000
+Kolkata,Tollygunge,Apartment,2687,4,3,4,2,2,Semi-Furnished,Excellent,23189000
+Kolkata,Tollygunge,Villa,3990,4,4,3,3,1,Furnished,Poor,36317000
+Kolkata,Tollygunge,Villa,4287,5,5,3,1,0,Furnished,Average,43751000
+Kolkata,Tollygunge,Villa,3163,4,4,3,5,2,Semi-Furnished,Poor,25994000
+Kolkata,Tollygunge,Villa,4428,5,5,1,15,2,Furnished,Poor,33971000
+Kolkata,Tollygunge,Independent House,4037,6,6,1,10,3,Furnished,Good,35250000
+Kolkata,Tollygunge,Independent House,4862,6,6,3,15,1,Furnished,Average,36673000
+Kolkata,Tollygunge,Independent House,3806,4,4,2,0,2,Semi-Furnished,Excellent,36971000
+Kolkata,Tollygunge,Commercial,1200,0,2,5,1,1,Semi-Furnished,Excellent,12717000
+Kolkata,Tollygunge,Commercial,500,0,4,2,5,3,Furnished,Poor,4289000
+Kolkata,Tollygunge,Commercial,7000,2,4,1,7,0,Furnished,Excellent,70823000
+Kolkata,Tollygunge,Studio,531,1,1,1,1,0,Semi-Furnished,Average,2972000
+Kolkata,Tollygunge,Studio,354,1,1,1,1,2,Semi-Furnished,Average,2046000
+Kolkata,Tollygunge,Studio,613,1,1,1,2,2,Unfurnished,Excellent,3969000
+Kolkata,Dum Dum,Apartment,2020,4,3,3,5,1,Semi-Furnished,Average,10601000
+Kolkata,Dum Dum,Apartment,1016,2,1,2,2,1,Furnished,Excellent,7132000
+Kolkata,Dum Dum,Apartment,1896,4,3,1,2,2,Semi-Furnished,Good,11203000
+Kolkata,Dum Dum,Apartment,1305,2,1,1,10,2,Furnished,Excellent,9131000
+Kolkata,Dum Dum,Villa,3110,4,4,2,20,3,Furnished,Excellent,26316000
+Kolkata,Dum Dum,Villa,2715,3,3,1,7,2,Unfurnished,Average,16517000
+Kolkata,Dum Dum,Villa,3192,4,4,3,0,2,Semi-Furnished,Good,25672000
+Kolkata,Dum Dum,Villa,2739,3,3,3,2,3,Furnished,Average,23108000
+Kolkata,Dum Dum,Independent House,3095,3,3,1,10,1,Semi-Furnished,Poor,15687000
+Kolkata,Dum Dum,Independent House,4762,6,6,3,2,1,Unfurnished,Average,27596000
+Kolkata,Dum Dum,Independent House,3858,4,4,2,0,2,Unfurnished,Poor,21018000
+Kolkata,Dum Dum,Commercial,1800,1,3,2,3,1,Semi-Furnished,Excellent,14037000
+Kolkata,Dum Dum,Commercial,4000,1,1,3,1,1,Semi-Furnished,Good,30227000
+Kolkata,Dum Dum,Commercial,1800,2,2,3,0,1,Unfurnished,Poor,9642000
+Kolkata,Dum Dum,Studio,514,1,1,1,3,1,Semi-Furnished,Good,2633000
+Kolkata,Dum Dum,Studio,401,1,1,1,10,1,Semi-Furnished,Excellent,2116000
+Kolkata,Dum Dum,Studio,505,1,1,1,1,0,Furnished,Poor,2308000
+Kolkata,Behala,Apartment,1107,2,1,2,5,1,Furnished,Excellent,7193000
+Kolkata,Behala,Apartment,512,1,1,2,3,3,Semi-Furnished,Poor,2281000
+Kolkata,Behala,Apartment,1791,3,2,2,20,3,Unfurnished,Poor,6215000
+Kolkata,Behala,Apartment,1726,3,2,3,15,3,Furnished,Poor,8348000
+Kolkata,Behala,Villa,2547,3,3,3,0,1,Furnished,Good,21789000
+Kolkata,Behala,Villa,2952,4,4,1,3,3,Semi-Furnished,Excellent,25648000
+Kolkata,Behala,Villa,5615,6,6,2,20,2,Furnished,Excellent,44654000
+Kolkata,Behala,Villa,2532,4,4,1,25,1,Furnished,Poor,13426000
+Kolkata,Behala,Independent House,4655,6,6,3,20,1,Semi-Furnished,Average,22953000
+Kolkata,Behala,Independent House,3170,4,4,1,0,2,Unfurnished,Good,18269000
+Kolkata,Behala,Independent House,3849,4,4,1,5,0,Furnished,Average,24413000
+Kolkata,Behala,Commercial,2500,0,1,1,7,3,Furnished,Good,18327000
+Kolkata,Behala,Commercial,2500,2,3,2,10,2,Semi-Furnished,Good,16609000
+Kolkata,Behala,Commercial,7000,2,1,3,3,3,Semi-Furnished,Average,45762000
+Kolkata,Behala,Studio,358,1,1,1,20,3,Furnished,Poor,1400000
+Kolkata,Behala,Studio,545,1,1,1,5,3,Furnished,Average,2836000
+Kolkata,Behala,Studio,462,1,1,1,7,1,Unfurnished,Excellent,2147000
+Kolkata,Howrah,Apartment,1325,2,1,2,15,0,Semi-Furnished,Average,5202000
+Kolkata,Howrah,Apartment,1069,2,2,3,0,1,Unfurnished,Average,4822000
+Kolkata,Howrah,Apartment,2274,4,4,1,10,1,Semi-Furnished,Excellent,11389000
+Kolkata,Howrah,Apartment,1355,3,3,4,10,0,Unfurnished,Poor,4833000
+Kolkata,Howrah,Villa,2252,3,3,1,5,1,Furnished,Poor,13491000
+Kolkata,Howrah,Villa,2903,3,3,3,7,3,Unfurnished,Average,16602000
+Kolkata,Howrah,Villa,5424,6,6,2,7,2,Unfurnished,Average,29383000
+Kolkata,Howrah,Villa,3266,4,4,1,0,0,Furnished,Good,22950000
+Kolkata,Howrah,Independent House,3097,5,5,1,3,2,Semi-Furnished,Average,16628000
+Kolkata,Howrah,Independent House,2911,4,4,2,1,2,Unfurnished,Poor,13034000
+Kolkata,Howrah,Independent House,3086,4,4,2,1,1,Unfurnished,Poor,13844000
+Kolkata,Howrah,Commercial,1800,0,3,5,2,3,Semi-Furnished,Average,11976000
+Kolkata,Howrah,Commercial,1200,2,3,3,1,1,Semi-Furnished,Good,7908000
+Kolkata,Howrah,Commercial,7000,2,1,1,2,3,Unfurnished,Good,40194000
+Kolkata,Howrah,Studio,578,1,1,1,15,0,Unfurnished,Excellent,2369000
+Kolkata,Howrah,Studio,492,1,1,1,2,0,Semi-Furnished,Average,1892000
+Kolkata,Howrah,Studio,547,1,1,1,7,1,Semi-Furnished,Excellent,2619000
+Ahmedabad,Bodakdev,Apartment,1786,3,3,2,10,2,Furnished,Excellent,27244000
+Ahmedabad,Bodakdev,Apartment,1707,3,2,1,25,3,Semi-Furnished,Average,16354000
+Ahmedabad,Bodakdev,Apartment,1082,2,2,3,20,2,Unfurnished,Poor,8543000
+Ahmedabad,Bodakdev,Apartment,1065,2,1,4,2,2,Semi-Furnished,Average,12811000
+Ahmedabad,Bodakdev,Villa,2359,4,4,1,2,2,Furnished,Poor,37107000
+Ahmedabad,Bodakdev,Villa,3802,5,5,1,25,0,Semi-Furnished,Average,42724000
+Ahmedabad,Bodakdev,Villa,2551,4,4,1,0,2,Semi-Furnished,Average,41604000
+Ahmedabad,Bodakdev,Villa,4570,5,5,3,5,2,Semi-Furnished,Good,77593000
+Ahmedabad,Bodakdev,Independent House,2123,3,3,1,0,2,Unfurnished,Average,26197000
+Ahmedabad,Bodakdev,Independent House,4291,5,5,3,5,2,Furnished,Good,72844000
+Ahmedabad,Bodakdev,Independent House,4701,5,5,1,20,2,Unfurnished,Average,49110000
+Ahmedabad,Bodakdev,Commercial,850,0,4,2,20,2,Unfurnished,Excellent,11938000
+Ahmedabad,Bodakdev,Commercial,4000,2,4,4,2,0,Semi-Furnished,Excellent,70069000
+Ahmedabad,Bodakdev,Commercial,500,0,1,3,25,1,Unfurnished,Average,5234000
+Ahmedabad,Bodakdev,Studio,627,1,1,1,1,0,Unfurnished,Poor,5166000
+Ahmedabad,Bodakdev,Studio,508,1,1,1,3,2,Unfurnished,Poor,4180000
+Ahmedabad,Bodakdev,Studio,393,1,1,1,25,2,Unfurnished,Excellent,3555000
+Ahmedabad,Satellite,Apartment,975,2,2,3,5,2,Furnished,Average,10533000
+Ahmedabad,Satellite,Apartment,1827,3,3,3,10,3,Furnished,Poor,17312000
+Ahmedabad,Satellite,Apartment,958,2,1,1,5,1,Unfurnished,Excellent,9634000
+Ahmedabad,Satellite,Apartment,1802,4,4,2,2,2,Furnished,Good,21338000
+Ahmedabad,Satellite,Villa,2926,4,4,3,10,0,Furnished,Excellent,47145000
+Ahmedabad,Satellite,Villa,4734,6,6,3,15,0,Unfurnished,Average,50239000
+Ahmedabad,Satellite,Villa,3475,4,4,1,15,0,Semi-Furnished,Good,39507000
+Ahmedabad,Satellite,Villa,2601,4,4,3,7,1,Unfurnished,Poor,25906000
+Ahmedabad,Satellite,Independent House,3457,5,5,2,15,3,Unfurnished,Poor,30712000
+Ahmedabad,Satellite,Independent House,2925,5,5,2,10,2,Furnished,Average,35204000
+Ahmedabad,Satellite,Independent House,5387,6,6,2,1,3,Semi-Furnished,Excellent,79015000
+Ahmedabad,Satellite,Commercial,500,2,1,2,20,0,Unfurnished,Poor,3878000
+Ahmedabad,Satellite,Commercial,2500,0,4,1,3,2,Semi-Furnished,Poor,26110000
+Ahmedabad,Satellite,Commercial,4000,1,4,1,1,1,Furnished,Poor,48437000
+Ahmedabad,Satellite,Studio,553,1,1,1,10,1,Semi-Furnished,Good,4502000
+Ahmedabad,Satellite,Studio,525,1,1,1,25,2,Unfurnished,Excellent,3980000
+Ahmedabad,Satellite,Studio,582,1,1,1,0,2,Unfurnished,Excellent,5708000
+Ahmedabad,Vastrapur,Apartment,1018,2,1,1,7,2,Semi-Furnished,Average,8614000
+Ahmedabad,Vastrapur,Apartment,796,1,1,3,2,0,Unfurnished,Poor,5721000
+Ahmedabad,Vastrapur,Apartment,639,1,1,2,5,1,Unfurnished,Poor,4740000
+Ahmedabad,Vastrapur,Apartment,1582,3,3,2,7,2,Semi-Furnished,Excellent,17559000
+Ahmedabad,Vastrapur,Villa,3967,4,4,2,25,2,Unfurnished,Average,35243000
+Ahmedabad,Vastrapur,Villa,4844,6,6,3,7,0,Unfurnished,Excellent,66273000
+Ahmedabad,Vastrapur,Villa,4486,5,5,3,10,1,Furnished,Poor,53518000
+Ahmedabad,Vastrapur,Villa,3541,4,4,3,1,0,Unfurnished,Average,39790000
+Ahmedabad,Vastrapur,Independent House,5365,6,6,2,3,1,Unfurnished,Average,54586000
+Ahmedabad,Vastrapur,Independent House,5681,6,6,2,0,1,Semi-Furnished,Poor,55738000
+Ahmedabad,Vastrapur,Independent House,3708,5,5,2,20,2,Furnished,Good,39998000
+Ahmedabad,Vastrapur,Commercial,1800,0,4,3,2,2,Furnished,Average,24185000
+Ahmedabad,Vastrapur,Commercial,1200,1,4,3,25,0,Unfurnished,Poor,8380000
+Ahmedabad,Vastrapur,Commercial,2500,0,4,1,15,3,Furnished,Poor,25981000
+Ahmedabad,Vastrapur,Studio,607,1,1,1,25,0,Furnished,Good,4632000
+Ahmedabad,Vastrapur,Studio,458,1,1,1,3,2,Furnished,Excellent,5042000
+Ahmedabad,Vastrapur,Studio,590,1,1,1,1,1,Semi-Furnished,Excellent,6115000
+Ahmedabad,Thaltej,Apartment,2454,4,4,3,3,2,Semi-Furnished,Good,24410000
+Ahmedabad,Thaltej,Apartment,1109,2,2,1,10,0,Unfurnished,Poor,6662000
+Ahmedabad,Thaltej,Apartment,1402,2,1,3,2,2,Semi-Furnished,Average,12760000
+Ahmedabad,Thaltej,Apartment,1494,3,3,4,2,3,Semi-Furnished,Average,14078000
+Ahmedabad,Thaltej,Villa,3250,4,4,1,1,3,Unfurnished,Poor,32517000
+Ahmedabad,Thaltej,Villa,4707,5,5,2,20,1,Semi-Furnished,Average,44329000
+Ahmedabad,Thaltej,Villa,2545,3,3,3,2,0,Furnished,Poor,29169000
+Ahmedabad,Thaltej,Villa,2656,3,3,2,7,1,Unfurnished,Average,26739000
+Ahmedabad,Thaltej,Independent House,5588,6,6,2,5,3,Unfurnished,Good,56035000
+Ahmedabad,Thaltej,Independent House,3529,4,4,3,1,0,Semi-Furnished,Poor,30678000
+Ahmedabad,Thaltej,Independent House,2711,4,4,1,1,2,Semi-Furnished,Average,27881000
+Ahmedabad,Thaltej,Commercial,7000,1,1,4,1,2,Furnished,Poor,78665000
+Ahmedabad,Thaltej,Commercial,1800,1,3,4,2,1,Semi-Furnished,Poor,18378000
+Ahmedabad,Thaltej,Commercial,2500,2,1,1,7,1,Semi-Furnished,Poor,21650000
+Ahmedabad,Thaltej,Studio,480,1,1,1,1,1,Furnished,Poor,3655000
+Ahmedabad,Thaltej,Studio,615,1,1,1,20,1,Unfurnished,Good,3751000
+Ahmedabad,Thaltej,Studio,461,1,1,1,0,1,Unfurnished,Average,3181000
+Ahmedabad,SG Highway,Apartment,2657,4,3,4,3,0,Semi-Furnished,Good,21865000
+Ahmedabad,SG Highway,Apartment,1679,3,3,3,2,1,Furnished,Good,16410000
+Ahmedabad,SG Highway,Apartment,745,1,1,2,3,3,Semi-Furnished,Excellent,7642000
+Ahmedabad,SG Highway,Apartment,1766,3,2,1,25,2,Semi-Furnished,Average,10852000
+Ahmedabad,SG Highway,Villa,3668,4,4,2,2,0,Furnished,Good,44750000
+Ahmedabad,SG Highway,Villa,3496,4,4,3,7,2,Unfurnished,Poor,28669000
+Ahmedabad,SG Highway,Villa,2982,4,4,2,3,0,Unfurnished,Good,29105000
+Ahmedabad,SG Highway,Villa,2558,4,4,3,0,3,Semi-Furnished,Average,29044000
+Ahmedabad,SG Highway,Independent House,3924,4,4,1,10,1,Furnished,Average,36243000
+Ahmedabad,SG Highway,Independent House,2739,3,3,3,1,2,Furnished,Excellent,36913000
+Ahmedabad,SG Highway,Independent House,3498,5,5,1,3,0,Semi-Furnished,Excellent,35609000
+Ahmedabad,SG Highway,Commercial,1800,1,1,1,15,1,Furnished,Good,18093000
+Ahmedabad,SG Highway,Commercial,2500,0,1,3,0,3,Furnished,Poor,26885000
+Ahmedabad,SG Highway,Commercial,850,1,4,1,20,2,Unfurnished,Good,6876000
+Ahmedabad,SG Highway,Studio,385,1,1,1,15,0,Semi-Furnished,Good,2355000
+Ahmedabad,SG Highway,Studio,527,1,1,1,10,0,Furnished,Good,3865000
+Ahmedabad,SG Highway,Studio,374,1,1,1,10,1,Furnished,Excellent,3249000
+Ahmedabad,Bopal,Apartment,2648,4,3,1,0,1,Unfurnished,Poor,12988000
+Ahmedabad,Bopal,Apartment,1391,2,2,2,1,1,Furnished,Good,10810000
+Ahmedabad,Bopal,Apartment,2005,3,2,1,1,0,Semi-Furnished,Poor,10390000
+Ahmedabad,Bopal,Apartment,2359,4,3,2,2,2,Semi-Furnished,Poor,12951000
+Ahmedabad,Bopal,Villa,3615,4,4,3,15,3,Unfurnished,Average,26779000
+Ahmedabad,Bopal,Villa,4816,5,5,3,15,1,Unfurnished,Good,36793000
+Ahmedabad,Bopal,Villa,2247,3,3,3,3,3,Unfurnished,Poor,17026000
+Ahmedabad,Bopal,Villa,2297,3,3,1,15,2,Unfurnished,Excellent,18935000
+Ahmedabad,Bopal,Independent House,3891,4,4,3,20,1,Semi-Furnished,Excellent,30521000
+Ahmedabad,Bopal,Independent House,3519,6,6,1,7,2,Semi-Furnished,Average,25490000
+Ahmedabad,Bopal,Independent House,2525,4,4,1,5,2,Furnished,Poor,17497000
+Ahmedabad,Bopal,Commercial,4000,0,1,2,0,2,Unfurnished,Good,31109000
+Ahmedabad,Bopal,Commercial,2500,2,4,3,5,0,Furnished,Poor,18312000
+Ahmedabad,Bopal,Commercial,850,0,4,5,10,2,Semi-Furnished,Poor,5872000
+Ahmedabad,Bopal,Studio,539,1,1,1,1,0,Furnished,Excellent,4099000
+Ahmedabad,Bopal,Studio,566,1,1,1,3,1,Unfurnished,Excellent,3420000
+Ahmedabad,Bopal,Studio,491,1,1,1,20,2,Semi-Furnished,Excellent,2781000
+Ahmedabad,Gota,Apartment,639,1,1,1,0,0,Furnished,Good,3854000
+Ahmedabad,Gota,Apartment,1382,3,2,4,10,0,Unfurnished,Good,6743000
+Ahmedabad,Gota,Apartment,1330,2,1,3,0,0,Unfurnished,Excellent,8203000
+Ahmedabad,Gota,Apartment,1968,4,4,2,2,1,Semi-Furnished,Average,10769000
+Ahmedabad,Gota,Villa,3565,5,5,1,5,0,Unfurnished,Poor,19214000
+Ahmedabad,Gota,Villa,4116,5,5,1,15,0,Unfurnished,Poor,20050000
+Ahmedabad,Gota,Villa,3804,4,4,3,2,1,Unfurnished,Poor,22064000
+Ahmedabad,Gota,Villa,3300,4,4,2,20,1,Furnished,Excellent,26652000
+Ahmedabad,Gota,Independent House,2907,5,5,2,7,2,Furnished,Excellent,23855000
+Ahmedabad,Gota,Independent House,4957,6,6,1,10,1,Furnished,Average,31049000
+Ahmedabad,Gota,Independent House,2372,3,3,3,10,1,Unfurnished,Poor,11043000
+Ahmedabad,Gota,Commercial,4000,1,1,3,20,2,Furnished,Average,25407000
+Ahmedabad,Gota,Commercial,1200,2,3,4,25,2,Semi-Furnished,Good,7006000
+Ahmedabad,Gota,Commercial,2500,2,3,5,1,2,Semi-Furnished,Good,19169000
+Ahmedabad,Gota,Studio,354,1,1,1,15,3,Unfurnished,Excellent,1773000
+Ahmedabad,Gota,Studio,617,1,1,1,5,2,Furnished,Average,3170000
+Ahmedabad,Gota,Studio,497,1,1,1,1,1,Unfurnished,Excellent,2559000
+Ahmedabad,Maninagar,Apartment,1293,2,2,4,5,0,Semi-Furnished,Good,6894000
+Ahmedabad,Maninagar,Apartment,497,1,1,3,20,3,Furnished,Average,2593000
+Ahmedabad,Maninagar,Apartment,1970,4,3,1,5,1,Unfurnished,Excellent,11030000
+Ahmedabad,Maninagar,Apartment,1353,2,1,4,1,1,Semi-Furnished,Good,7413000
+Ahmedabad,Maninagar,Villa,4222,5,5,3,2,3,Unfurnished,Good,29469000
+Ahmedabad,Maninagar,Villa,3834,6,6,1,5,2,Furnished,Excellent,35221000
+Ahmedabad,Maninagar,Villa,4487,5,5,1,2,2,Semi-Furnished,Good,32798000
+Ahmedabad,Maninagar,Villa,3167,4,4,2,10,2,Semi-Furnished,Poor,18529000
+Ahmedabad,Maninagar,Independent House,3063,3,3,1,2,2,Semi-Furnished,Average,18311000
+Ahmedabad,Maninagar,Independent House,2681,4,4,3,5,0,Semi-Furnished,Average,15077000
+Ahmedabad,Maninagar,Independent House,2645,3,3,3,15,0,Unfurnished,Poor,10812000
+Ahmedabad,Maninagar,Commercial,500,2,3,5,1,1,Furnished,Excellent,4685000
+Ahmedabad,Maninagar,Commercial,500,0,1,2,20,1,Furnished,Excellent,3501000
+Ahmedabad,Maninagar,Commercial,4000,2,2,3,5,3,Unfurnished,Excellent,30074000
+Ahmedabad,Maninagar,Studio,452,1,1,1,1,0,Unfurnished,Average,1809000
+Ahmedabad,Maninagar,Studio,411,1,1,1,20,0,Unfurnished,Average,1307000
+Ahmedabad,Maninagar,Studio,362,1,1,1,20,2,Semi-Furnished,Poor,1249000
+Ahmedabad,Chandkheda,Apartment,1099,2,2,3,25,3,Semi-Furnished,Poor,3780000
+Ahmedabad,Chandkheda,Apartment,1707,4,4,2,20,3,Furnished,Average,7766000
+Ahmedabad,Chandkheda,Apartment,1019,2,1,3,5,2,Semi-Furnished,Poor,4210000
+Ahmedabad,Chandkheda,Apartment,1433,3,2,1,25,2,Unfurnished,Good,5005000
+Ahmedabad,Chandkheda,Villa,4447,6,6,1,15,3,Semi-Furnished,Good,26103000
+Ahmedabad,Chandkheda,Villa,3029,4,4,1,7,3,Furnished,Excellent,25847000
+Ahmedabad,Chandkheda,Villa,3429,4,4,3,25,1,Semi-Furnished,Average,16851000
+Ahmedabad,Chandkheda,Villa,3711,4,4,3,15,2,Semi-Furnished,Average,21455000
+Ahmedabad,Chandkheda,Independent House,5329,6,6,2,2,3,Semi-Furnished,Good,33177000
+Ahmedabad,Chandkheda,Independent House,2850,5,5,3,2,1,Unfurnished,Poor,12809000
+Ahmedabad,Chandkheda,Independent House,3465,5,5,3,3,0,Unfurnished,Excellent,21442000
+Ahmedabad,Chandkheda,Commercial,500,1,1,5,5,0,Unfurnished,Poor,2323000
+Ahmedabad,Chandkheda,Commercial,2500,1,1,2,7,0,Furnished,Excellent,18284000
+Ahmedabad,Chandkheda,Commercial,2500,2,2,2,5,2,Semi-Furnished,Good,15148000
+Ahmedabad,Chandkheda,Studio,432,1,1,1,10,2,Unfurnished,Poor,1367000
+Ahmedabad,Chandkheda,Studio,672,1,1,1,1,1,Unfurnished,Average,2615000
+Ahmedabad,Chandkheda,Studio,534,1,1,1,10,2,Furnished,Poor,2018000
+Ahmedabad,Naroda,Apartment,2514,4,3,2,3,2,Semi-Furnished,Good,10980000
+Ahmedabad,Naroda,Apartment,1907,3,2,4,10,0,Furnished,Poor,6884000
+Ahmedabad,Naroda,Apartment,1503,3,2,2,0,2,Furnished,Good,7352000
+Ahmedabad,Naroda,Apartment,1375,2,1,3,1,1,Semi-Furnished,Poor,5041000
+Ahmedabad,Naroda,Villa,3877,4,4,3,5,2,Furnished,Poor,21333000
+Ahmedabad,Naroda,Villa,2533,3,3,3,0,0,Semi-Furnished,Excellent,16848000
+Ahmedabad,Naroda,Villa,3650,4,4,1,3,2,Furnished,Good,24718000
+Ahmedabad,Naroda,Villa,2019,3,3,3,25,3,Unfurnished,Good,9609000
+Ahmedabad,Naroda,Independent House,4209,5,5,1,20,2,Unfurnished,Good,16979000
+Ahmedabad,Naroda,Independent House,2001,3,3,1,7,2,Semi-Furnished,Good,10072000
+Ahmedabad,Naroda,Independent House,2262,4,4,1,3,2,Furnished,Excellent,15109000
+Ahmedabad,Naroda,Commercial,500,2,4,1,10,2,Furnished,Average,2623000
+Ahmedabad,Naroda,Commercial,2500,1,2,1,15,0,Furnished,Good,12565000
+Ahmedabad,Naroda,Commercial,1800,1,1,2,3,0,Furnished,Poor,8425000
+Ahmedabad,Naroda,Studio,624,1,1,1,25,0,Unfurnished,Average,1603000
+Ahmedabad,Naroda,Studio,389,1,1,1,0,1,Semi-Furnished,Average,1384000
+Ahmedabad,Naroda,Studio,510,1,1,1,7,2,Furnished,Average,2074000
+Jaipur,C Scheme,Apartment,1275,2,2,1,1,1,Furnished,Average,14905000
+Jaipur,C Scheme,Apartment,2519,4,3,3,7,2,Semi-Furnished,Average,26676000
+Jaipur,C Scheme,Apartment,1147,2,2,1,7,2,Furnished,Excellent,15856000
+Jaipur,C Scheme,Apartment,1439,2,2,3,20,1,Unfurnished,Good,13022000
+Jaipur,C Scheme,Villa,2377,4,4,3,15,3,Semi-Furnished,Poor,27295000
+Jaipur,C Scheme,Villa,2325,3,3,2,5,0,Unfurnished,Good,31819000
+Jaipur,C Scheme,Villa,3885,5,5,2,15,0,Unfurnished,Average,43131000
+Jaipur,C Scheme,Villa,4102,5,5,2,0,2,Semi-Furnished,Poor,55778000
+Jaipur,C Scheme,Independent House,3810,4,4,3,3,0,Semi-Furnished,Excellent,59234000
+Jaipur,C Scheme,Independent House,2951,3,3,2,5,2,Semi-Furnished,Excellent,45747000
+Jaipur,C Scheme,Independent House,5178,6,6,1,10,2,Furnished,Average,65539000
+Jaipur,C Scheme,Commercial,1200,0,3,1,3,2,Semi-Furnished,Good,17115000
+Jaipur,C Scheme,Commercial,2500,0,3,3,5,3,Semi-Furnished,Poor,29598000
+Jaipur,C Scheme,Commercial,4000,2,3,3,2,2,Semi-Furnished,Poor,48589000
+Jaipur,C Scheme,Studio,588,1,1,1,0,1,Semi-Furnished,Average,5535000
+Jaipur,C Scheme,Studio,646,1,1,1,1,1,Furnished,Good,7576000
+Jaipur,C Scheme,Studio,575,1,1,1,2,1,Semi-Furnished,Good,5928000
+Jaipur,Bani Park,Apartment,1007,2,2,1,3,0,Furnished,Poor,8333000
+Jaipur,Bani Park,Apartment,2043,3,2,1,20,3,Unfurnished,Poor,13560000
+Jaipur,Bani Park,Apartment,1341,2,1,1,25,1,Semi-Furnished,Poor,8057000
+Jaipur,Bani Park,Apartment,1353,3,3,2,7,2,Semi-Furnished,Excellent,14461000
+Jaipur,Bani Park,Villa,4524,5,5,1,7,2,Semi-Furnished,Good,59817000
+Jaipur,Bani Park,Villa,3103,4,4,3,0,1,Semi-Furnished,Poor,34371000
+Jaipur,Bani Park,Villa,3671,4,4,1,25,1,Semi-Furnished,Good,38905000
+Jaipur,Bani Park,Villa,4377,5,5,3,2,2,Furnished,Poor,57843000
+Jaipur,Bani Park,Independent House,3398,4,4,3,20,3,Semi-Furnished,Poor,29842000
+Jaipur,Bani Park,Independent House,5425,6,6,2,20,2,Semi-Furnished,Good,52921000
+Jaipur,Bani Park,Independent House,4027,6,6,2,3,1,Unfurnished,Excellent,48100000
+Jaipur,Bani Park,Commercial,4000,0,2,4,10,1,Unfurnished,Good,43628000
+Jaipur,Bani Park,Commercial,1200,0,4,5,3,2,Semi-Furnished,Average,14844000
+Jaipur,Bani Park,Commercial,2500,0,2,4,25,3,Unfurnished,Good,25035000
+Jaipur,Bani Park,Studio,524,1,1,1,7,0,Unfurnished,Excellent,4413000
+Jaipur,Bani Park,Studio,425,1,1,1,25,2,Furnished,Average,3209000
+Jaipur,Bani Park,Studio,582,1,1,1,0,1,Unfurnished,Excellent,5320000
+Jaipur,Malviya Nagar,Apartment,1903,3,3,2,0,2,Unfurnished,Average,15550000
+Jaipur,Malviya Nagar,Apartment,1242,2,1,4,7,1,Semi-Furnished,Average,10214000
+Jaipur,Malviya Nagar,Apartment,620,1,1,1,1,3,Semi-Furnished,Excellent,6762000
+Jaipur,Malviya Nagar,Apartment,2210,4,3,4,2,3,Unfurnished,Poor,15632000
+Jaipur,Malviya Nagar,Villa,2601,3,3,3,15,2,Semi-Furnished,Excellent,31884000
+Jaipur,Malviya Nagar,Villa,4265,6,6,1,3,1,Semi-Furnished,Good,47276000
+Jaipur,Malviya Nagar,Villa,5649,6,6,3,10,1,Semi-Furnished,Excellent,71612000
+Jaipur,Malviya Nagar,Villa,3746,4,4,3,3,2,Furnished,Good,51951000
+Jaipur,Malviya Nagar,Independent House,4131,6,6,2,2,0,Semi-Furnished,Good,41458000
+Jaipur,Malviya Nagar,Independent House,3763,4,4,2,25,0,Unfurnished,Good,26661000
+Jaipur,Malviya Nagar,Independent House,3343,4,4,1,0,2,Unfurnished,Average,29210000
+Jaipur,Malviya Nagar,Commercial,1200,0,2,3,25,2,Furnished,Excellent,14054000
+Jaipur,Malviya Nagar,Commercial,1200,1,1,1,15,2,Semi-Furnished,Good,11304000
+Jaipur,Malviya Nagar,Commercial,1200,0,1,3,1,3,Unfurnished,Poor,10656000
+Jaipur,Malviya Nagar,Studio,609,1,1,1,7,1,Semi-Furnished,Poor,3748000
+Jaipur,Malviya Nagar,Studio,511,1,1,1,0,2,Unfurnished,Good,3718000
+Jaipur,Malviya Nagar,Studio,635,1,1,1,0,3,Furnished,Poor,4764000
+Jaipur,Vaishali Nagar,Apartment,1588,3,3,3,15,1,Semi-Furnished,Average,11152000
+Jaipur,Vaishali Nagar,Apartment,937,2,2,1,10,0,Semi-Furnished,Average,6450000
+Jaipur,Vaishali Nagar,Apartment,621,1,1,2,7,2,Furnished,Average,5401000
+Jaipur,Vaishali Nagar,Apartment,1411,2,1,4,25,1,Furnished,Excellent,12101000
+Jaipur,Vaishali Nagar,Villa,2765,4,4,2,10,2,Semi-Furnished,Average,27679000
+Jaipur,Vaishali Nagar,Villa,2074,3,3,3,1,1,Furnished,Excellent,31128000
+Jaipur,Vaishali Nagar,Villa,4630,5,5,3,10,3,Unfurnished,Poor,38263000
+Jaipur,Vaishali Nagar,Villa,4116,6,6,2,0,2,Semi-Furnished,Good,48735000
+Jaipur,Vaishali Nagar,Independent House,3708,5,5,2,10,1,Unfurnished,Good,30752000
+Jaipur,Vaishali Nagar,Independent House,2766,4,4,2,15,2,Unfurnished,Average,20954000
+Jaipur,Vaishali Nagar,Independent House,3151,3,3,3,7,1,Furnished,Poor,28407000
+Jaipur,Vaishali Nagar,Commercial,7000,0,4,1,7,1,Furnished,Poor,62814000
+Jaipur,Vaishali Nagar,Commercial,850,2,3,5,3,1,Furnished,Excellent,12191000
+Jaipur,Vaishali Nagar,Commercial,1200,0,2,3,7,2,Unfurnished,Average,10979000
+Jaipur,Vaishali Nagar,Studio,368,1,1,1,0,2,Unfurnished,Excellent,3041000
+Jaipur,Vaishali Nagar,Studio,371,1,1,1,2,1,Semi-Furnished,Poor,2168000
+Jaipur,Vaishali Nagar,Studio,476,1,1,1,0,1,Furnished,Poor,3323000
+Jaipur,Mansarovar,Apartment,1774,3,2,1,1,0,Furnished,Excellent,14153000
+Jaipur,Mansarovar,Apartment,2518,4,4,4,3,2,Semi-Furnished,Good,17786000
+Jaipur,Mansarovar,Apartment,1743,4,3,2,1,1,Furnished,Excellent,15043000
+Jaipur,Mansarovar,Apartment,1423,3,2,4,5,3,Furnished,Average,10531000
+Jaipur,Mansarovar,Villa,4345,5,5,3,1,2,Unfurnished,Poor,31165000
+Jaipur,Mansarovar,Villa,3159,4,4,3,1,3,Semi-Furnished,Good,30253000
+Jaipur,Mansarovar,Villa,1900,3,3,1,15,2,Unfurnished,Poor,11202000
+Jaipur,Mansarovar,Villa,5478,6,6,3,25,1,Unfurnished,Excellent,41383000
+Jaipur,Mansarovar,Independent House,3461,4,4,1,7,3,Furnished,Excellent,35958000
+Jaipur,Mansarovar,Independent House,3690,4,4,3,15,2,Semi-Furnished,Good,27980000
+Jaipur,Mansarovar,Independent House,3076,4,4,2,20,2,Furnished,Poor,19858000
+Jaipur,Mansarovar,Commercial,4000,1,1,4,2,0,Unfurnished,Poor,24840000
+Jaipur,Mansarovar,Commercial,7000,1,1,1,10,2,Unfurnished,Excellent,56371000
+Jaipur,Mansarovar,Commercial,1800,2,4,1,5,0,Semi-Furnished,Good,14213000
+Jaipur,Mansarovar,Studio,696,1,1,1,5,2,Semi-Furnished,Good,4143000
+Jaipur,Mansarovar,Studio,434,1,1,1,2,1,Furnished,Average,2740000
+Jaipur,Mansarovar,Studio,540,1,1,1,20,2,Semi-Furnished,Excellent,3148000
+Jaipur,Pratap Nagar,Apartment,1347,2,2,4,0,1,Semi-Furnished,Average,7312000
+Jaipur,Pratap Nagar,Apartment,699,1,1,2,3,3,Unfurnished,Excellent,4341000
+Jaipur,Pratap Nagar,Apartment,646,1,1,3,20,1,Semi-Furnished,Poor,2647000
+Jaipur,Pratap Nagar,Apartment,1101,2,1,3,25,2,Semi-Furnished,Average,4649000
+Jaipur,Pratap Nagar,Villa,2474,4,4,2,2,1,Furnished,Poor,16885000
+Jaipur,Pratap Nagar,Villa,5001,6,6,2,7,2,Furnished,Good,43705000
+Jaipur,Pratap Nagar,Villa,5046,6,6,1,2,0,Unfurnished,Average,30450000
+Jaipur,Pratap Nagar,Villa,3635,6,6,2,0,1,Unfurnished,Poor,20770000
+Jaipur,Pratap Nagar,Independent House,3791,5,5,2,5,2,Unfurnished,Average,21841000
+Jaipur,Pratap Nagar,Independent House,4608,5,5,2,7,1,Furnished,Good,33053000
+Jaipur,Pratap Nagar,Independent House,5306,6,6,3,5,3,Unfurnished,Excellent,39633000
+Jaipur,Pratap Nagar,Commercial,4000,1,3,1,20,2,Furnished,Good,26082000
+Jaipur,Pratap Nagar,Commercial,7000,1,4,3,10,1,Furnished,Average,48404000
+Jaipur,Pratap Nagar,Commercial,4000,0,1,2,15,1,Furnished,Average,25001000
+Jaipur,Pratap Nagar,Studio,508,1,1,1,7,0,Semi-Furnished,Good,2357000
+Jaipur,Pratap Nagar,Studio,356,1,1,1,25,1,Unfurnished,Good,1309000
+Jaipur,Pratap Nagar,Studio,553,1,1,1,0,3,Furnished,Good,3281000
+Jaipur,Jagatpura,Apartment,699,1,1,4,15,1,Semi-Furnished,Poor,3024000
+Jaipur,Jagatpura,Apartment,642,1,1,2,1,2,Unfurnished,Poor,2996000
+Jaipur,Jagatpura,Apartment,1736,4,3,2,25,3,Unfurnished,Good,8197000
+Jaipur,Jagatpura,Apartment,1341,2,1,1,10,2,Furnished,Poor,6650000
+Jaipur,Jagatpura,Villa,3690,6,6,1,2,2,Unfurnished,Good,27909000
+Jaipur,Jagatpura,Villa,4507,6,6,3,0,1,Semi-Furnished,Good,36646000
+Jaipur,Jagatpura,Villa,4192,5,5,1,25,2,Unfurnished,Poor,21022000
+Jaipur,Jagatpura,Villa,3462,4,4,2,25,3,Unfurnished,Average,20446000
+Jaipur,Jagatpura,Independent House,3455,4,4,1,3,1,Furnished,Average,25172000
+Jaipur,Jagatpura,Independent House,2890,4,4,3,5,1,Semi-Furnished,Average,18916000
+Jaipur,Jagatpura,Independent House,3247,5,5,2,3,1,Semi-Furnished,Good,23076000
+Jaipur,Jagatpura,Commercial,500,1,4,3,25,1,Semi-Furnished,Excellent,3552000
+Jaipur,Jagatpura,Commercial,7000,2,2,1,25,2,Unfurnished,Average,37080000
+Jaipur,Jagatpura,Commercial,1200,1,3,2,7,3,Furnished,Good,9819000
+Jaipur,Jagatpura,Studio,457,1,1,1,5,1,Semi-Furnished,Good,2259000
+Jaipur,Jagatpura,Studio,409,1,1,1,20,3,Furnished,Average,1984000
+Jaipur,Jagatpura,Studio,589,1,1,1,25,1,Semi-Furnished,Excellent,2858000
+Jaipur,Tonk Road,Apartment,556,1,1,1,2,2,Semi-Furnished,Good,2970000
+Jaipur,Tonk Road,Apartment,587,1,1,2,15,2,Unfurnished,Poor,2143000
+Jaipur,Tonk Road,Apartment,1739,3,2,4,15,1,Semi-Furnished,Good,8609000
+Jaipur,Tonk Road,Apartment,1834,3,3,2,20,0,Semi-Furnished,Excellent,9374000
+Jaipur,Tonk Road,Villa,4175,6,6,1,20,1,Semi-Furnished,Average,23853000
+Jaipur,Tonk Road,Villa,5070,6,6,3,7,0,Unfurnished,Good,32656000
+Jaipur,Tonk Road,Villa,3716,4,4,2,2,2,Unfurnished,Average,23129000
+Jaipur,Tonk Road,Villa,2723,4,4,1,3,1,Semi-Furnished,Poor,15991000
+Jaipur,Tonk Road,Independent House,3692,4,4,2,0,2,Unfurnished,Good,21813000
+Jaipur,Tonk Road,Independent House,5205,6,6,1,15,3,Semi-Furnished,Excellent,35201000
+Jaipur,Tonk Road,Independent House,2327,3,3,1,10,1,Semi-Furnished,Excellent,15510000
+Jaipur,Tonk Road,Commercial,500,2,3,4,25,0,Unfurnished,Average,2333000
+Jaipur,Tonk Road,Commercial,1200,1,3,5,0,2,Furnished,Excellent,11883000
+Jaipur,Tonk Road,Commercial,850,2,2,4,3,0,Unfurnished,Good,5215000
+Jaipur,Tonk Road,Studio,523,1,1,1,10,3,Unfurnished,Excellent,2497000
+Jaipur,Tonk Road,Studio,509,1,1,1,10,3,Semi-Furnished,Poor,1900000
+Jaipur,Tonk Road,Studio,565,1,1,1,2,1,Semi-Furnished,Poor,2187000
+Jaipur,Ajmer Road,Apartment,561,1,1,1,2,1,Unfurnished,Excellent,3046000
+Jaipur,Ajmer Road,Apartment,673,1,1,1,5,2,Semi-Furnished,Poor,2816000
+Jaipur,Ajmer Road,Apartment,1747,3,2,3,1,1,Semi-Furnished,Excellent,10980000
+Jaipur,Ajmer Road,Apartment,573,1,1,2,20,2,Furnished,Excellent,3255000
+Jaipur,Ajmer Road,Villa,3325,5,5,2,15,1,Unfurnished,Good,18393000
+Jaipur,Ajmer Road,Villa,3671,4,4,1,20,1,Unfurnished,Good,19034000
+Jaipur,Ajmer Road,Villa,2388,3,3,3,0,2,Unfurnished,Good,16651000
+Jaipur,Ajmer Road,Villa,5099,6,6,1,1,2,Unfurnished,Average,31495000
+Jaipur,Ajmer Road,Independent House,3702,5,5,2,15,3,Furnished,Average,22612000
+Jaipur,Ajmer Road,Independent House,4585,6,6,1,7,1,Unfurnished,Average,22533000
+Jaipur,Ajmer Road,Independent House,2529,3,3,1,7,3,Furnished,Good,16962000
+Jaipur,Ajmer Road,Commercial,850,0,3,1,10,0,Unfurnished,Good,4624000
+Jaipur,Ajmer Road,Commercial,2500,2,2,1,7,2,Semi-Furnished,Average,14734000
+Jaipur,Ajmer Road,Commercial,1200,1,2,3,20,3,Unfurnished,Excellent,7618000
+Jaipur,Ajmer Road,Studio,697,1,1,1,5,1,Unfurnished,Excellent,3188000
+Jaipur,Ajmer Road,Studio,562,1,1,1,2,1,Semi-Furnished,Excellent,2965000
+Jaipur,Ajmer Road,Studio,675,1,1,1,7,0,Unfurnished,Average,2341000
+Jaipur,Sitapura,Apartment,1033,2,1,4,25,1,Furnished,Excellent,5056000
+Jaipur,Sitapura,Apartment,1346,3,2,3,15,1,Semi-Furnished,Excellent,6305000
+Jaipur,Sitapura,Apartment,1919,4,3,4,0,3,Furnished,Poor,9260000
+Jaipur,Sitapura,Apartment,2009,3,3,3,5,1,Semi-Furnished,Excellent,10784000
+Jaipur,Sitapura,Villa,2186,3,3,1,25,1,Furnished,Excellent,13561000
+Jaipur,Sitapura,Villa,2746,3,3,3,15,1,Semi-Furnished,Average,14235000
+Jaipur,Sitapura,Villa,1927,3,3,1,1,2,Semi-Furnished,Average,11770000
+Jaipur,Sitapura,Villa,3980,5,5,1,10,2,Semi-Furnished,Good,23827000
+Jaipur,Sitapura,Independent House,2848,3,3,3,7,2,Furnished,Excellent,19678000
+Jaipur,Sitapura,Independent House,3926,5,5,2,15,1,Unfurnished,Excellent,19705000
+Jaipur,Sitapura,Independent House,5581,6,6,2,2,3,Unfurnished,Excellent,34451000
+Jaipur,Sitapura,Commercial,1800,1,4,2,0,2,Unfurnished,Average,9449000
+Jaipur,Sitapura,Commercial,500,2,4,1,7,2,Unfurnished,Average,2403000
+Jaipur,Sitapura,Commercial,4000,1,1,3,0,3,Furnished,Excellent,32989000
+Jaipur,Sitapura,Studio,448,1,1,1,2,2,Semi-Furnished,Average,1711000
+Jaipur,Sitapura,Studio,452,1,1,1,7,1,Semi-Furnished,Poor,1494000
+Jaipur,Sitapura,Studio,455,1,1,1,25,2,Semi-Furnished,Average,1429000
+Surat,Vesu,Apartment,2037,3,2,1,25,1,Unfurnished,Average,11790000
+Surat,Vesu,Apartment,459,1,1,4,10,0,Semi-Furnished,Good,3879000
+Surat,Vesu,Apartment,1476,3,3,4,15,3,Unfurnished,Good,11823000
+Surat,Vesu,Apartment,2511,4,3,4,10,0,Unfurnished,Average,18104000
+Surat,Vesu,Villa,5065,6,6,3,2,1,Semi-Furnished,Good,59387000
+Surat,Vesu,Villa,3579,4,4,2,1,1,Furnished,Poor,39138000
+Surat,Vesu,Villa,4592,5,5,2,7,1,Furnished,Excellent,65906000
+Surat,Vesu,Villa,4389,5,5,2,25,0,Unfurnished,Average,34123000
+Surat,Vesu,Independent House,2154,3,3,3,7,3,Semi-Furnished,Good,23765000
+Surat,Vesu,Independent House,3264,4,4,2,15,3,Semi-Furnished,Average,29851000
+Surat,Vesu,Independent House,2583,4,4,2,5,3,Unfurnished,Poor,21334000
+Surat,Vesu,Commercial,1200,2,2,5,0,1,Semi-Furnished,Excellent,16281000
+Surat,Vesu,Commercial,1200,0,2,5,20,1,Furnished,Good,12899000
+Surat,Vesu,Commercial,4000,1,2,5,15,1,Semi-Furnished,Excellent,45201000
+Surat,Vesu,Studio,383,1,1,1,7,1,Semi-Furnished,Average,2572000
+Surat,Vesu,Studio,492,1,1,1,25,3,Unfurnished,Average,2689000
+Surat,Vesu,Studio,585,1,1,1,25,3,Unfurnished,Average,3297000
+Surat,Piplod,Apartment,1284,2,2,3,20,0,Semi-Furnished,Poor,7454000
+Surat,Piplod,Apartment,694,1,1,2,5,3,Unfurnished,Average,4934000
+Surat,Piplod,Apartment,2116,4,3,3,1,3,Unfurnished,Poor,14812000
+Surat,Piplod,Apartment,1126,2,2,2,3,2,Furnished,Excellent,12171000
+Surat,Piplod,Villa,5341,6,6,2,1,1,Semi-Furnished,Poor,49017000
+Surat,Piplod,Villa,3371,5,5,3,3,2,Semi-Furnished,Good,39268000
+Surat,Piplod,Villa,4288,6,6,3,15,3,Unfurnished,Excellent,49936000
+Surat,Piplod,Villa,3714,4,4,2,15,3,Unfurnished,Good,35510000
+Surat,Piplod,Independent House,4211,6,6,2,5,2,Unfurnished,Good,37083000
+Surat,Piplod,Independent House,4727,6,6,2,1,1,Semi-Furnished,Poor,37545000
+Surat,Piplod,Independent House,4412,6,6,1,1,2,Furnished,Good,47412000
+Surat,Piplod,Commercial,1200,1,2,2,1,1,Unfurnished,Good,11496000
+Surat,Piplod,Commercial,7000,1,4,1,5,2,Unfurnished,Average,59774000
+Surat,Piplod,Commercial,7000,0,4,2,2,2,Furnished,Average,76334000
+Surat,Piplod,Studio,614,1,1,1,15,3,Furnished,Excellent,5489000
+Surat,Piplod,Studio,487,1,1,1,3,1,Semi-Furnished,Good,3478000
+Surat,Piplod,Studio,506,1,1,1,7,3,Semi-Furnished,Good,3706000
+Surat,Althan,Apartment,1778,3,3,4,0,2,Semi-Furnished,Average,14464000
+Surat,Althan,Apartment,910,2,2,3,5,1,Unfurnished,Good,6386000
+Surat,Althan,Apartment,1637,3,3,2,25,2,Semi-Furnished,Good,9964000
+Surat,Althan,Apartment,1052,2,1,1,10,3,Furnished,Excellent,9878000
+Surat,Althan,Villa,4636,6,6,1,0,3,Semi-Furnished,Good,51319000
+Surat,Althan,Villa,4603,5,5,2,2,3,Unfurnished,Good,48600000
+Surat,Althan,Villa,4425,5,5,3,5,2,Unfurnished,Poor,35408000
+Surat,Althan,Villa,3506,4,4,3,5,2,Furnished,Good,42492000
+Surat,Althan,Independent House,3469,4,4,3,7,1,Semi-Furnished,Average,27934000
+Surat,Althan,Independent House,3340,5,5,2,3,3,Furnished,Good,35113000
+Surat,Althan,Independent House,2196,3,3,2,10,2,Semi-Furnished,Poor,16096000
+Surat,Althan,Commercial,2500,0,3,1,25,2,Unfurnished,Good,18125000
+Surat,Althan,Commercial,1200,1,3,1,1,2,Unfurnished,Poor,8938000
+Surat,Althan,Commercial,7000,2,1,5,15,2,Furnished,Average,69053000
+Surat,Althan,Studio,700,1,1,1,10,1,Semi-Furnished,Excellent,5252000
+Surat,Althan,Studio,427,1,1,1,7,0,Unfurnished,Good,2475000
+Surat,Althan,Studio,571,1,1,1,0,2,Furnished,Good,4395000
+Surat,Pal,Apartment,1321,3,2,4,2,1,Unfurnished,Good,8491000
+Surat,Pal,Apartment,2462,4,3,2,3,1,Unfurnished,Good,14667000
+Surat,Pal,Apartment,593,1,1,3,1,1,Semi-Furnished,Average,3854000
+Surat,Pal,Apartment,1109,2,1,2,3,1,Unfurnished,Average,6495000
+Surat,Pal,Villa,3138,5,5,1,15,3,Furnished,Average,26784000
+Surat,Pal,Villa,3678,5,5,1,10,2,Unfurnished,Poor,24368000
+Surat,Pal,Villa,5761,6,6,3,1,1,Unfurnished,Poor,41912000
+Surat,Pal,Villa,4222,6,6,2,3,1,Unfurnished,Good,34781000
+Surat,Pal,Independent House,3701,6,6,1,0,2,Semi-Furnished,Excellent,35881000
+Surat,Pal,Independent House,2283,3,3,1,10,3,Semi-Furnished,Average,16799000
+Surat,Pal,Independent House,2679,3,3,2,0,1,Furnished,Good,23299000
+Surat,Pal,Commercial,850,0,1,2,20,1,Unfurnished,Excellent,6427000
+Surat,Pal,Commercial,2500,0,2,3,7,2,Semi-Furnished,Average,19387000
+Surat,Pal,Commercial,2500,0,2,2,7,0,Unfurnished,Poor,14643000
+Surat,Pal,Studio,506,1,1,1,10,3,Semi-Furnished,Good,2965000
+Surat,Pal,Studio,364,1,1,1,0,1,Unfurnished,Excellent,2234000
+Surat,Pal,Studio,423,1,1,1,10,0,Furnished,Excellent,2961000
+Surat,Adajan,Apartment,2215,4,4,1,7,1,Unfurnished,Excellent,14570000
+Surat,Adajan,Apartment,810,1,1,4,2,2,Furnished,Poor,5012000
+Surat,Adajan,Apartment,1989,3,3,3,20,1,Furnished,Poor,9930000
+Surat,Adajan,Apartment,2627,4,4,2,3,2,Unfurnished,Average,14338000
+Surat,Adajan,Villa,2958,3,3,2,5,2,Unfurnished,Average,21394000
+Surat,Adajan,Villa,3522,4,4,2,15,3,Furnished,Good,32413000
+Surat,Adajan,Villa,2915,4,4,3,2,2,Furnished,Poor,24739000
+Surat,Adajan,Villa,4064,5,5,1,0,1,Furnished,Poor,33041000
+Surat,Adajan,Independent House,2624,4,4,1,25,2,Semi-Furnished,Good,15377000
+Surat,Adajan,Independent House,4282,6,6,2,25,1,Furnished,Excellent,31849000
+Surat,Adajan,Independent House,3511,4,4,2,7,1,Semi-Furnished,Good,25907000
+Surat,Adajan,Commercial,7000,1,4,1,7,2,Semi-Furnished,Poor,45180000
+Surat,Adajan,Commercial,4000,1,1,5,2,0,Unfurnished,Excellent,35703000
+Surat,Adajan,Commercial,2500,0,3,2,7,1,Semi-Furnished,Excellent,22027000
+Surat,Adajan,Studio,392,1,1,1,20,1,Semi-Furnished,Average,1669000
+Surat,Adajan,Studio,698,1,1,1,3,0,Unfurnished,Good,3494000
+Surat,Adajan,Studio,427,1,1,1,25,2,Furnished,Poor,1841000
+Surat,Bhatar,Apartment,1254,2,2,3,2,0,Furnished,Average,7820000
+Surat,Bhatar,Apartment,1457,3,2,2,5,0,Semi-Furnished,Good,8159000
+Surat,Bhatar,Apartment,2100,3,2,3,2,3,Semi-Furnished,Poor,10740000
+Surat,Bhatar,Apartment,2284,4,4,1,0,2,Unfurnished,Average,11996000
+Surat,Bhatar,Villa,3547,4,4,2,2,3,Semi-Furnished,Excellent,35126000
+Surat,Bhatar,Villa,3570,4,4,1,5,1,Semi-Furnished,Poor,22954000
+Surat,Bhatar,Villa,5543,6,6,1,15,1,Furnished,Good,44212000
+Surat,Bhatar,Villa,2730,3,3,2,20,0,Furnished,Excellent,22535000
+Surat,Bhatar,Independent House,3360,5,5,3,25,2,Unfurnished,Poor,15272000
+Surat,Bhatar,Independent House,3620,4,4,2,5,0,Furnished,Excellent,30900000
+Surat,Bhatar,Independent House,3955,4,4,2,5,1,Furnished,Poor,24121000
+Surat,Bhatar,Commercial,2500,2,3,2,15,3,Semi-Furnished,Excellent,19335000
+Surat,Bhatar,Commercial,7000,0,3,3,5,3,Furnished,Good,61139000
+Surat,Bhatar,Commercial,1200,1,1,1,1,3,Semi-Furnished,Average,8800000
+Surat,Bhatar,Studio,463,1,1,1,25,2,Furnished,Good,2153000
+Surat,Bhatar,Studio,599,1,1,1,20,2,Furnished,Excellent,3530000
+Surat,Bhatar,Studio,691,1,1,1,10,0,Furnished,Poor,3036000
+Surat,Varachha,Apartment,2751,4,4,1,3,1,Furnished,Excellent,17475000
+Surat,Varachha,Apartment,2482,4,3,4,25,2,Unfurnished,Excellent,11251000
+Surat,Varachha,Apartment,2504,4,4,2,25,1,Unfurnished,Good,8714000
+Surat,Varachha,Apartment,1967,3,2,3,7,1,Unfurnished,Good,8681000
+Surat,Varachha,Villa,2446,3,3,3,5,1,Unfurnished,Good,15205000
+Surat,Varachha,Villa,3537,4,4,2,1,1,Semi-Furnished,Average,21867000
+Surat,Varachha,Villa,2731,4,4,1,10,1,Furnished,Excellent,21603000
+Surat,Varachha,Villa,3466,5,5,2,7,1,Semi-Furnished,Good,22560000
+Surat,Varachha,Independent House,2773,4,4,1,25,1,Furnished,Good,14330000
+Surat,Varachha,Independent House,3942,6,6,3,1,1,Unfurnished,Poor,18184000
+Surat,Varachha,Independent House,4478,5,5,3,7,2,Semi-Furnished,Excellent,29244000
+Surat,Varachha,Commercial,500,1,3,5,25,0,Semi-Furnished,Average,2324000
+Surat,Varachha,Commercial,850,0,2,3,0,2,Unfurnished,Average,4712000
+Surat,Varachha,Commercial,1800,0,2,2,0,1,Unfurnished,Poor,8805000
+Surat,Varachha,Studio,597,1,1,1,15,2,Furnished,Average,2446000
+Surat,Varachha,Studio,615,1,1,1,25,2,Furnished,Excellent,2867000
+Surat,Varachha,Studio,536,1,1,1,5,2,Semi-Furnished,Good,2419000
+Surat,Katargam,Apartment,1101,2,2,2,7,3,Unfurnished,Average,4274000
+Surat,Katargam,Apartment,1918,3,2,1,25,1,Furnished,Good,7851000
+Surat,Katargam,Apartment,2683,4,3,3,25,0,Semi-Furnished,Excellent,11188000
+Surat,Katargam,Apartment,1341,3,3,4,20,3,Unfurnished,Good,5250000
+Surat,Katargam,Villa,2483,4,4,1,5,2,Semi-Furnished,Poor,12735000
+Surat,Katargam,Villa,3952,5,5,1,10,1,Furnished,Excellent,28543000
+Surat,Katargam,Villa,3019,4,4,3,10,1,Furnished,Good,20605000
+Surat,Katargam,Villa,3713,6,6,2,25,0,Unfurnished,Poor,13484000
+Surat,Katargam,Independent House,3499,4,4,3,2,1,Unfurnished,Excellent,21056000
+Surat,Katargam,Independent House,2548,4,4,3,10,2,Semi-Furnished,Excellent,15158000
+Surat,Katargam,Independent House,2651,4,4,2,2,3,Semi-Furnished,Good,15368000
+Surat,Katargam,Commercial,1200,0,4,2,3,1,Furnished,Poor,6256000
+Surat,Katargam,Commercial,2500,0,3,1,25,0,Furnished,Poor,10155000
+Surat,Katargam,Commercial,850,0,1,5,0,0,Semi-Furnished,Excellent,5846000
+Surat,Katargam,Studio,640,1,1,1,25,1,Unfurnished,Average,1726000
+Surat,Katargam,Studio,667,1,1,1,15,1,Furnished,Average,2602000
+Surat,Katargam,Studio,399,1,1,1,2,2,Semi-Furnished,Average,1613000
+Surat,Dindoli,Apartment,2540,4,4,4,0,2,Unfurnished,Poor,8383000
+Surat,Dindoli,Apartment,1344,2,1,2,25,2,Unfurnished,Poor,3228000
+Surat,Dindoli,Apartment,1452,3,2,4,15,0,Furnished,Poor,4586000
+Surat,Dindoli,Apartment,1045,2,2,4,0,1,Unfurnished,Excellent,4701000
+Surat,Dindoli,Villa,3703,6,6,1,7,2,Furnished,Excellent,24801000
+Surat,Dindoli,Villa,2721,4,4,2,3,1,Furnished,Excellent,18238000
+Surat,Dindoli,Villa,2876,5,5,2,1,1,Furnished,Excellent,19958000
+Surat,Dindoli,Villa,3390,4,4,2,0,2,Unfurnished,Average,16663000
+Surat,Dindoli,Independent House,4009,4,4,3,20,1,Furnished,Good,18023000
+Surat,Dindoli,Independent House,3422,6,6,2,3,1,Furnished,Poor,14779000
+Surat,Dindoli,Independent House,4445,5,5,1,20,1,Furnished,Poor,15968000
+Surat,Dindoli,Commercial,1800,0,2,2,7,0,Furnished,Average,8508000
+Surat,Dindoli,Commercial,4000,2,1,1,10,1,Furnished,Poor,16911000
+Surat,Dindoli,Commercial,850,0,3,2,10,1,Semi-Furnished,Excellent,4277000
+Surat,Dindoli,Studio,422,1,1,1,25,1,Furnished,Good,1330000
+Surat,Dindoli,Studio,566,1,1,1,25,3,Furnished,Good,1788000
+Surat,Dindoli,Studio,684,1,1,1,5,2,Furnished,Poor,2160000
+Surat,Udhna,Apartment,1580,3,2,3,25,0,Furnished,Excellent,5530000
+Surat,Udhna,Apartment,1403,3,3,1,1,1,Semi-Furnished,Poor,4006000
+Surat,Udhna,Apartment,998,2,1,3,20,1,Semi-Furnished,Good,2972000
+Surat,Udhna,Apartment,599,1,1,4,3,1,Furnished,Poor,2040000
+Surat,Udhna,Villa,1852,3,3,2,2,0,Furnished,Poor,7884000
+Surat,Udhna,Villa,4468,6,6,1,15,2,Unfurnished,Average,16918000
+Surat,Udhna,Villa,2277,4,4,1,7,1,Unfurnished,Good,9524000
+Surat,Udhna,Villa,2247,3,3,2,20,0,Unfurnished,Average,7675000
+Surat,Udhna,Independent House,3476,4,4,1,15,0,Unfurnished,Good,11476000
+Surat,Udhna,Independent House,3237,4,4,1,1,3,Unfurnished,Excellent,15300000
+Surat,Udhna,Independent House,2528,3,3,3,7,1,Unfurnished,Average,9254000
+Surat,Udhna,Commercial,850,2,1,4,0,2,Unfurnished,Excellent,4516000
+Surat,Udhna,Commercial,7000,0,2,1,25,2,Unfurnished,Poor,19206000
+Surat,Udhna,Commercial,2500,1,4,3,25,2,Semi-Furnished,Average,8818000
+Surat,Udhna,Studio,663,1,1,1,5,1,Furnished,Excellent,2642000
+Surat,Udhna,Studio,428,1,1,1,15,2,Semi-Furnished,Average,1117000
+Surat,Udhna,Studio,676,1,1,1,2,2,Semi-Furnished,Average,2040000
+Lucknow,Hazratganj,Apartment,633,1,1,1,15,2,Furnished,Average,5967000
+Lucknow,Hazratganj,Apartment,1360,2,2,4,10,2,Semi-Furnished,Excellent,15124000
+Lucknow,Hazratganj,Apartment,1683,3,2,4,2,3,Furnished,Average,18511000
+Lucknow,Hazratganj,Apartment,1889,4,3,4,20,2,Semi-Furnished,Good,16155000
+Lucknow,Hazratganj,Villa,3229,4,4,3,15,1,Furnished,Excellent,47647000
+Lucknow,Hazratganj,Villa,2820,4,4,3,10,2,Semi-Furnished,Average,34938000
+Lucknow,Hazratganj,Villa,2729,3,3,3,2,1,Furnished,Average,38781000
+Lucknow,Hazratganj,Villa,5177,6,6,1,10,1,Semi-Furnished,Average,59580000
+Lucknow,Hazratganj,Independent House,3669,4,4,2,25,2,Furnished,Poor,32098000
+Lucknow,Hazratganj,Independent House,1806,3,3,1,7,0,Semi-Furnished,Good,18519000
+Lucknow,Hazratganj,Independent House,3889,4,4,1,7,2,Semi-Furnished,Excellent,49696000
+Lucknow,Hazratganj,Commercial,850,2,3,3,1,2,Unfurnished,Average,9181000
+Lucknow,Hazratganj,Commercial,2500,0,4,2,20,2,Furnished,Excellent,34443000
+Lucknow,Hazratganj,Commercial,4000,1,2,1,2,2,Unfurnished,Poor,36213000
+Lucknow,Hazratganj,Studio,545,1,1,1,15,2,Semi-Furnished,Average,4058000
+Lucknow,Hazratganj,Studio,650,1,1,1,7,2,Furnished,Average,5725000
+Lucknow,Hazratganj,Studio,360,1,1,1,15,3,Furnished,Good,3351000
+Lucknow,Gomti Nagar,Apartment,688,1,1,2,25,1,Furnished,Excellent,5965000
+Lucknow,Gomti Nagar,Apartment,748,1,1,3,1,1,Furnished,Excellent,7865000
+Lucknow,Gomti Nagar,Apartment,1606,3,2,3,3,2,Semi-Furnished,Poor,11291000
+Lucknow,Gomti Nagar,Apartment,937,2,1,3,15,2,Semi-Furnished,Poor,5755000
+Lucknow,Gomti Nagar,Villa,4188,5,5,3,0,1,Furnished,Poor,45332000
+Lucknow,Gomti Nagar,Villa,2165,3,3,2,10,2,Unfurnished,Good,21498000
+Lucknow,Gomti Nagar,Villa,3048,4,4,2,10,3,Semi-Furnished,Average,32071000
+Lucknow,Gomti Nagar,Villa,3333,4,4,2,5,0,Semi-Furnished,Poor,29455000
+Lucknow,Gomti Nagar,Independent House,3636,4,4,1,2,0,Unfurnished,Poor,24771000
+Lucknow,Gomti Nagar,Independent House,2005,3,3,1,1,0,Furnished,Poor,17552000
+Lucknow,Gomti Nagar,Independent House,3908,4,4,1,2,2,Furnished,Excellent,49979000
+Lucknow,Gomti Nagar,Commercial,7000,1,1,5,1,0,Furnished,Average,76160000
+Lucknow,Gomti Nagar,Commercial,500,2,2,1,1,0,Semi-Furnished,Average,4501000
+Lucknow,Gomti Nagar,Commercial,500,2,4,3,20,1,Semi-Furnished,Average,4153000
+Lucknow,Gomti Nagar,Studio,603,1,1,1,25,3,Unfurnished,Excellent,3814000
+Lucknow,Gomti Nagar,Studio,696,1,1,1,25,0,Semi-Furnished,Average,3614000
+Lucknow,Gomti Nagar,Studio,390,1,1,1,2,1,Semi-Furnished,Average,2721000
+Lucknow,Mahanagar,Apartment,2010,3,3,2,2,1,Unfurnished,Average,13195000
+Lucknow,Mahanagar,Apartment,1577,3,2,2,10,1,Semi-Furnished,Average,10542000
+Lucknow,Mahanagar,Apartment,2604,4,3,2,1,0,Unfurnished,Excellent,20626000
+Lucknow,Mahanagar,Apartment,1820,4,4,4,0,3,Furnished,Poor,14274000
+Lucknow,Mahanagar,Villa,3626,4,4,3,1,2,Semi-Furnished,Good,39951000
+Lucknow,Mahanagar,Villa,3593,5,5,2,7,2,Furnished,Average,37553000
+Lucknow,Mahanagar,Villa,2448,4,4,2,15,2,Semi-Furnished,Excellent,26580000
+Lucknow,Mahanagar,Villa,3676,5,5,3,10,2,Unfurnished,Average,32683000
+Lucknow,Mahanagar,Independent House,5002,5,5,1,10,1,Unfurnished,Excellent,44922000
+Lucknow,Mahanagar,Independent House,2535,4,4,1,1,0,Semi-Furnished,Excellent,24852000
+Lucknow,Mahanagar,Independent House,2770,4,4,2,2,1,Furnished,Good,27709000
+Lucknow,Mahanagar,Commercial,2500,1,4,4,10,1,Semi-Furnished,Poor,18871000
+Lucknow,Mahanagar,Commercial,500,0,3,4,25,1,Unfurnished,Average,3399000
+Lucknow,Mahanagar,Commercial,7000,1,2,4,15,0,Semi-Furnished,Average,55237000
+Lucknow,Mahanagar,Studio,509,1,1,1,25,2,Furnished,Poor,2613000
+Lucknow,Mahanagar,Studio,621,1,1,1,5,1,Furnished,Good,4731000
+Lucknow,Mahanagar,Studio,415,1,1,1,7,2,Semi-Furnished,Poor,2193000
+Lucknow,Aliganj,Apartment,1111,2,1,2,7,3,Semi-Furnished,Good,8137000
+Lucknow,Aliganj,Apartment,1894,3,3,3,25,1,Furnished,Average,11752000
+Lucknow,Aliganj,Apartment,1214,2,2,3,20,0,Semi-Furnished,Average,6806000
+Lucknow,Aliganj,Apartment,700,1,1,1,15,2,Unfurnished,Good,4203000
+Lucknow,Aliganj,Villa,3586,4,4,2,3,1,Furnished,Poor,31375000
+Lucknow,Aliganj,Villa,4432,6,6,2,7,2,Semi-Furnished,Average,40484000
+Lucknow,Aliganj,Villa,4037,4,4,3,1,1,Furnished,Poor,37894000
+Lucknow,Aliganj,Villa,3295,4,4,2,3,2,Semi-Furnished,Poor,26427000
+Lucknow,Aliganj,Independent House,2442,4,4,1,10,0,Semi-Furnished,Excellent,21575000
+Lucknow,Aliganj,Independent House,3109,4,4,3,2,2,Semi-Furnished,Good,26928000
+Lucknow,Aliganj,Independent House,3030,4,4,3,25,2,Semi-Furnished,Average,20024000
+Lucknow,Aliganj,Commercial,500,1,1,1,7,2,Semi-Furnished,Good,4221000
+Lucknow,Aliganj,Commercial,1800,2,1,4,7,2,Unfurnished,Good,15393000
+Lucknow,Aliganj,Commercial,4000,0,3,3,25,2,Unfurnished,Poor,22961000
+Lucknow,Aliganj,Studio,417,1,1,1,15,0,Unfurnished,Average,1890000
+Lucknow,Aliganj,Studio,617,1,1,1,2,3,Unfurnished,Poor,3203000
+Lucknow,Aliganj,Studio,532,1,1,1,7,0,Semi-Furnished,Good,3203000
+Lucknow,Indira Nagar,Apartment,1565,3,2,4,2,2,Unfurnished,Average,10005000
+Lucknow,Indira Nagar,Apartment,706,1,1,2,0,3,Furnished,Poor,4726000
+Lucknow,Indira Nagar,Apartment,1885,4,4,2,3,1,Unfurnished,Good,11884000
+Lucknow,Indira Nagar,Apartment,2324,4,3,4,0,3,Furnished,Excellent,23612000
+Lucknow,Indira Nagar,Villa,1958,3,3,1,3,2,Semi-Furnished,Poor,15018000
+Lucknow,Indira Nagar,Villa,2585,3,3,3,2,2,Unfurnished,Average,22044000
+Lucknow,Indira Nagar,Villa,4159,6,6,2,20,2,Unfurnished,Average,29550000
+Lucknow,Indira Nagar,Villa,2902,4,4,2,10,0,Furnished,Good,27588000
+Lucknow,Indira Nagar,Independent House,4239,5,5,3,20,2,Unfurnished,Average,25492000
+Lucknow,Indira Nagar,Independent House,4689,5,5,1,3,2,Furnished,Good,44619000
+Lucknow,Indira Nagar,Independent House,3773,4,4,2,15,0,Furnished,Average,27971000
+Lucknow,Indira Nagar,Commercial,850,1,1,3,0,1,Unfurnished,Good,6953000
+Lucknow,Indira Nagar,Commercial,1800,2,3,4,10,2,Unfurnished,Excellent,16525000
+Lucknow,Indira Nagar,Commercial,1200,2,2,1,25,0,Unfurnished,Poor,6020000
+Lucknow,Indira Nagar,Studio,355,1,1,1,5,0,Semi-Furnished,Excellent,2363000
+Lucknow,Indira Nagar,Studio,640,1,1,1,2,0,Unfurnished,Good,3458000
+Lucknow,Indira Nagar,Studio,447,1,1,1,10,3,Semi-Furnished,Poor,2186000
+Lucknow,Vikas Nagar,Apartment,1680,4,4,3,2,1,Semi-Furnished,Average,9243000
+Lucknow,Vikas Nagar,Apartment,2401,4,3,2,0,0,Unfurnished,Average,12110000
+Lucknow,Vikas Nagar,Apartment,1840,3,2,1,25,2,Unfurnished,Average,7330000
+Lucknow,Vikas Nagar,Apartment,1765,3,3,4,10,2,Semi-Furnished,Average,10103000
+Lucknow,Vikas Nagar,Villa,5689,6,6,1,5,3,Semi-Furnished,Excellent,52056000
+Lucknow,Vikas Nagar,Villa,2378,4,4,1,3,3,Semi-Furnished,Poor,16835000
+Lucknow,Vikas Nagar,Villa,2970,3,3,3,15,1,Furnished,Poor,19452000
+Lucknow,Vikas Nagar,Villa,2650,3,3,2,20,1,Semi-Furnished,Good,18199000
+Lucknow,Vikas Nagar,Independent House,3925,6,6,3,7,2,Unfurnished,Excellent,29057000
+Lucknow,Vikas Nagar,Independent House,3502,4,4,3,15,3,Furnished,Excellent,29932000
+Lucknow,Vikas Nagar,Independent House,3001,5,5,1,7,1,Furnished,Excellent,25430000
+Lucknow,Vikas Nagar,Commercial,7000,2,2,1,7,2,Furnished,Average,52918000
+Lucknow,Vikas Nagar,Commercial,4000,2,2,5,2,1,Furnished,Excellent,39437000
+Lucknow,Vikas Nagar,Commercial,500,1,1,5,1,2,Unfurnished,Good,3915000
+Lucknow,Vikas Nagar,Studio,690,1,1,1,2,3,Unfurnished,Good,3544000
+Lucknow,Vikas Nagar,Studio,516,1,1,1,7,2,Semi-Furnished,Excellent,3007000
+Lucknow,Vikas Nagar,Studio,529,1,1,1,10,3,Unfurnished,Average,2370000
+Lucknow,Vrindavan Yojna,Apartment,1414,3,3,1,15,1,Unfurnished,Good,6243000
+Lucknow,Vrindavan Yojna,Apartment,1530,3,3,2,0,0,Unfurnished,Good,7657000
+Lucknow,Vrindavan Yojna,Apartment,1281,2,2,3,15,0,Semi-Furnished,Good,6420000
+Lucknow,Vrindavan Yojna,Apartment,700,1,1,4,7,1,Semi-Furnished,Excellent,4573000
+Lucknow,Vrindavan Yojna,Villa,4273,5,5,1,15,0,Semi-Furnished,Good,27118000
+Lucknow,Vrindavan Yojna,Villa,3517,4,4,3,1,2,Furnished,Good,33100000
+Lucknow,Vrindavan Yojna,Villa,4883,5,5,1,15,0,Semi-Furnished,Good,31471000
+Lucknow,Vrindavan Yojna,Villa,2360,3,3,3,1,2,Semi-Furnished,Good,18747000
+Lucknow,Vrindavan Yojna,Independent House,2926,5,5,3,15,1,Furnished,Excellent,21929000
+Lucknow,Vrindavan Yojna,Independent House,3494,4,4,1,20,2,Unfurnished,Average,16814000
+Lucknow,Vrindavan Yojna,Independent House,4405,6,6,3,0,1,Furnished,Poor,28571000
+Lucknow,Vrindavan Yojna,Commercial,850,1,4,3,2,0,Semi-Furnished,Good,5933000
+Lucknow,Vrindavan Yojna,Commercial,850,2,1,2,15,2,Unfurnished,Poor,4086000
+Lucknow,Vrindavan Yojna,Commercial,7000,2,2,4,0,1,Unfurnished,Average,44381000
+Lucknow,Vrindavan Yojna,Studio,699,1,1,1,25,2,Unfurnished,Excellent,3081000
+Lucknow,Vrindavan Yojna,Studio,409,1,1,1,1,1,Unfurnished,Average,1802000
+Lucknow,Vrindavan Yojna,Studio,659,1,1,1,25,0,Semi-Furnished,Excellent,2876000
+Lucknow,Alambagh,Apartment,2213,4,3,1,10,2,Unfurnished,Good,10160000
+Lucknow,Alambagh,Apartment,2088,4,4,3,7,2,Semi-Furnished,Average,10770000
+Lucknow,Alambagh,Apartment,951,2,2,2,3,2,Furnished,Good,5853000
+Lucknow,Alambagh,Apartment,1347,3,2,1,20,0,Unfurnished,Average,4776000
+Lucknow,Alambagh,Villa,3594,4,4,1,7,0,Furnished,Poor,21039000
+Lucknow,Alambagh,Villa,3140,4,4,2,2,1,Unfurnished,Excellent,24640000
+Lucknow,Alambagh,Villa,3506,4,4,2,3,0,Unfurnished,Excellent,25953000
+Lucknow,Alambagh,Villa,5296,6,6,1,2,2,Unfurnished,Poor,29143000
+Lucknow,Alambagh,Independent House,2505,3,3,3,10,3,Semi-Furnished,Average,15133000
+Lucknow,Alambagh,Independent House,3040,5,5,1,7,2,Unfurnished,Average,16069000
+Lucknow,Alambagh,Independent House,3135,4,4,1,2,2,Furnished,Excellent,26092000
+Lucknow,Alambagh,Commercial,850,2,2,5,20,1,Semi-Furnished,Poor,4110000
+Lucknow,Alambagh,Commercial,1800,0,1,5,1,3,Unfurnished,Poor,10190000
+Lucknow,Alambagh,Commercial,1200,1,4,3,5,2,Furnished,Good,9506000
+Lucknow,Alambagh,Studio,590,1,1,1,20,2,Semi-Furnished,Average,2227000
+Lucknow,Alambagh,Studio,396,1,1,1,15,1,Furnished,Poor,1486000
+Lucknow,Alambagh,Studio,487,1,1,1,5,1,Furnished,Average,2300000
+Lucknow,Kanpur Road,Apartment,1447,2,2,3,5,1,Semi-Furnished,Excellent,8026000
+Lucknow,Kanpur Road,Apartment,1615,3,3,3,3,3,Furnished,Good,9739000
+Lucknow,Kanpur Road,Apartment,1608,3,3,1,5,3,Unfurnished,Average,6928000
+Lucknow,Kanpur Road,Apartment,2526,4,3,3,3,2,Semi-Furnished,Good,13455000
+Lucknow,Kanpur Road,Villa,3848,5,5,2,25,0,Semi-Furnished,Poor,16766000
+Lucknow,Kanpur Road,Villa,5562,6,6,1,3,1,Semi-Furnished,Excellent,42984000
+Lucknow,Kanpur Road,Villa,4741,6,6,3,25,2,Unfurnished,Good,23280000
+Lucknow,Kanpur Road,Villa,4206,5,5,3,1,2,Semi-Furnished,Excellent,33730000
+Lucknow,Kanpur Road,Independent House,2674,4,4,1,0,0,Semi-Furnished,Poor,12468000
+Lucknow,Kanpur Road,Independent House,2452,4,4,3,10,1,Unfurnished,Poor,9813000
+Lucknow,Kanpur Road,Independent House,4130,4,4,2,5,2,Unfurnished,Average,20204000
+Lucknow,Kanpur Road,Commercial,2500,2,3,5,7,1,Unfurnished,Poor,11846000
+Lucknow,Kanpur Road,Commercial,7000,1,2,2,10,1,Furnished,Poor,38218000
+Lucknow,Kanpur Road,Commercial,2500,0,3,4,1,0,Unfurnished,Excellent,16299000
+Lucknow,Kanpur Road,Studio,585,1,1,1,25,1,Unfurnished,Average,1696000
+Lucknow,Kanpur Road,Studio,351,1,1,1,3,3,Semi-Furnished,Excellent,1861000
+Lucknow,Kanpur Road,Studio,657,1,1,1,10,2,Unfurnished,Average,2268000
+Lucknow,Rajajipuram,Apartment,665,1,1,2,10,2,Semi-Furnished,Poor,2422000
+Lucknow,Rajajipuram,Apartment,1077,2,1,3,7,0,Semi-Furnished,Excellent,5578000
+Lucknow,Rajajipuram,Apartment,1440,3,3,4,2,2,Unfurnished,Average,6027000
+Lucknow,Rajajipuram,Apartment,1529,3,3,4,25,2,Unfurnished,Average,5186000
+Lucknow,Rajajipuram,Villa,2253,3,3,2,25,1,Semi-Furnished,Excellent,12324000
+Lucknow,Rajajipuram,Villa,4365,5,5,1,10,1,Semi-Furnished,Average,22688000
+Lucknow,Rajajipuram,Villa,3051,4,4,1,25,3,Furnished,Average,16760000
+Lucknow,Rajajipuram,Villa,3818,5,5,1,1,3,Unfurnished,Poor,19076000
+Lucknow,Rajajipuram,Independent House,3360,6,6,3,5,2,Unfurnished,Good,16785000
+Lucknow,Rajajipuram,Independent House,3352,5,5,1,10,1,Unfurnished,Poor,12316000
+Lucknow,Rajajipuram,Independent House,2738,3,3,3,2,1,Furnished,Excellent,20395000
+Lucknow,Rajajipuram,Commercial,850,0,1,2,25,3,Unfurnished,Poor,3176000
+Lucknow,Rajajipuram,Commercial,7000,1,2,5,1,2,Furnished,Good,50925000
+Lucknow,Rajajipuram,Commercial,2500,0,2,2,0,1,Unfurnished,Good,13607000
+Lucknow,Rajajipuram,Studio,360,1,1,1,20,2,Unfurnished,Excellent,1302000
+Lucknow,Rajajipuram,Studio,374,1,1,1,15,1,Unfurnished,Average,1188000
+Lucknow,Rajajipuram,Studio,538,1,1,1,25,1,Semi-Furnished,Average,1612000
